@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"ವಿಡಿಯೋ ಕರೆ"</string>
+<string name="labelAudioCF">"ಆಡಿಯೋ ಕಾಲ್ ಫಾರ್ವರ್ಡ್"</string>
+<string name="labelVideoCF">"ವಿಡಿಯೋ ಕಾಲ್ ಫಾರ್ವರ್ಡ್"</string>
+<string name="sum_cft_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="labelCFT">"ಅವಧಿ ಫಾರ್ವರ್ಡ್"</string>
+<string name="start_time">"ಸಮಯ ಆರಂಭಿಸಿ"</string>
+<string name="stop_time">"ಸ್ಟಾಪ್ ಸಮಯ"</string>
+<string name="sum_cft_default_setting">"ಸ್ಥಾಪಿತವಾಗಿಲ್ಲ"</string>
+<string name="phonenumCFT_title">"ಕರೆಯ ಫಾರ್ವರ್ಡ್ ಸಂಖ್ಯೆ"</string>
+<string name="messageCFT">"ಅವಧಿ ಕಾಲ್‌ಫಾರ್ವರ್ಡ್ ಸಂಖ್ಯೆ"</string>
+<string name="ActiveUnconCf">"ಬೇಷರತ್ತಾಗಿ ಕರೆ ಮುಂಕಳುಹಲಾಗಿದೆ"</string>
+<string name="ActiveConCf">"ಷರತ್ತುಗಳಿಗನುಗುಣವಾಗಿ ಕರೆ ಮುಂದಕ್ಕೆ ಕಳುಹಿಸಲಾಗಿದೆ"</string>
+<string name="CallForwarded">"ಕರೆ ಮುಂಕಳುಹಲಾಗಿದೆ"</string>
+<string name="CallWaiting">"ಕರೆ ನಿರೀಕ್ಷಣೆಯಲ್ಲಿ"</string>
+<string name="OutCallBarred">"ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ತಡೆಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="InCallBarred">"ಒಳಬರುವ ಕರೆಗಳನ್ನು ತಡೆಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="ForwardedCall">"ಮುಂಕಳುಹಲ್ಪಟ್ಟ ಕರೆ"</string>
+<string name="CallHold">"ಕರೆ ತಡೆಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="CallRetrieved">"ಕರೆ ಮರುಪಡೆಯಲಾಗಿದೆ"</string>
+<string name="MultiCall">"ಅಧಿವೇಶನ ಕರೆ"</string>
+<string name="IncomingCallForwarded">"ಹೆಚ್ಚುವರಿ ಒಳಬರುವ ಕರೆಯನ್ನು ಮುಂಕಳುಹಲಾಗಿದೆ"</string>
+<string name="menu_add_to_contacts">"ಪೀಪಲ್ ಗೆ ಸೇರಿಸಿ"</string>
+<string name="select_link_title">"ಚಟುವಟಿಕೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="confirm_open_browser_dialog_title">"ಸಂದೇಶ"</string>
+<string name="confirm_open_browser_dialog_message">"ಅದು ಬ್ರೌಸರ್ ಅನ್ನು ತೆರೆಯುತ್ತದೆ, ಮುಂದುವರಿಯಬಹುದೆ?"</string>
+<string name="turn_off_airplane_for_ss">"ಪೂರಕ ಸೇವೆಯನ್ನು ಮಾಡಲು ದಯವಿಟ್ಟು ವಿಮಾನ ಮೋಡ್ ಅನ್ನು ಆಫ್ ಮಾಡಿ."</string>
+<string name="emergency_call">"ತುರ್ತು ಕರೆ"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ತುರ್ತು ಕರೆ ಮಾಡಲು, ದಯವಿಟ್ಟು ಮೊದಲು ಫ್ಲೈಟ್ ಮೋಡ್ ಅನ್ನು ಟರ್ನ್ಆಫ್ ಮಾಡಿ."</string>
+<string name="ip_dialing_setting">"IPಡಯಲ್ ಜೋಡಣೆ"</string>
+<string name="edit_and_save_fdn">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ"</string>
+<string name="delete_and_save_fdn">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಅಳಿಸಿಹಾಕಿ"</string>
+<string name="call_fdn_number_by_sim">"ಕರೆ ಮಾಡಿ"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT ಕರೆ"</string>
+<string name="airplane_changed_on">"ಏರ್ಪ್ಲೇನ್ ಮೋಡ್ ಅನ್ನು ಆನ್ ಮಾಡಲಾಗಿದೆ."</string>
+<string name="number_empty">"ಸಂಖ್ಯೆ ಖಾಲಿ ಇದೆ"</string>
+<string name="wait_message">"ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ..."</string>
+<string name="unblock_pin2">"ಅನ್ಲಾಕ್ PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"ನಿಮ್ಮ SIM ಅನ್ನು ಅನಿರ್ಬಂಧಿಸಲು PUK2 ಅನ್ನು ನಮೂದಿಸಿ"</string>
+<string name="pin2_Label">"PIN2(<xliff:g>%s</xliff:g> ಉಳಿದಿರುವ ಪ್ರಯತ್ನ(ಗಳು))"</string>
+<string name="oldPin2_Label">"ಹಳೆಯ PIN2(<xliff:g>%s</xliff:g> ಉಳಿದಿರುವ ಪ್ರಯತ್ನ(ಗಳು))"</string>
+<string name="puk2_code_label">"PUK2 ಕೋಡ್ (<xliff:g>%s</xliff:g>ಮುದ್ರಿಸಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನ(ಗಳು))"</string>
+<string name="promptWordOne">"ಉಳಿದ;"</string>
+<string name="promptWordTwo">";ಸಮಯ(ಗಳು)"</string>
+<string name="adn_full">"FDN ಪಟ್ಟಿಯು ತುಂಬಿದೆ"</string>
+<string name="fdn_invalid_name">"FDN ಅಪ್ ಡೇಟ್ ಮಾಡಲಾಗಿಲ್ಲ, ಏಕೆಂದರೆ, ಹೆಸರು 14 ಸ್ಥಾನಗಳನ್ನು ಮೀರುವಂತಿಲ್ಲ."</string>
+<string name="label_fdn">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"ಆರೆಂಜ್ SIM ಇಲ್ಲ, ಸಂಖ್ಯೆ ಸೀಮಿತವಾಗಿದೆ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="labelCFC">"ಎಲ್ಲಾ ಕರೆ ಫಾರ್ವರ್ಡ್ ಮಾಡುವ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಆಫ್ ಮಾಡಿ"</string>
+<string name="one_key_locked_notification">"ಈ ತರಹದ್ದು ಅನ್ಲಾಕ್ ಆಗಿದೆ; ಇದನ್ನು ಲಾಕ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?"</string>
+<string name="one_key_unlocked_notification">"ಈ ತರಹದ್ದು ಲಾಕ್ ಆಗಿದೆ; ಇದನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?"</string>
+<string name="one_key_unlocked">"ಅನ್ಲಾಕ್"</string>
+<string name="one_key_locked">"ಬೀಗ"</string>
+<string name="one_key_operation_success">"ಕಾರ್ಯಾಚರಣೆ ಯಶಸ್ವಿಯಾಗಿದೆ."</string>
+<string name="one_key_operation_unsuccess">"ಕಾರ್ಯಾಚರಣೆ ವಿಫಲವಾಯಿತು; ನೀವು ಪುನಃ ಪ್ರಯತ್ನಿಸಬಹುದು!"</string>
+<string name="one_key_query_unsuccess">"simlock ಬಗೆಯ ಬಗ್ಗೆ ಕ್ವೇರಿಯು ವಿಫಲವಾಗಿದೆ! "</string>
+<string name="one_key_simlock_setting">"SIMLOCK ಸಂಯೋಜನೆ"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"ನೆಟ್ವರ್ಕ್ ಲಾಕ್"</item>
+<item>"NetworkSubset ಲಾಕ್"</item>
+<item>"ಸೇವೆ ಒದಗಿಸುವವರ ಲಾಕ್"</item>
+<item>"ಸಂಸ್ಥೆಯ ಲಾಕ್"</item>
+<item>"SIM ಲಾಕ್"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ಸಾಧನ ಮಾಲೀಕರಿಂದ ಮಾತ್ರ ತುರ್ತು ಕರೆಗಳನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ."</string>
+<string name="change_pin_when_double_sim_card_info">"ತುರ್ತು ಡಯಲರ್ SIM 1 ರ ಪಿನ್ ಕೋಡ್ ಅನ್ನು ಮಾತ್ರ ಮಾರ್ಪಡಿಸಬಹುದು."</string>
+<string name="volte_not_supported_error">"SIM ಕಾರ್ಡ್ VoLTE ಸೇವೆಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ, ದಯವಿಟ್ಟು VoLTE ಸ್ವಿಚ್ ಆಫ್ ಮಾಡಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="no_available_phone_accounts">"ಲಭ್ಯವಿರುವ ಕಾಲಿಂಗ್ ಅಕೌಂಟ್‌ಗಳಿಲ್ಲ"</string>
+<string name="enhanced_4g_lte_unuseable">"ಪ್ರಸ್ತುತ VoLTE ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಯಾವುದೇ ಸೇವೆ ಇಲ್ಲ, VoLTE HD ಕರೆಗಳನ್ನು ಆಫ್ ಮಾಡಬೇಕೆ?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ವೀಡಿಯೊ ಕರೆ ಆನ್ ಮಾಡಲು, ನೀವು ನೆಟ್‌ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ%s ಮೋಡ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬೇಕಾಗಿದೆ."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"ಸುಧಾರಿತ ಕರೆ"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G ಕಾಲಿಂಗ್"</string>
+</resources>

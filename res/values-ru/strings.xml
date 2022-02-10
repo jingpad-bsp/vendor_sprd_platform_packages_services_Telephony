@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="throttle_time_frame_subtext">"<xliff:g id="used">%1$d</xliff:g>\u066Aцикл завершён\nСледующий период начинается через <xliff:g id="used">%2$d</xliff:g> дней(<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="blocked_call_notification">"Заблокированный вызов"</string>
+</resources>

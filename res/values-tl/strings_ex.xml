@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Tawag na Video</string>
+<string name="labelAudioCF">"Awdyo na tawag naisulong"</string>
+<string name="labelVideoCF">"Bidyong tawag naisulong"</string>
+<string name="sum_cft_disabled">Di-gumagana</string>
+<string name="labelCFT">"Katagalan ng pagpasa"</string>
+<string name="start_time">"Oras ng pagsisimula"</string>
+<string name="stop_time">"oras ng paghinto"</string>
+<string name="sum_cft_default_setting">"Hindi naitakda"</string>
+<string name="phonenumCFT_title">"numero ng tawag na pinasa"</string>
+<string name="messageCFT">"Numero ng katagalan sa pinasa na tawag"</string>
+<string name="ActiveUnconCf">"Tawag maipasa ng walang pasubali"</string>
+<string name="ActiveConCf">"Tawag maipasa ng may pasubali"</string>
+<string name="CallForwarded">"Tawag naipasa"</string>
+<string name="CallWaiting">"Call waiting"</string>
+<string name="OutCallBarred">"Palabas na tawag nahadlangan"</string>
+<string name="InCallBarred">"Paparating na tawag ang nahadlangan"</string>
+<string name="ForwardedCall">"Naipasang tawag"</string>
+<string name="CallHold">"Tawag ay pinigilan"</string>
+<string name="CallRetrieved">"Tawag na nabawi"</string>
+<string name="MultiCall">"Pagtitipon na tawag"</string>
+<string name="IncomingCallForwarded">"Karagdagang papasok na tawag naipasa" </string>
+<string name="menu_add_to_contacts">"Idagdag sa Mga Tao"</string>
+<string name="select_link_title">"Piliin ang aksyon"</string>
+<string name="confirm_open_browser_dialog_title">Mensahe</string>
+<string name="confirm_open_browser_dialog_message">"Ito ay magbubukas sa brawser, patuloy?" </string>
+<string name="turn_off_airplane_for_ss">"Para magamit ang Pandagdag na Serbisyo, paki-off muna ang airplane mode."</string>
+<string name="emergency_call">"Emergency na tawag"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Para gumawa ng emergency na tawag, paki-off muna ang flight mode."</string>
+<string name="ip_dialing_setting">"Mga itinakda sa IP Dial"</string>
+<string name="edit_and_save_fdn">"I-edit ang fixed dialing number"</string>
+<string name="delete_and_save_fdn">"I-delete ang fixed dialing number"</string>
+<string name="call_fdn_number_by_sim">"Tawag"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT Tawag"</string>
+<string name="airplane_changed_on">"Na-on ang airplane mode."</string>
+<string name="number_empty">"Numero walang laman"</string>
+<string name="wait_message">Pakihintay...</string>
+<string name="unblock_pin2">"I-unblock ang PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Ilagay ang PUK2 para ma-unblock ang SIM mo"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> naiwang pagsubok(s))"</string>
+<string name="oldPin2_Label">"Luma PIN2 (<xliff:g>%s</xliff:g> naiwang pagsubok(s))"</string>
+<string name="puk2_code_label">"Isulat Kodigo PUK2 code (<xliff:g>%s</xliff:g> naiwang pagsubok(s))"</string>
+<string name="promptWordOne">"Natitira&#160;"</string>
+<string name="promptWordTwo">"&#160;(na) beses"</string>
+<string name="adn_full">"FDN listahan ay puno"</string>
+<string name="fdn_invalid_name">"FDN ay hindi na-apdeyt dahil ang pangalan ay maaaring  lumampas sa 14 na bilang"</string>
+<string name="label_fdn">"Mga Fixed Dialing Number"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Walang Orange SIM, limitado ang numero, pakisubukan ulit."</string>
+<string name="labelCFC">"I-off ang lahat ng feature ng pagpapasa ng tawag"</string>
+<string name="one_key_locked_notification">"Ang uri na ito ay naka-DI-SARADO, Gusto mo bang isasara ito?"</string>
+<string name="one_key_unlocked_notification">"Ang uri na ito ay naka-SARADO, Gusto mo bang i-di-sarado ito?"</string>
+<string name="one_key_unlocked">"I-unlock"</string>
+<string name="one_key_locked">"I-LOCK"</string>
+<string name="one_key_operation_success">"Matagumpay ang operasyon."</string>
+<string name="one_key_operation_unsuccess">"Ang operasyon ay hindi matagumpay, pwede mong subukan ulit!"</string>
+<string name="one_key_query_unsuccess">"Ang Query simlock na uri ay bigo!"</string>
+<string name="one_key_simlock_setting">"Seting ng SIMLOCK"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Seradura ng Network"</item>
+<item>"Seradura ng bahagi ng Network"</item>
+<item>"Seradura ng Service Provider"</item>
+<item>"Seradura ng Korporeyt"</item>
+<item>"Nakasarado na SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Mga emergency na tawag lang ang pinapahintulutan ng may-ari ng device."</string>
+<string name="change_pin_when_double_sim_card_info">"Ang PIN code lang ng SIM1 ang mababago ng dialer na pang-emergency."</string>
+<string name="volte_not_supported_error">"Puwedeng hindi sinusuportahan ng SIM card ang serbisyo ng VoLTE, paki-off ang switch ng VoLTE at subukan ulit."</string>
+<string name="no_available_phone_accounts">"Walang bakanteng pantawag na mga account"</string>
+<string name="enhanced_4g_lte_unuseable">"Walang serbisyo ang kasalukuyang VoLTE network, i-off ang mga VoLTE HD na tawag?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Para ma-on ang pakikipag-video call, kailangan mong i-enable ang %s mode sa mga setting ng network."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Advanced na Pagtawag"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Pagtawag sa Pamamagitan ng 4G"</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"भिडियो कल"</string>
+<string name="labelAudioCF">"अडियो कल फर्वार्ड गर्ने"</string>
+<string name="labelVideoCF">"भिडियो कल फर्वार्ड गर्ने"</string>
+<string name="sum_cft_disabled">"अक्षम गरिएको"</string>
+<string name="labelCFT">"फर्वार्डको "</string>
+<string name="start_time">"सुरु हुने मिति"</string>
+<string name="stop_time">"स्टप टाइम"</string>
+<string name="sum_cft_default_setting">"सेट गरेको छैन"</string>
+<string name="phonenumCFT_title">"कल फर्वार्ड गर्ने नम्बर"</string>
+<string name="messageCFT">"कल फर्वार्डको अवधिको संख्या"</string>
+<string name="ActiveUnconCf">"कल फर्वार्डमा कुनै सर्त तोकिएको छैन"</string>
+<string name="ActiveConCf">"कल फर्वार्डमा सर्त तोकिएको छ"</string>
+<string name="CallForwarded">"कल फरवार्ड गरियो"</string>
+<string name="CallWaiting">"कलको प्रतीक्षा"</string>
+<string name="OutCallBarred">"आउटगोइङ कल रोकिएको छ"</string>
+<string name="InCallBarred">"इनकमिङ कल रोकिएको छ"</string>
+<string name="ForwardedCall">"फर्वार्ड गरिएको कल"</string>
+<string name="CallHold">"कल होल्ड गरिएको छ"</string>
+<string name="CallRetrieved">"कल पुन: प्राप्त गरियो"</string>
+<string name="MultiCall">"सम्मेलन कल"</string>
+<string name="IncomingCallForwarded">"थप इनकमिङ कललाई फरवार्ड गरियो"</string>
+<string name="menu_add_to_contacts">"सम्पर्कहरूमा थप्नुहोस्"</string>
+<string name="select_link_title">"कार्य छनौट गर्नुहोस्"</string>
+<string name="confirm_open_browser_dialog_title">"न्देश"</string>
+<string name="confirm_open_browser_dialog_message">"यसले ब्राउजरमा खोल्नेछ, जारी राख्ने हो?"</string>
+<string name="turn_off_airplane_for_ss">"पूरक सेवा बनाउनको लागि कृपया हवाइजहाज मोड बन्द गर्नुहोस् ।"</string>
+<string name="emergency_call">"आपतकालीन कल"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"आपतकालीन कल गर्न कृपया पहिले हवाइजहाज मोडलाई अफ गर्नुहोस्।"</string>
+<string name="ip_dialing_setting">"IP डायल सम्बन्धी सेटिङ"</string>
+<string name="edit_and_save_fdn">"निश्चित डायल गर्ने नम्बर सम्पादन गर्नुहोस्"</string>
+<string name="delete_and_save_fdn">"निश्चित डायल गर्ने नम्बर मेट्नुहोस्"</string>
+<string name="call_fdn_number_by_sim">"कल गर्नुहोस्"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT कल"</string>
+<string name="airplane_changed_on">"हवाइजहाज मोड खोलियो।"</string>
+<string name="number_empty">"नम्बर खाली छ"</string>
+<string name="wait_message">"कृपया पर्खनुहोस..."</string>
+<string name="unblock_pin2">"PIN2 लाई अनब्लक गर्नुहोस्"</string>
+<string name="sum_fdn_unblock_pin2">"तपाईंको SIM अनब्लक गर्न PUK2 प्रविष्ट गर्नुहोस्"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> बाँकी प्रयास(हरू))"</string>
+<string name="oldPin2_Label">"पुरानो PIN2 (<xliff:g>%s</xliff:g> बाँकी प्रयास(हरू))"</string>
+<string name="puk2_code_label">"PUK2 कोड टाइप गर्नुहोस् (<xliff:g>%s</xliff:g> बाँकी प्रयास(हरू))"</string>
+<string name="promptWordOne">"बाँकी:"</string>
+<string name="promptWordTwo">":समय(हरु)"</string>
+<string name="adn_full">"FDN को सूची भरिएको छ"</string>
+<string name="fdn_invalid_name">"नाममा १४ वर्णभन्दा बढी समावेश गर्न नसकिने हुनाले FDN अपडेट भएन।"</string>
+<string name="label_fdn">"फिक्स्ड डायलिङका नम्बरहरू"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"त्यहाँ कुनै Orange SIM छैन, नम्बर सीमित छ, कृपया फेरि प्रयास गर्नुहोस् ।"</string>
+<string name="labelCFC">"सबै कल फर्वार्डिंग सुविधाहरू बन्द गर्नुहोस्"</string>
+<string name="one_key_locked_notification">"यो प्रकार अनलक गरिएको छ, के तपाईं यसलाई लक गर्न चाहनुहुन्छ?"</string>
+<string name="one_key_unlocked_notification">"यो प्रकार लक गरिएको छ, के तपाईं यसलाई अनलक गर्न चाहनुहुन्छ?"</string>
+<string name="one_key_unlocked">"अनलक"</string>
+<string name="one_key_locked">"लक"</string>
+<string name="one_key_operation_success">"संचालन सफल भयो।"</string>
+<string name="one_key_operation_unsuccess">"कारबाही असफल भयो,तपाईं फेरि प्रयास गर्न सक्नुहुन्छ!"</string>
+<string name="one_key_query_unsuccess">"Sim लक गर्न सकिएन!"</string>
+<string name="one_key_simlock_setting">"SIM लक गर्ने सम्बन्धी सेटिङहरू"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"नेटवर्क सम्बन्धी लक"</item>
+<item>"नेटवर्क सबसेटको लक"</item>
+<item>"सेवा प्रदायकको लक"</item>
+<item>"संस्थागत लक"</item>
+<item>"SIM लक"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"यन्त्र मालिकद्वारा आकस्मिक कलहरूलाई मात्र अनुमति दिइन्छ।"</string>
+<string name="change_pin_when_double_sim_card_info">"आपतकालीन डायलरले SIM1 को PIN कोड मात्र परिमार्जन गर्न सक्दछ ।"</string>
+<string name="volte_not_supported_error">"SIM कार्डले VoLTE सेवा समर्थन गर्दैन, कृपया VoLTE स्विचलाई बन्द गर्नुहोस् र फेरि प्रयास गर्नुहोस् ।"</string>
+<string name="no_available_phone_accounts">"कल गर्ने कुनै खाता उपलब्ध छैन"</string>
+<string name="enhanced_4g_lte_unuseable">"हाल VoLTE नेटवर्कमा कुनै सेवा छैन, के VoLTE HD कल बन्द गर्नुहुन्छ ?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"भिडियो कल खोल्नको लागि, तपाईले नेटवर्क सेटिंगमा %s मोड सक्षम गर्नुपर्छ ।"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"उन्नत कलिङ"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G कलिंग"</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="throttle_status_subtext">"時段上限為 <xliff:g id="used">%3$s</xliff:g>，當前值為 <xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A)\n下一個時段從 <xliff:g id="used">%4$d</xliff:g> 天后 (<xliff:g id="used">%5$s</xliff:g>) 開始"</string>
+<string name="blocked_call_notification">"封鎖電話"</string>
+</resources>

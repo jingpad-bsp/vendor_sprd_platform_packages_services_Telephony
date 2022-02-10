@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"වීඩියෝ ඇමතුම"</string>
+<string name="labelAudioCF">"ශ්‍රව්‍ය ඇමතුම ප්‍රතියොමු කිරීම"</string>
+<string name="labelVideoCF">"වීඩියෝ ඇමතුම ප්‍රතියොමු කිරීම"</string>
+<string name="sum_cft_disabled">"අක්‍රීය කර ඇත"</string>
+<string name="labelCFT">"කාල පරාසය ප්‍රතියොමු කිරීම"</string>
+<string name="start_time">"ආරම්භක වේලාව"</string>
+<string name="stop_time">"නතර කරන වේලාව"</string>
+<string name="sum_cft_default_setting">"පිහිටුවා නැත"</string>
+<string name="phonenumCFT_title">"ඇමතුම ප්‍රතියොමු කිරීමේ අංකය"</string>
+<string name="messageCFT">"ඇමතුම ප්‍රතියොමු කිරීමේ කාල පරාස වාර ගණන"</string>
+<string name="ActiveUnconCf">"කොන්දේසිගත නොවන ඇමතුම ප්‍රතියොමු කරන ලදී"</string>
+<string name="ActiveConCf">"කොන්දේසිගත ඇමතුම ප්‍රතියොමු කරන ලදී"</string>
+<string name="CallForwarded">"ඇමතුම ප්‍රතියොමු කරන ලදී"</string>
+<string name="CallWaiting">"ඇමතුම රැඳීම"</string>
+<string name="OutCallBarred">"යන ඇමතුම අවහිර කරන ලදී"</string>
+<string name="InCallBarred">"එන ඇමතුම අවහිර කරන ලදී"</string>
+<string name="ForwardedCall">"ඇමතුම ප්‍රතියොමු කරන ලදී"</string>
+<string name="CallHold">"ඇමතුම රඳවා ගන්නා ලදී"</string>
+<string name="CallRetrieved">"ඇමතුම යළි ලබා ගන්නා ලදී"</string>
+<string name="MultiCall">"සම්මන්ත්‍රණ ඇමතුම"</string>
+<string name="IncomingCallForwarded">"අමතර එන ඇමතුම ප්‍රතියොමු කරන ලදී"</string>
+<string name="menu_add_to_contacts">"පුද්ගලයන්ට එක් කරන්න"</string>
+<string name="select_link_title">"ක්‍රියාකාරකම තෝරන්න"</string>
+<string name="confirm_open_browser_dialog_title">"පණිවිඩය"</string>
+<string name="confirm_open_browser_dialog_message">"එය බ්‍රවුසරය විවෘත කරනු ඇත, දිගටම කර ගෙන යන්නද?"</string>
+<string name="turn_off_airplane_for_ss">"අතිරේක සේවා සැපයීමට කරුණාකර ගුවන්යානා මාදිලිය ක්‍රියා විරහිත කරන්න."</string>
+<string name="emergency_call">"හදිසි ඇමතුම"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"හදිසි ඇමතුම් ලබාගැනීම සඳහා,කරුණාකර ගුවන් ප්‍රකාරය ඉවත් කරන්න."</string>
+<string name="ip_dialing_setting">"IP ඩයල් කිරීමේ සැකසීම"</string>
+<string name="edit_and_save_fdn">"නියමිත ඩයල් කිරීමේ අංකය වෙනස් කරන්න"</string>
+<string name="delete_and_save_fdn">"නියමිත ඩයල් කිරීමේ අංකය මකන්න"</string>
+<string name="call_fdn_number_by_sim">"අමතන්න"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT ඇමතුම"</string>
+<string name="airplane_changed_on">"ගුවන් යානා මාදිලිය ඔන් කර ඇත."</string>
+<string name="number_empty">"අංකය හිස්ය"</string>
+<string name="wait_message">"කරුණාකර රැඳීසිටින්න..."</string>
+<string name="unblock_pin2">"PIN2 අවහිර නොකරන්න"</string>
+<string name="sum_fdn_unblock_pin2">"ඔබේ SIM අගුළු හැරීමට PUK2 ඇතුළු කරන්න"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> ඉතිරි උත්සාහය(න්))"</string>
+<string name="oldPin2_Label">"පැරණි PIN2 (<xliff:g>%s</xliff:g> ඉතිරි උත්සාහය(න්))"</string>
+<string name="puk2_code_label">"PUK2 කේත වර්ගය (<xliff:g>%s</xliff:g> ඉතිරි උත්සාහය(න්))"</string>
+<string name="promptWordOne">"ඉතිරිව ඇත "</string>
+<string name="promptWordTwo">" වරක්"</string>
+<string name="adn_full">"FDN ලැයිස්තුව පිරී ඇත"</string>
+<string name="fdn_invalid_name">"නම ඉලක්කම් 14කට වඩා ඉක්මවිය නොහැකි නිසා FDN යාවත්කාලීන නොවීය."</string>
+<string name="label_fdn">"ස්ථිර ඇමතුම් අංක"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Orange SIM නොමැති අතර, අංකය සීමා කර තිබේ, කරුණාකර නැවත උත්සාහ කරන්න."</string>
+<string name="labelCFC">"සියලු ඇමතුම් යොමු කිරීමේ විශේෂාංග ක්‍රියා විරහිත කරන්න"</string>
+<string name="one_key_locked_notification">"මෙම වර්ගය අගුලු හැර ඇත, ඔබට එය අගුලු දැමීමට අවශ්‍යද?"</string>
+<string name="one_key_unlocked_notification">"මෙම වර්ගය අගුලු දමා ඇත, ඔබට එය අගුලු හැරීමට අවශ්‍යද?"</string>
+<string name="one_key_unlocked">"බාධා හරින්න"</string>
+<string name="one_key_locked">"අගුළු දමන්න"</string>
+<string name="one_key_operation_success">"මෙහෙයුම සාර්ථක විය."</string>
+<string name="one_key_operation_unsuccess">"මෙහෙයුම අසාර්ථකයි,ඔබට නැවත උත්සාහ කිරීමට හැකිය!"</string>
+<string name="one_key_query_unsuccess">"විමසුම simlock වර්ගය අසාර්ථක විය!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK සැකසීම"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"ජාල අගුල"</item>
+<item>"NetworkSubset අගුල"</item>
+<item>"ServiceProvider අගුල"</item>
+<item>"සමාගම් අගුල"</item>
+<item>"SIM අගුල"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"උපකරණ අයිතිකරු මගින් හදිසි ඇමතුම් වලට  පමණක් ඉඩ දී ඇත."</string>
+<string name="change_pin_when_double_sim_card_info">"හදිසි අවස්ථා ඩයලරයට වෙනස් කළ හැක්කේ SIM1 හි PIN කේතය පමණි."</string>
+<string name="volte_not_supported_error">"SIM කාඩ්පත VoLTE සේවාවට ආධාරක නොවනු ඇත, කරුණාකර VoLTE ක්‍රියා විරහිත කර නැවත උත්සාහ කරන්න."</string>
+<string name="no_available_phone_accounts">"ලබා ගත හැකි ඇමතුම් ගිණුම් නැත"</string>
+<string name="enhanced_4g_lte_unuseable">"වත්මන් VoLTE ජාලයේ සේවාවක් නැත, VoLTE HD ඇමතුම් ක්‍රියා විරහිත කළ යුතුද?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"වීඩියෝ ඇමතුම ක්‍රියාත්මක කිරීමට, ඔබ විසින් ජාල සැකසුම් තුළ %s ඇමතුම් සක්‍රිය කළ යුතු වේ."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"උසස් ඇමතුම්"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G ඇමතුම"</string>
+</resources>

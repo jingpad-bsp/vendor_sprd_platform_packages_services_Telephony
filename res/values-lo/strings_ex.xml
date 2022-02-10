@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"ການໂທຜ່ານວິດີໂອ"</string>
+<string name="labelAudioCF">"ໂອນ​ສາຍ​ໂທ​ສ​ຽງ"</string>
+<string name="labelVideoCF">"ໂອນ​ສາຍ​ໂທ​ວິ​ດີ​ໂອ"</string>
+<string name="sum_cft_disabled">"ປິດໃຊ້ແລ້ວ"</string>
+<string name="labelCFT">"ໂອນ​ສາຍ​ໃນ​ເວ​ລາ​ທີ່​ກຳ​ໜົດ"</string>
+<string name="start_time">​ເວ​ລາເລິ່ມ​ຕົ້ນ</string>
+<string name="stop_time">"ເວ​ລາ​ສີ້ນ​ສຸດ"</string>
+<string name="sum_cft_default_setting">"ຍັງບໍ່ໄດ້ຕັ້ງ"</string>
+<string name="phonenumCFT_title">"ໝາຍ​ເລກ​ໂທ​ສົ່ງ​ຕໍ່"</string>
+<string name="messageCFT">"ໝາຍ​ເລກ​ຂອງການໂອນ​ສາຍ​ໃນ​ເວ​ລາ​ທີ່​ກຳ​ໜົດ"</string>
+<string name="ActiveUnconCf">"​ສາຍ​ສົ່ງ​ຕໍ່​ບໍ່​ມີ​ເງື່ອນ​ໄຂ"</string>
+<string name="ActiveConCf">"ສາຍ​ສົ່ງ​ຕໍ່ມີ​ເງື່ອນ​ໄຂ"</string>
+<string name="CallForwarded">"ສາຍ​ສົ່ງ​ຕໍ່"</string>
+<string name="CallWaiting">"ກຳລັງລໍຖ້າສາຍ"</string>
+<string name="OutCallBarred">"ຫ​ຍຸດ​ການ​ໂທ​ອອກ"</string>
+<string name="InCallBarred">"ຫ​ຍຸດ​ການ​ໂທ​ເຂົ້າ"</string>
+<string name="ForwardedCall">"ໂທ​ສົ່ງ​ຕໍ່"</string>
+<string name="CallHold">"ຖື​ສາຍ"</string>
+<string name="CallRetrieved">"ການ​ໂທ​ຖືກ​ເປີດ​ໃຊ້​ງານ"</string>
+<string name="MultiCall">"ການໂທປະຊຸມສາຍ"</string>
+<string name="IncomingCallForwarded">"ອີກ​ສາຍ​ໜຶ່ງ​ຖືກ​ສົ່ງ​ຕໍ່"</string>
+<string name="menu_add_to_contacts">"ເພີ່ມ​ເຂົ້າ​ໃນ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="select_link_title">"ເລືອກການດໍາເນີນການ"</string>
+<string name="confirm_open_browser_dialog_title">"ຂໍ້ຄວາມ"</string>
+<string name="confirm_open_browser_dialog_message">"ຕ້ອງ​ການ​ເປີດບ​ຣາວ​ເຊີ?"</string>
+<string name="turn_off_airplane_for_ss">"ເພື່ອໃຊ້ບໍລິການເສີມ, ກະລຸນາປິດໂໝດເຄື່ອງບິນກ່ອນ."</string>
+<string name="emergency_call">"ໂທສຸກເສີນ"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ເພື່ອໂທສຸກເສີນ, ກະລຸນາປິດໂໝດຍົນກ່ອນ. "</string>
+<string name="ip_dialing_setting">"ກຳໜົດຄ່າໂທIP"</string>
+<string name="edit_and_save_fdn">"ແກ້ໄຂໝາຍເລກໂທອອກທີ່ຕັ້ງໄວ້"</string>
+<string name="delete_and_save_fdn">"ລຶບໝາຍເລກໂທອອກທີ່ຕັ້ງໄວ້"</string>
+<string name="call_fdn_number_by_sim">"ສາຍໂທ"</string>
+<string name="vt_call_fdn_numberr_by_sim">"ໂທວິ​ດີ​ໂອ"</string>
+<string name="airplane_changed_on">"ເປີດໂໝດເຄື່ອງບິນຢູ່."</string>
+<string name="number_empty">"ໝາຍ​ເລກ​ເປົ່າ​ວ່າງ"</string>
+<string name="wait_message">ກະ​ລຸ​ນາ​ລໍ​ຖ້າ…</string>
+<string name="unblock_pin2">"ປົດ​ລອ໊ກ PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"ປ້ອນ PUK2 ເພື່ອປົດລັອກ SIM ຂອງທ່ານ"</string>
+<string name="pin2_Label">"PIN2 (ຍັງ​ເຫລືອ<xliff:g>%s</xliff:g> ​ຄັ້ງ)"</string>
+<string name="oldPin2_Label">" PIN2ເກົ່າ (​ຍັງ​ເຫລືອ<xliff:g>%s</xliff:g> ​ຄັ້ງ)"</string>
+<string name="puk2_code_label">"ປ້ອນ​ລະ​ຫັດ PUK2 (ຍັງ​ເຫລືອ<xliff:g>%s</xliff:g> ​ຄັ້ງ)"</string>
+<string name="promptWordOne">"ຍັງເຫຼືອ "</string>
+<string name="promptWordTwo">" ຄັ້ງ"</string>
+<string name="adn_full">"ລາຍ​ການ FDN ​ເຕັມ"</string>
+<string name="fdn_invalid_name">​"ໝາຍ​ເລກ​ຄົ້ງ​ທີ່ບໍ່​ໄດ້​ອັບ​ເດດ ເນື່ອງ​ຈາກ​ຊື່ບໍ່​ສາ​ມາດ​ຫລາຍ​ກ່​ວາ14ຕົວ​"</string>
+<string name="label_fdn">"ເບີໂທທີ່ໂທອອກ "</string>
+<string name="notification_channel_fdn">"FDN  "</string>
+<string name="number_limited_message">"ບໍ່ມີ Orange SIM, ເບີຖືກຈຳກັດ, ກະລຸນາລອງໃໝ່."</string>
+<string name="labelCFC">"ປິດຄຸນສົມບັດຂອງການໂອນສາຍທັງໝົດ"</string>
+<string name="one_key_locked_notification">"ປະ​ເພດ​ນີ້​ປົດລອ໊ກ​ແລ້ວ ຕ້ອງ​ການ​ລອ໊ກ​ມັນ​ບໍ່?"</string>
+<string name="one_key_unlocked_notification">"ປະ​ເພດ​ນີ້​ລອ໊ກ​ແລ້ວ ຕ້ອງ​ການ​​ປົດລອ໊ກ​ມັນ​ບໍ່?"</string>
+<string name="one_key_unlocked">"ປົດລັອກ"</string>
+<string name="one_key_locked">"ລັອກ"</string>
+<string name="one_key_operation_success">"ການດໍາເນີນການສໍາເລັດແລ້ວ."</string>
+<string name="one_key_operation_unsuccess">"ປະ​ຕິ​ບັດ​ການ​ລົ້ມ​ເຫລວ ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ພາຍ​ຫລັງ"</string>
+<string name="one_key_query_unsuccess">"ສອບ​ຖາມປະ​ເພດ simlockລົ້ມ​ເຫລວ"</string>
+<string name="one_key_simlock_setting">"ການກ​ກຳ​ໜົດ​ຄ່າ SIMLOCK"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"ເຄືອ​ຂ່າຍ​ລອ໊ກ"</item>
+<item>"ເຄືອ​ຂ່າຍ​ລູກ​ລອ໊ກ"</item>
+<item>"ຜູ້​ສະ​ໜອງກ​ການ​ບໍ​ລິ​ການ​ລ​ອ໊ກ"</item>
+<item>"ຜູ້​ຮ່ວມ​ມື​ລອ໊ກ"</item>
+<item>"SIM ລອ໊ກ"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ການໂທຫາສຸກເສີນເທົ່ານັ້ນທີ່ໄດ້ຮັບອະນຸຍາດໂດຍເຈົ້າຂອງອຸປະກອນ. "</string>
+<string name="change_pin_when_double_sim_card_info">"ການໂທອອກເຫດສຸກເສີນສາມາດແກ້ໄຂໄດ້ສະເພາະລະຫັດ PIN ຂອງ SIM1 ເທົ່ານັ້ນ."</string>
+<string name="volte_not_supported_error">"ແຜ່ນ SIM ອາດຈະບໍ່ຮອງຮັບບໍລິການ VoLTE, ກະລຸນາປິດປຸ່ມ VoLTE ແລະ ລອງໃໝ່."</string>
+<string name="no_available_phone_accounts">"ບໍ່​ມີ​ບັນ​ຊີ​ທີ່​ສາ​ມາດ​ໃຊ້​ງານ​ໄດ້"</string>
+<string name="enhanced_4g_lte_unuseable">"ເຄືອຂ່າຍ VoLTE ປະຈຸບັນບໍ່ມີບໍລິການ, ຈະປິດການໂທ VoLTE HD ຫຼືບໍ່?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ເພື່ອເປີດການໂທຜ່ານວິດີໂອ, ທ່ານຈະຕ້ອງເປີດໃຊ້ງານໂໝດ %s ໃນການຕັ້ງຄ່າເຄືອຂ່າຍ."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"ການໂທແບບທັນສະໄໝ "</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"ການໂທຜ່ານ 4G"</string>
+</resources>

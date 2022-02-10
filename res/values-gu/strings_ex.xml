@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"વિડિયો કોલ"</string>
+<string name="labelAudioCF">"ઓડિયો કૉલ મોકલો"</string>
+<string name="labelVideoCF">"વીડિયો કૉલ મોકલો"</string>
+<string name="sum_cft_disabled">નિષ્ક્રીય છે</string>
+<string name="labelCFT"> "સમયગાળો ફૉરવર્ડ"</string>
+<string name="start_time">શરૂનો સમય</string>
+<string name="stop_time">"થોભવાનો સમય"</string>
+<string name="sum_cft_default_setting">સેટ થયેલ નથી</string>
+<string name="phonenumCFT_title">"કૉલ ફૉરવર્ડ નંબર"</string>
+<string name="messageCFT">"સમયગાળા કૉલ ફોરવર્ડની સંખ્યા "</string>
+<string name="ActiveUnconCf">બીનશરતી કોલ રવાનગી</string>
+<string name="ActiveConCf">શરતી કોલ રવાનગી</string>
+<string name="CallForwarded">રવાનગી થયેલ કોલ</string>
+<string name="CallWaiting">કોલ પ્રતિક્ષા</string>
+<string name="OutCallBarred">"જાવક કોલ પ્રતિબંધ"</string>
+<string name="InCallBarred">"ઇનકમીંગ કૉલ અવરોધાયો"</string>
+<string name="ForwardedCall">રવાનગી થયેલ કોલ</string>
+<string name="CallHold">"કોલ હેલ્ડ થઇ ગયો છે. "</string>
+<string name="CallRetrieved">"પુનઃપ્રાપ્ત થયેલ કોલ"</string>
+<string name="MultiCall">કોન્ફરન્સ કોલ</string>
+<string name="IncomingCallForwarded">"અધિક આવક કોલ આગળ રવાના થયા"</string>
+<string name="menu_add_to_contacts">પીપલમાં ઉમેરો </string>
+<string name="select_link_title">ક્રિયા પસંદ કરો</string>
+<string name="confirm_open_browser_dialog_title">સંદેશ</string>
+<string name="confirm_open_browser_dialog_message">તે બ્રાઉઝર ખોલશે, ચાલુ રાખવું છે?</string>
+<string name="turn_off_airplane_for_ss">"પૂરક સેવાઓ પ્રાપ્ત કરવા માટે કૃપા કરીને એરપ્લેન મૉડને બંધ કરો"</string>
+<string name="emergency_call">ઇમરજન્સી કોલ</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ઈમર્જન્સિ કોલ કરવા, કૃપા કરી ફ્લાઈટ મોડ સૌ પ્રથમ બંધ કરો."</string>
+<string name="ip_dialing_setting">"IP ડાયલ સેટિંગ"</string>
+<string name="edit_and_save_fdn">ફિક્સ્ડ ડાયલીંગ નંબર સંપાદિત કરો</string>
+<string name="delete_and_save_fdn">ફિક્સ્ડ ડાયલીંગ નંબર ભૂસો</string>
+<string name="call_fdn_number_by_sim">કોલ</string>
+<string name="vt_call_fdn_numberr_by_sim">VT કોલ</string>
+<string name="airplane_changed_on">"એરપ્લેન મોડ ચાલુ કરેલ છે."</string>
+<string name="number_empty">"સંખ્યા ખાલી છે"</string>
+<string name="wait_message">કૃપા કરી પ્રતીક્ષા કરો…</string>
+<string name="unblock_pin2">"PIN2 અનબ્લોક કરો"</string>
+<string name="sum_fdn_unblock_pin2">"આપના SIMને ખોલવા માટે PUK2 દાખલ કરો"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> બાકી રહેલા પ્રયત્ન (ત્નો)"</string>
+<string name="oldPin2_Label">"જૂનો PIN2 (<xliff:g>%s</xliff:g> બાકી રહેલા પ્રયત્નો"</string>
+<string name="puk2_code_label">" PUK2 કોડ ટાઇપ કરો (<xliff:g>%s</xliff:g> બાકી રહેલા પ્રયત્ન (ત્નો) "</string>
+<string name="promptWordOne">"આપની પાસે હજુ બાકી છે:"</string>
+<string name="promptWordTwo">":વખત"</string>
+<string name="adn_full">FDN યાદી ભરાઇ ગઇ છે.</string>
+<string name="fdn_invalid_name">"FDN અપડેટ ન હતું  કારણ કે નામ 14 સંખ્યાથી વધુ ન હોય શકે" </string>
+<string name="label_fdn">ફિક્સ્ડ ડાયલીંગ નંબર્સ</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"નારંગી રંગનું કોઈ SIM નથી, નંબર મર્યાદિત છે, કૃપા કરીને ફરી પ્રયાસ કરો."</string>
+<string name="labelCFC">"કૉલને ફૉર્વર્ડ કરવાની તમામ વિશેષતાઓને બંધ કરો"</string>
+<string name="one_key_locked_notification">"આ રીતે અનલૉક થાય છે, શું તમે તેને લોક કરવા ઇચ્છશો?"</string>
+<string name="one_key_unlocked_notification">"આ રીતે લોક થાય છે, શું તમે તેને લોક કરવા ઇચ્છશો?"</string>
+<string name="one_key_unlocked">અનલોક</string>
+<string name="one_key_locked">લોક</string>
+<string name="one_key_operation_success">"ઓપરેશન સફળ રહ્યું."</string>
+<string name="one_key_operation_unsuccess">"ઓપરેશન નિષ્ફળ, તમે ફરી પ્રયત્ન કરી શકો છો!"</string>
+<string name="one_key_query_unsuccess">"સિમલોકની ક્વેરી નિષ્ફળ!"</string>
+<string name="one_key_simlock_setting">"સિમલોક સેટિંગ"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"નેટવર્ક લોક"</item>
+<item>"નેટવર્કસબસેટ લોક"</item>
+<item>"સર્વિસપ્રદાતા લોક"</item>
+<item>"કોર્પોરેટ લોક"</item>
+<item>"SIM લોક"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ડિવાઈસ માલિક દ્વારા ઈમર્જન્સિ કોલ્સ પરવાનગીપાત્ર છે."</string>
+<string name="change_pin_when_double_sim_card_info">"ઇમર્જન્સી ડાયલર જ SIM1ના PIN codeને બદલી શકે છે"</string>
+<string name="volte_not_supported_error">"આ SIM કાર્ડ VoLTE સેવાને સપોર્ટ કરી શકશે નહીં, કૃપા કરીને VoLTE સ્વિચને બંધ કરો અને ફરી પ્રયાસ કરો."</string>
+<string name="no_available_phone_accounts">"કોઇ કૉલિંગ એકાઉંટ ઉપલબ્ધ નથી"</string>
+<string name="enhanced_4g_lte_unuseable">"વર્તમાન VoLTE નેટવર્ક કોઈ સેવા ધરાવતું નથી, શું VoLTE એચડી કૉલ્સ બંધ કરવાના છે?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"વીડિયો કૉલિંગને ચાલુ કરવા માટે આપે નેટવર્ક સેટિંગમાં %s મૉડને ચાલુ કરવાની જરૂર છે."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"એડવાન્સ્ડ કોલિંગ"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G કૉલિંગ"</string>
+</resources>

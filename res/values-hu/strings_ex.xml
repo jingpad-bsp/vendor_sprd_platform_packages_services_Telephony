@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Videohívás</string>
+<string name="labelAudioCF">"Audió hívás továbbítás"</string>
+<string name="labelVideoCF">"Videó hívás továbbítás"</string>
+<string name="sum_cft_disabled">"Letiltva"</string>
+<string name="labelCFT">"hívásátirányítás időtartama"</string>
+<string name="start_time">"kezdés időpontja"</string>
+<string name="stop_time">"leállás időpontja"</string>
+<string name="sum_cft_default_setting">"Nincs beállítva"</string>
+<string name="phonenumCFT_title">"hívásátirányítás a következő számra"</string>
+<string name="messageCFT">"hívásátirányítás időtartama a következő számra"</string>
+<string name="ActiveUnconCf">Feltétel nélküli hívástovábbítás</string>
+<string name="ActiveConCf">Feltételes hívástovábbítás</string>
+<string name="CallForwarded">Hívás továbbítva</string>
+<string name="CallWaiting">"Hívásvárakoztatás"</string>
+<string name="OutCallBarred">"Kimenő hívás letiltva"</string>
+<string name="InCallBarred">"Bejövő hívás korlátozva"</string>
+<string name="ForwardedCall">Továbbított hívás</string>
+<string name="CallHold">"Hívás tartása"</string>
+<string name="CallRetrieved">"Helyreállított hívás"</string>
+<string name="MultiCall">"Konferenciahívás"</string>
+<string name="IncomingCallForwarded">"További bejövő hívás továbbítva"</string>
+<string name="menu_add_to_contacts">"Hozzáadás a személyekhez"</string>
+<string name="select_link_title">"Művelet kiválasztása"</string>
+<string name="confirm_open_browser_dialog_title">"Üzenet"</string>
+<string name="confirm_open_browser_dialog_message">Ezzel megnyitja a böngészőt. Folytatja?</string>
+<string name="turn_off_airplane_for_ss">"Kérjük, kapcsolja ki a repülőgép üzemmódot kiegészítő szolgáltatás létrehozásához."</string>
+<string name="emergency_call">"Segélyhívás"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">A segélyhívás indításához kapcsolja ki a repülő üzemmódot.</string>
+<string name="ip_dialing_setting">"IP tárcsázás beállítása"</string>
+<string name="edit_and_save_fdn">"Állandó előhívószám szerkesztése"</string>
+<string name="delete_and_save_fdn">"Állandó előhívószám törlése"</string>
+<string name="call_fdn_number_by_sim">"Hívás"</string>
+<string name="vt_call_fdn_numberr_by_sim">Videotelefon hívás</string>
+<string name="airplane_changed_on">"Repülőgép üzemmód bekapcsolva."</string>
+<string name="number_empty">"A szám üres"</string>
+<string name="wait_message">"Kérjük, várjon..."</string>
+<string name="unblock_pin2">"PIN2 feloldása"</string>
+<string name="sum_fdn_unblock_pin2">"Írja be a PUK2 kódot a SIM feloldásához"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> hátralévő probálkozás(ok))"</string>
+<string name="oldPin2_Label">"Rég PIN2 (<xliff:g>%s</xliff:g> hátralévő próbálkozás(ok))"</string>
+<string name="puk2_code_label">"Írja be a PUK2 kódot (<xliff:g>%s</xliff:g> megmaradt próbálkozás(ok))"</string>
+<string name="promptWordOne">"Marad&#160;"</string>
+<string name="promptWordTwo">"&#160;alkalom"</string>
+<string name="adn_full">Az FDN lista megtelt</string>
+<string name="fdn_invalid_name">"Az FDN nincs frissítve, mert a név nem lehet 14 számjegynél hosszabb."</string>
+<string name="label_fdn">"Állandó előhívószámok"</string>
+<string name="notification_channel_fdn">FDN</string>
+<string name="number_limited_message">"Nincs Orange SIM, a szám korlátozott, kérjük, próbálja újra."</string>
+<string name="labelCFC">"Kapcsolja ki az összes hívásátirányító funkciót"</string>
+<string name="one_key_locked_notification">"Ez a típus fel van OLDVA. Szeretné zárolni?"</string>
+<string name="one_key_unlocked_notification">"Ez a típus ZÁROLVA van. Szeretné feloldani?"</string>
+<string name="one_key_unlocked">"Feloldás"</string>
+<string name="one_key_locked">"LEZÁRÁS"</string>
+<string name="one_key_operation_success">"Sikeres művelet."</string>
+<string name="one_key_operation_unsuccess">"A művelet sikertelen, próbálja újra!"</string>
+<string name="one_key_query_unsuccess">"Simzárolási lekérés sikertelen!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK beállítás"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Hálózat zárolása"</item>
+<item>"HálózatRész zárolása"</item>
+<item>"Szolgáltatói zárolás"</item>
+<item>"Vállalati zárolás"</item>
+<item>"SIM Zárolás"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">Az eszköz tulajdonosa csak a segélyhívást engedélyezte.</string>
+<string name="change_pin_when_double_sim_card_info">"A segélyhívó csak a SIM1 PIN-kódját képes módosítani."</string>
+<string name="volte_not_supported_error">"Lehetséges, hogy SIM-kártya nem támogatja a VoLTE szolgáltatást, kérjük, kapcsolja ki a VoLTE funkciót, és próbálja újra."</string>
+<string name="no_available_phone_accounts">"Nincs elérhető hívó fiók"</string>
+<string name="enhanced_4g_lte_unuseable">"A jelenlegi VoLTE hálózat nem működik, kikapcsolja a VoLTE HD hívásokat?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"A videóhívás bekapcsolásához engedélyeznie kell a(z) %s hívásokat a hálózati beállításokban."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Fejlett hívás"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G hívás"</string>
+</resources>

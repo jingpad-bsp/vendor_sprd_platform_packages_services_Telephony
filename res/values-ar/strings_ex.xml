@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">مكالمة فيديو</string>
+<string name="labelAudioCF">"توجيه المكالمات الصوتية"</string>
+<string name="labelVideoCF">"توجيه مكالمات الفيديو"</string>
+<string name="sum_cft_disabled">تعطيل</string>
+<string name="labelCFT">"مدة التوجيه"</string>
+<string name="start_time">"وقت البدء"</string>
+<string name="stop_time">"وقت التوقف"</string>
+<string name="sum_cft_default_setting">"1 ساعة"</string>
+<string name="phonenumCFT_title">"رقم توجيه المكالمات"</string>
+<string name="messageCFT">"عدد مدة توجيه المكالمات"</string>
+<string name="ActiveUnconCf">"إعادة توجيه المكالمات غير مشروط"</string>
+<string name="ActiveConCf">"إعادة توجيه المكالمات مشروط"</string>
+<string name="CallForwarded">"إعادة توجيه المكالمات"</string>
+<string name="CallWaiting">"انتظار المكالمات"</string>
+<string name="OutCallBarred">"حذر المكالمات الصادرة"</string>
+<string name="InCallBarred">"المكالمات الواردة ممنوعة"</string>
+<string name="ForwardedCall">"مكالمة صادرة"</string>
+<string name="CallHold">"تم حظر المكالمة"</string>
+<string name="CallRetrieved">"استرجاع المكالمات"</string>
+<string name="MultiCall">"إتصال مؤتمر"</string>
+<string name="IncomingCallForwarded">"إعادة توجيه إضافي للمكالمات الواردة"</string>
+<string name="menu_add_to_contacts">"إضافة إلى الأشخاص"</string>
+<string name="select_link_title">"اختيار إجراء"</string>
+<string name="confirm_open_browser_dialog_title">الرسالة</string>
+<string name="confirm_open_browser_dialog_message">هل أنت متأكد من فتح المتصفح؟</string>
+<string name="turn_off_airplane_for_ss">"لاستخدام الخدمات الإضافية، يُرجى إيقاف تشغيل وضع الطيران أولاً."</string>
+<string name="emergency_call">"مكالمة طوارئ"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"لإجراء مكالمة طوارئ، يُرجى إيقاف تشغيل وضع الطيران أولاً."</string>
+<string name="ip_dialing_setting">"إعدادات الاتصال IP"</string>
+<string name="edit_and_save_fdn">"تعديل رقم الاتصال الثابت"</string>
+<string name="delete_and_save_fdn">"حذف رقم الاتصال الثابت"</string>
+<string name="call_fdn_number_by_sim">اتصال</string>
+<string name="vt_call_fdn_numberr_by_sim">مكالمة VT</string>
+<string name="airplane_changed_on">"تم تشغيل وضع الطيران."</string>
+<string name="number_empty">" الرقم خالي "</string>
+<string name="wait_message">الرجاء الإنتظار...</string>
+<string name="unblock_pin2">"فتح PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"أدخل PUK2 لإلغاء حظر بطاقة SIM الخاصة بك"</string>
+<string name="pin2_Label">"\u200fPIN2 (<xliff:g>\u200f%s</xliff:g> المحاولة (المحاولات) المتبقية)"</string>
+<string name="oldPin2_Label">"\u200fPIN2 Old(<xliff:g>\u200f%s</xliff:g> المحاولة (المحاولات) المتبقية)"</string>
+<string name="puk2_code_label">"طباعة رمز PUK2 (<xliff:g>%s</xliff:g> المحاولة (المحاولات) المتبقية)"</string>
+<string name="promptWordOne">"يتبقى&#160;"</string>
+<string name="promptWordTwo">"&#160;من المرات"</string>
+<string name="adn_full">ADN ممتلئ</string>
+<string name="fdn_invalid_name">"لم يتم تحديث FDN بسبب عدم إمكانية تجاوز الاسم 14 حرف."</string>
+<string name="label_fdn">"أرقام الاتصال الثابتة"</string>
+<string name="notification_channel_fdn">"رقم الطلب المحدد"</string>
+<string name="number_limited_message">"لا توجد بطاقة Orange SIM، الرقم مقيَّد، يُرجى المحاولة مرة أخرى."</string>
+<string name="labelCFC">"إيقاف تشغيل جميع ميزات إعادة توجيه المكالمات"</string>
+<string name="one_key_locked_notification">"هذا النوع غير مقفل، هل ترغب في قفله؟"</string>
+<string name="one_key_unlocked_notification">"هذا النوع مقفل، هل ترغب بإلغاء قفله؟"</string>
+<string name="one_key_unlocked">إلغاء تأمين</string>
+<string name="one_key_locked">"تأمين"</string>
+<string name="one_key_operation_success">"تم التشغيل بنجاح."</string>
+<string name="one_key_operation_unsuccess">"لم تنجح العملية، يمكنك إعادة المحاولة!"</string>
+<string name="one_key_query_unsuccess">"فشل استفسار نوع قفل بطاقة SIM!"</string>
+<string name="one_key_simlock_setting">"إعدادات قفل بطاقة SIM"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"قفل الشبكة"</item>
+<item>"قفل الشبكة الثانوية"</item>
+<item>"قفل مقدمة الخدمة"</item>
+<item>"القفل الاعتباري"</item>
+<item>"قفل بطاقة SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"يُسمح فقط بمكالمات الطوارئ بواسطة مالك الجهاز."</string>
+<string name="change_pin_when_double_sim_card_info">"يمكن لطالب الطوارئ تعديل رمز PIN الخاص ببطاقة SIM1 فقط."</string>
+<string name="volte_not_supported_error">"قد لا تدعم بطاقة SIM خدمة VoLTE، لذلك يُرجى إيقاف تشغيل مفتاح VoLTE والمحاولة مرة أخرى."</string>
+<string name="no_available_phone_accounts">"لا توجد حسابات اتصال متاحة"</string>
+<string name="enhanced_4g_lte_unuseable">"لا توجد خدمة في شبكة VoLTE الحالية، هل تريد إيقاف تشغيل مكالمات VoLTE عالية الجودة؟"</string>
+<string name="enable_video_calling_dialog_auto_msg">"لتشغيل مكالمات الفيديو، تحتاج إلى تمكين وضع %s في إعدادات الشبكة."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"الاتصال المتقدم"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"الاتصال عبر 4G"</string>
+</resources>

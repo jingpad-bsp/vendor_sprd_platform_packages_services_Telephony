@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Video arama</string>
+<string name="labelAudioCF">"Sesli aramayı ilet"</string>
+<string name="labelVideoCF">"Görüntülü aramayı ilet"</string>
+<string name="sum_cft_disabled">Devre dışı</string>
+<string name="labelCFT">"Süre ileri"</string>
+<string name="start_time">"Başlangıç zamanı"</string>
+<string name="stop_time">"durma zamanı"</string>
+<string name="sum_cft_default_setting">"Ayarlanmadı"</string>
+<string name="phonenumCFT_title">"ileri numarayı arayın"</string>
+<string name="messageCFT">"Süre ileri arama sayısı"</string>
+<string name="ActiveUnconCf">"Çağrı koşulsuz olarak yönlendirildi"</string>
+<string name="ActiveConCf">"Çağrı koşullu olarak yönlendirildi"</string>
+<string name="CallForwarded">"Çağrı iletildi"</string>
+<string name="CallWaiting">"Arama bekleme"</string>
+<string name="OutCallBarred">"Giden çağrı engellendi"</string>
+<string name="InCallBarred">"Gelen çağrı engellendi"</string>
+<string name="ForwardedCall">"Yönlendirilmiş çağrı" </string>
+<string name="CallHold">"Çağrı bekletildi" </string>
+<string name="CallRetrieved">"Alınan çağrı"</string>
+<string name="MultiCall">"Konferans görüşmesi"</string>
+<string name="IncomingCallForwarded">"Ek olarak gelen çağrı iletildi"</string>
+<string name="menu_add_to_contacts">"Kişilere Ekle" </string>
+<string name="select_link_title">"Eylem seçin" </string>
+<string name="confirm_open_browser_dialog_title">Mesaj</string>
+<string name="confirm_open_browser_dialog_message">"Tarayıcıyı açacak, devam edilsin mi?"</string>
+<string name="turn_off_airplane_for_ss">"Tamamlayıcı Hizmet\'i oluşturmak için lütfen uçak modunu kapatın."</string>
+<string name="emergency_call">"Acil arama"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Acil durum araması gerçekleştirmek için lütfen önce uçak modunu kapatın."</string>
+<string name="ip_dialing_setting">"IP Numara Ayarları"</string>
+<string name="edit_and_save_fdn">"Sabit arama numarasını düzenle"</string>
+<string name="delete_and_save_fdn">"Sabit arama numarasını sil"</string>
+<string name="call_fdn_number_by_sim">"Çağrı"</string>
+<string name="vt_call_fdn_numberr_by_sim">VT Arama</string>
+<string name="airplane_changed_on">"Uçak modu açılmış."</string>
+<string name="number_empty">"Numara boş"</string>
+<string name="wait_message">Lütfen bekleyin...</string>
+<string name="unblock_pin2">"PIN2 blokunu kaldırın"</string>
+<string name="sum_fdn_unblock_pin2">"SIM blokesini kaldırmak için PUK2\'yi girin"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> kalan deneme(ler))"</string>
+<string name="oldPin2_Label">"Eski PIN2 (<xliff:g>%s</xliff:g> kalan deneme(ler))"</string>
+<string name="puk2_code_label">"PUK2 kodunu girin (<xliff:g>%s</xliff:g> kalan deneme(ler))"</string>
+<string name="promptWordOne">"Kalan&#160;"</string>
+<string name="promptWordTwo">"&#160;defa"</string>
+<string name="adn_full">"SAN listesi dolu"</string>
+<string name="fdn_invalid_name">"FDN güncellenemedi çünkü isim 14 haneyi aşamaz."</string>
+<string name="label_fdn">"Sabit Arama Numaraları"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Orange SIM bulunmamakta, numara kısıtlı, lütfen tekrar deneyin."</string>
+<string name="labelCFC">"Tüm arama yönlendirme özelliklerini kapatın"</string>
+<string name="one_key_locked_notification">"Bu türün KİLİDİ açıldı, kilitlemek istiyor musunuz?"</string>
+<string name="one_key_unlocked_notification">"Bu tür KİLİTLENDİ, kilidini açmak istiyor musunuz?"</string>
+<string name="one_key_unlocked">"Kilit Aç"</string>
+<string name="one_key_locked">"KİLİTLE"</string>
+<string name="one_key_operation_success">"İşlem başarılı."</string>
+<string name="one_key_operation_unsuccess">"İşlem başarısız, tekrar deneyebilirsiniz!"</string>
+<string name="one_key_query_unsuccess">"Sorgu simlock tipi başarısız!" </string>
+<string name="one_key_simlock_setting">"SIMLOCK Ayarı"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Ağ kilidi" </item>
+<item>"AğAltkümesi Kilidi"</item>
+<item>"ServisSağlayıcı Kilidi"</item>
+<item>"Kurumsal Kilit"</item>
+<item>"SIM Kilidi" </item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Sadece cihaz sahibi tarafından izin verilen acil durum aramalarına izin verilir."</string>
+<string name="change_pin_when_double_sim_card_info">"Acil durum numarası sadece SIM1\'in PIN kodunu değiştirebilir."</string>
+<string name="volte_not_supported_error">"SIM kart VoLTE servisini desteklemeyebilir, lütfen VoLTE\'yi kapatın ve tekrar deneyin."</string>
+<string name="no_available_phone_accounts">"Mevcut arama hesabı yok"</string>
+<string name="enhanced_4g_lte_unuseable">"Mevcut VoLTE ağında servis yok, VoLTE HD aramaları kapatılsın mı?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Görüntülü arama yapmak için ağ ayarlarından %s modunu etkinleştirmelisiniz."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Gelişmiş Arama"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G Arama"</string>
+</resources>

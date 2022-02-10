@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Videoanruf</string>
+<string name="labelAudioCF">"Audioanruf-Weiterleitung"</string>
+<string name="labelVideoCF">"Videoanruf-Weiterleitung"</string>
+<string name="sum_cft_disabled">Deaktiviert</string>
+<string name="labelCFT">"Weiterleitungsdauer"</string>
+<string name="start_time">"Startzeit"</string>
+<string name="stop_time">"Zeit anhalten"</string>
+<string name="sum_cft_default_setting">"Nicht festgelegt"</string>
+<string name="phonenumCFT_title">"Weiterleitungsnummer anrufen"</string>
+<string name="messageCFT">"Nummer der Anrufweiterleitung"</string>
+<string name="ActiveUnconCf">"Anruf unbedingt weitergeleitet"</string>
+<string name="ActiveConCf">"Anruf bedingt weitergeleitet"</string>
+<string name="CallForwarded">"Anruf weitergeleitet"</string>
+<string name="CallWaiting">"Anklopfen"</string>
+<string name="OutCallBarred">"Ausgehender Anruf blockiert"</string>
+<string name="InCallBarred">"Eingehender Anruf blockiert"</string>
+<string name="ForwardedCall">"Weitergeleiteter Anruf"</string>
+<string name="CallHold">"Anruf gehalten"</string>
+<string name="CallRetrieved">"Anruf wiederhergestellt"</string>
+<string name="MultiCall">"Konferenzanruf"</string>
+<string name="IncomingCallForwarded">"Zusätzlicher eingehender Anruf weitergeleitet"</string>
+<string name="menu_add_to_contacts">"zu Personen hinzufügen"</string>
+<string name="select_link_title">"Vorgang auswählen"</string>
+<string name="confirm_open_browser_dialog_title">"Nachricht"</string>
+<string name="confirm_open_browser_dialog_message">"Der Browser wird geöffnet, fortfahren?"</string>
+<string name="turn_off_airplane_for_ss">"Schalten Sie für den Ergänzungsdienst bitte den Flugmodus aus."</string>
+<string name="emergency_call">"Notruf"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">Für Notruf bitte zuerst Flugmodus ausschalten.</string>
+<string name="ip_dialing_setting">"IP-Wahl-Einstellung"</string>
+<string name="edit_and_save_fdn">"Feste Wählnummer bearbeiten"</string>
+<string name="delete_and_save_fdn">"Feste Wählnummer löschen"</string>
+<string name="call_fdn_number_by_sim">"Anruf"</string>
+<string name="vt_call_fdn_numberr_by_sim">VT-Anruf</string>
+<string name="airplane_changed_on">"Flugzeugmodus aktiviert."</string>
+<string name="number_empty">"Nummer ist leer"</string>
+<string name="wait_message">"Bitte warten..."</string>
+<string name="unblock_pin2">"PIN2 entblockieren"</string>
+<string name="sum_fdn_unblock_pin2">"Geben Sie zum Entsperren Ihrer SIM die PUK2 ein"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> verbleibende(r) Versuch(e))"</string>
+<string name="oldPin2_Label">"Alte PIN2 (<xliff:g>%s</xliff:g> verbleibende(r) Versuch(e))"</string>
+<string name="puk2_code_label">"Typ PUK2-Code (<xliff:g>%s</xliff:g> verbleibende(r) Versuch(e))"</string>
+<string name="promptWordOne">"Bleiben &#160;"</string>
+<string name="promptWordTwo">"&#160; Mal(e)"</string>
+<string name="adn_full">"FDN-Liste ist voll"</string>
+<string name="fdn_invalid_name">"FDN wurde nicht aktualisiert, da der Name nicht länger als 14 Zeichen sein darf."</string>
+<string name="label_fdn">"Feste Wählnummern"</string>
+<string name="notification_channel_fdn">FDN</string>
+<string name="number_limited_message">"Es ist keine Orange-SIM vorhanden; Nummer ist begrenzt. Bitte versuchen Sie es noch einmal."</string>
+<string name="labelCFC">"Schalten Sie alle Anrufweiterleitungsfunktionen aus"</string>
+<string name="one_key_locked_notification">"Dieser Typ ist ENTSPERRT. Wollen Sie ihn sperren?"</string>
+<string name="one_key_unlocked_notification">"Dieser Typ ist GESPERRT. Wollen Sie ihn entsperren?"</string>
+<string name="one_key_unlocked">"Entsperren"</string>
+<string name="one_key_locked">"SPERREN"</string>
+<string name="one_key_operation_success">"Vorgang erfolgreich."</string>
+<string name="one_key_operation_unsuccess">"Operation nicht erfolgreich. Sie können es erneut versuchen!"</string>
+<string name="one_key_query_unsuccess">"Abfrage des SIM-Sperrtyps fehlgeschlagen!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK-Einstellung"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Netzwerksperre"</item>
+<item>"Netzwerk-Teilmengen-Sperre"</item>
+<item>"Dienstanbieter-Sperre"</item>
+<item>"Gemeinsame Sperre"</item>
+<item>"SIM-Sperre"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">Der Geräteeigentümer hat nur Notrufe zugelassen.</string>
+<string name="change_pin_when_double_sim_card_info">"Die Notfall-Wählvorrichtung kann nur den PIN-Code der SIM1 modifizieren."</string>
+<string name="volte_not_supported_error">"Möglicherweise unterstützt die SIM-Karte den VoLTE-Dienst nicht. Bitte deaktivieren Sie den VoLTE-Schalter und versuchen Sie es noch einmal."</string>
+<string name="no_available_phone_accounts">"Keine verfügbaren Anrufkonten"</string>
+<string name="enhanced_4g_lte_unuseable">"Aktuelles VoLTE-Netzwerk hat keinen Dienst; VoLTE HD-Anrufe deaktivieren?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Um die Videotelefonie nutzen zu können, müssen Sie den %s-Modus in den Netzwerk-Einstellungen aktivieren."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Erweitertes Anrufen"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Anrufen über 4G"</string>
+</resources>

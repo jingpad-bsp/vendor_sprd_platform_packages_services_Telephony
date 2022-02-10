@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"視訊電話"</string>
+<string name="labelAudioCF">"語音來電轉接"</string>
+<string name="labelVideoCF">"視訊來電轉接"</string>
+<string name="sum_cft_disabled">"已禁用"</string>
+<string name="labelCFT">"固定時間段轉接"</string>
+<string name="start_time">開始</string>
+<string name="stop_time">"結束時間"</string>
+<string name="sum_cft_default_setting">不設定</string>
+<string name="phonenumCFT_title">"轉接號碼"</string>
+<string name="messageCFT">"固定時間段的轉接號碼"</string>
+<string name="ActiveUnconCf">"無條件來電轉接啟動"</string>
+<string name="ActiveConCf">"有條件來電轉接啟動"</string>
+<string name="CallForwarded">撥打轉接</string>
+<string name="CallWaiting">撥打等待中</string>
+<string name="OutCallBarred">"禁止呼出"</string>
+<string name="InCallBarred">"禁止呼入"</string>
+<string name="ForwardedCall">"轉移通話"</string>
+<string name="CallHold">"撥打被阻塞"</string>
+<string name="CallRetrieved">"撥打被啟動"</string>
+<string name="MultiCall">"視訊會議"</string>
+<string name="IncomingCallForwarded">另一通來電被轉接</string>
+<string name="menu_add_to_contacts">"新增到聯絡人"</string>
+<string name="select_link_title">"選擇操作"</string>
+<string name="confirm_open_browser_dialog_title">"啟用瀏覽器"</string>
+<string name="confirm_open_browser_dialog_message">"是否要啟用瀏覽器？"</string>
+<string name="turn_off_airplane_for_ss">"要使用輔助服務，請先關閉飛行模式。"</string>
+<string name="emergency_call">"緊急通話"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"如要緊急撥號，請先關閉飛行模式。"</string>
+<string name="ip_dialing_setting">"IP 撥號清單"</string>
+<string name="edit_and_save_fdn">"編輯固定撥號號碼"</string>
+<string name="delete_and_save_fdn">"刪除固定撥號號碼"</string>
+<string name="call_fdn_number_by_sim">"語音來電"</string>
+<string name="vt_call_fdn_numberr_by_sim">視訊通話</string>
+<string name="airplane_changed_on">"飛行模式開啟。"</string>
+<string name="number_empty">號碼為空</string>
+<string name="wait_message">正在準備收件人，請稍侯...</string>
+<string name="unblock_pin2">"解鎖PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"輸入PUK2以解鎖您的SIM卡"</string>
+<string name="pin2_Label">"PIN2 (剩餘次數 <xliff:g>%s</xliff:g>)"</string>
+<string name="oldPin2_Label">"舊 PIN2 (剩餘次數 <xliff:g>%s</xliff:g>)"</string>
+<string name="puk2_code_label">"輸入 PUK2 碼 (剩餘次數 <xliff:g>%s</xliff:g>)"</string>
+<string name="promptWordOne">"您還有&#160;"</string>
+<string name="promptWordTwo">&#160;次機會</string>
+<string name="adn_full">FDN清單已滿</string>
+<string name="fdn_invalid_name">"固定撥號未更新，因為名稱不能超過 14 位。"</string>
+<string name="label_fdn">"固定撥號"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"您沒有插入Orange SIM，該號碼限制撥打電話，請重試。"</string>
+<string name="labelCFC">"取消所有來電轉駁"</string>
+<string name="one_key_locked_notification">"這種類型已解除鎖定，是否需要一鍵鎖定？"</string>
+<string name="one_key_unlocked_notification">"這種類型已鎖定，是否需要一鍵解除鎖定?"</string>
+<string name="one_key_unlocked">"解鎖"</string>
+<string name="one_key_locked">"鎖定"</string>
+<string name="one_key_operation_success">"操作成功。"</string>
+<string name="one_key_operation_unsuccess">"操作失敗，請稍後嘗試!"</string>
+<string name="one_key_query_unsuccess">"查詢SIM卡鎖類型失敗!"</string>
+<string name="one_key_simlock_setting">"SIM卡鎖設定"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"網絡鎖"</item>
+<item>"網絡子鎖"</item>
+<item>"服務提供者鎖"</item>
+<item>"合作商鎖"</item>
+<item>"SIM卡鎖"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"只允許裝置機主進行緊急通話。"</string>
+<string name="change_pin_when_double_sim_card_info">"雙卡時緊急撥號鍵只能修改SIM1的PIN碼。"</string>
+<string name="volte_not_supported_error">"SIM卡可能還未開啟VoLTE服務，請關閉VoLTE開關後重試"</string>
+<string name="no_available_phone_accounts">"沒有可用的通話帳戶"</string>
+<string name="enhanced_4g_lte_unuseable">"目前網絡VoLTE無服務，是否關閉VoLTE高清通話？"</string>
+<string name="enable_video_calling_dialog_auto_msg">"要開啟視像通話功能，您需要在網絡設定中啟用%s模式。"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"高級通話"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G 通話"</string>
+</resources>

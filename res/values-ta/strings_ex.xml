@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"வீடியோ அழைப்பு"</string>
+<string name="labelAudioCF">"ஆடியோ அழைப்பு பார்வேர்டு"</string>
+<string name="labelVideoCF">"ஆடியோ அழைப்பு பார்வேர்டு"</string>
+<string name="sum_cft_disabled">"செயல்நீக்கப்பட்டது"</string>
+<string name="labelCFT">"ஃபார்வார்டுக்கான காலம்"</string>
+<string name="start_time">"தொடக்க நேரம்"</string>
+<string name="stop_time">"நிறுத்த நேரம்"</string>
+<string name="sum_cft_default_setting">அமைக்கப்படவில்லை</string>
+<string name="phonenumCFT_title">"கால் ஃபார்வர்டு எண்"</string>
+<string name="messageCFT">"கால் ஃபார்வர்டுக்கான காலத்தின் எண்ணிக்கை"</string>
+<string name="ActiveUnconCf">"அழைப்பு முன்னனுப்புதல் நிபந்தனையற்றது"</string>
+<string name="ActiveConCf">"அழைப்பு முன்னனுப்புதல் நிபந்தனைக்குட்பட்டது"</string>
+<string name="CallForwarded">"அழைப்பு முன்னனுப்பப்பட்டது"</string>
+<string name="CallWaiting">"கால் வெயிட்டிங்"</string>
+<string name="OutCallBarred">"வெளிச்செல்லும் அழைப்பு தடுக்கப்பட்டது"</string>
+<string name="InCallBarred">"உள்வரும் அழைப்பு தடைசெய்யப்பட்டுள்ளது"</string>
+<string name="ForwardedCall">"முன்னனுப்பப்பட்ட அழைப்பு"</string>
+<string name="CallHold">"அழைப்பு காத்திருப்பு"</string>
+<string name="CallRetrieved">"அழைப்பு சீர்செய்யப்பட்டது"</string>
+<string name="MultiCall">"கான்பரன்ஸ் அழைப்பு"</string>
+<string name="IncomingCallForwarded">"கூடுதல் உள்வரும் அழைப்பு முன்னனுப்பப்பட்டது"</string>
+<string name="menu_add_to_contacts">"மக்களை சேர்க்கவும்"</string>
+<string name="select_link_title">"செயல்பாட்டை தேர்ந்தெடுக்கவும்"</string>
+<string name="confirm_open_browser_dialog_title">"செய்தி"</string>
+<string name="confirm_open_browser_dialog_message">"அது உலவியைத் திறக்கும், தொடரலாமா?"</string>
+<string name="turn_off_airplane_for_ss">"கூடுதல் சேவைக்காக விமானப் பயன்முறையை அணைக்கவும்."</string>
+<string name="emergency_call">அவசர அழைப்பு</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"அவசர அழைப்புக்கு, முதலில் விமான பயன்முறையை ஆஃப் செய்யவும்"</string>
+<string name="ip_dialing_setting">"IP டயல் அமைப்பு"</string>
+<string name="edit_and_save_fdn">"நிலையான டயலிங் எண்ணை திருத்து"</string>
+<string name="delete_and_save_fdn">"நிலையான டயலிங் எண்ணை நீக்கவும்"</string>
+<string name="call_fdn_number_by_sim">"அழைப்பு"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT அழைப்பு"</string>
+<string name="airplane_changed_on">"ஏரோப்ளேன் முறை இயக்கப்பட்டது."</string>
+<string name="number_empty">"எண் காலியாக உள்ளது"</string>
+<string name="wait_message">"தயவுசெய்து காத்திருக்கவும்..."</string>
+<string name="unblock_pin2">" PIN2ஐ தடுப்புநீக்கவும்"</string>
+<string name="sum_fdn_unblock_pin2">"உங்கள் SIMமை அன்-பிளாக் செய்ய PUK2 வை உள்ளிடவும்"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> மீதமுள்ள முயற்சி(கள்))"</string>
+<string name="oldPin2_Label">"பழைய PIN2 (<xliff:g>%s</xliff:g> மீதமுள்ள முயற்சி(கள்))"</string>
+<string name="puk2_code_label">"PUK2 குறியீட்டைத் தட்டச்சு செய்யவும் (<xliff:g>%s</xliff:g> மீதமுள்ள முயற்சி(கள்))"</string>
+<string name="promptWordOne">"இருக்கும்:"</string>
+<string name="promptWordTwo">": நேரம் (கள்)"</string>
+<string name="adn_full">"FDN பட்டியல் நிரம்பியுள்ளது"</string>
+<string name="fdn_invalid_name">"FDN அப்டேட் செய்யப்படவில்லை ஏனென்றால் பெயர் 14 இலக்கங்களை தாண்டக் கூடாது."</string>
+<string name="label_fdn">"நிலையான டயலிங் எண்கள்"</string>
+<string name="notification_channel_fdn">"எஃப்.டி.என். (FDN)"</string>
+<string name="number_limited_message">"ஆரஞ்சு SIM இல்லை, எண் குறைவாக உள்ளது, தயவுசெய்து மீண்டும் முயற்சிக்கவும்."</string>
+<string name="labelCFC">"அனைத்து அழைப்புப் பகிர்தல் அம்சங்களையும் முடக்குக."</string>
+<string name="one_key_locked_notification">இதை வகை திறக்கப்பட்டுள்ளது, அதை பூட்ட விரும்புகிறீர்களா?</string>
+<string name="one_key_unlocked_notification">இந்த வகை பூட்டப்பட்டுள்ளது, அதை திறக்க விரும்புகிறீர்களா?</string>
+<string name="one_key_unlocked">"பூட்டு திறக்கவும்"</string>
+<string name="one_key_locked">"பூட்டு"</string>
+<string name="one_key_operation_success">"செயல்முறை வெற்றி"</string>
+<string name="one_key_operation_unsuccess">இயக்குதல் வெற்றிப்பெறவில்லை, நீங்கள் மீண்டும் முயற்சிக்கலாம்!</string>
+<string name="one_key_query_unsuccess">விசாரணை சிம்பூட்டு வகை நொடித்துவிட்டது</string>
+<string name="one_key_simlock_setting">SIMLOCK அமைப்பு</string>
+<string-array name="one_key_sim_lock_type">
+<item>வலையமைப்பு பூட்டு</item>
+<item>வலையமைப்பு துணைத்தொகுதி பூட்டு</item>
+<item>சேவை அளிப்பவர் பூட்டு</item>
+<item>கார்ப்பரேட் பூட்டு</item>
+<item>SIM பூட்டு</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"அவசரநிலை அழைப்புகள் மட்டும், சாதன உரிமையாளரால் அனுமதிக்கப்படுகின்றன."</string>
+<string name="change_pin_when_double_sim_card_info">"அவசரகால டயலரால் SIM1-ன் PIN குறியீட்டை மட்டுமே மாற்ற முடியும்."</string>
+<string name="volte_not_supported_error">"SIM கார்டு VoLTE சேவையை ஆதரிக்கவில்லை, தயவுசெய்து VoLTE ஸ்விட்சை அணைத்துவிட்டு மீண்டும் முயற்சிக்கவும்."</string>
+<string name="no_available_phone_accounts">"கிடைக்கக்கூடிய அழைப்புக் கணக்குகள் இல்லை"</string>
+<string name="enhanced_4g_lte_unuseable">"தற்போதைய VoLTE நெட்வொர்க்கில் எந்த சேவையும் இல்லை, VoLTE HD அழைப்புகளை முடக்க வேண்டுமா?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"வீடியோ அழைப்பை இயக்க, நீங்கள் நெட்வொர்க் அமைப்புகளில் %s பயன்முறையை இயக்க வேண்டும்."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"மேம்பட்ட அழைப்பு"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G அழைப்பு"</string>
+</resources>

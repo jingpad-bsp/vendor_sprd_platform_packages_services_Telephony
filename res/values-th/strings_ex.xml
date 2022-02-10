@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"โทรโดยใช้วิดีโอ"</string>
+<string name="labelAudioCF">"การโอนสายการโทรด้วยเสียง"</string>
+<string name="labelVideoCF">"การโอนสายแฮงเอาท์วิดีโอ"</string>
+<string name="sum_cft_disabled">"ปิดใช้งานแล้ว"</string>
+<string name="labelCFT">"ระยะเวลาที่ต้องการโอนสาย"</string>
+<string name="start_time">"เวลาเริ่ม"</string>
+<string name="stop_time">"เวลาหยุด"</string>
+<string name="sum_cft_default_setting">"ไม่ได้ตั้งค่า"</string>
+<string name="phonenumCFT_title">"หมายเลขที่ต้องการโอนสายไป"</string>
+<string name="messageCFT">"จำนวนระยะเวลาที่ต้องการโอนสาย"</string>
+<string name="ActiveUnconCf">"โอนสายแบบไม่มีเงื่อนไข"</string>
+<string name="ActiveConCf">"โอนสายแบบมีเงื่อนไข"</string>
+<string name="CallForwarded">"โอนสาย"</string>
+<string name="CallWaiting">"สายเรียกซ้อน"</string>
+<string name="OutCallBarred">"ระงับการโทรออก"</string>
+<string name="InCallBarred">"ห้ามโทรเข้า"</string>
+<string name="ForwardedCall">"การโทรส่งต่อ"</string>
+<string name="CallHold">"โทรขึ้น"</string>
+<string name="CallRetrieved">"เรียกคืนข้อมูลการโทร"</string>
+<string name="MultiCall">"การประชุมสาย"</string>
+<string name="IncomingCallForwarded">"เพิ่มส่งต่อการโทรเข้า"</string>
+<string name="menu_add_to_contacts">"เพิ่มลงในผู้คน"</string>
+<string name="select_link_title">"เลือกการทำงาน"</string>
+<string name="confirm_open_browser_dialog_title">"ข้อความ"</string>
+<string name="confirm_open_browser_dialog_message">"จะเปิดเบราว์เซอร์ ทำต่อหรือไม่?"</string>
+<string name="turn_off_airplane_for_ss">"โปรดปิดโหมดบนเครื่องบินเพื่อใช้บริการเสริม"</string>
+<string name="emergency_call">"หมายเลขฉุกเฉิน"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ในการโทรฉุกเฉิน โปรดปิดโหมดเครื่องบินก่อน"</string>
+<string name="ip_dialing_setting">"การตั้งค่าการโทร IP"</string>
+<string name="edit_and_save_fdn">"แก้ไขหมายเลขในการจำกัดหมายเลขโทรออก"</string>
+<string name="delete_and_save_fdn">"ลบหมายเลขในการจำกัดหมายเลขโทรออก"</string>
+<string name="call_fdn_number_by_sim">"โทร"</string>
+<string name="vt_call_fdn_numberr_by_sim">"โทร VT"</string>
+<string name="airplane_changed_on">"เปิดโหมดใช้งานบนเครื่องบินแล้ว"</string>
+<string name="number_empty">"หมายเลขว่างเปล่า"</string>
+<string name="wait_message">"โปรดรอ..."</string>
+<string name="unblock_pin2">"PIN2 สำหรับยกเลิกการบล็อก"</string>
+<string name="sum_fdn_unblock_pin2">"ป้อน PUK2 เพื่อเลิกบล็อกซิม"</string>
+<string name="pin2_Label">"PIN2 (จำนวนครั้งที่สามารถลองได้อีก <xliff:g>%s</xliff:g> ครั้ง)"</string>
+<string name="oldPin2_Label">"PIN2 เก่า (จำนวนครั้งที่สามารถลองได้อีก <xliff:g>%s</xliff:g> ครั้ง)"</string>
+<string name="puk2_code_label">"พิมพ์รหัส PUK2 (จำนวนครั้งที่สามารถลองได้อีก <xliff:g>%s</xliff:g> ครั้ง)"</string>
+<string name="promptWordOne">"คงไว้&#160;"</string>
+<string name="promptWordTwo">"&#160;ครั้ง"</string>
+<string name="adn_full">"รายการ FDN เต็ม"</string>
+<string name="fdn_invalid_name">"FDN ไม่ได้อัปเดตเนื่องจากชื่อไม่สามารถเกิน 14 หลักได้"</string>
+<string name="label_fdn">"การจำกัดหมายเลขโทรออก"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"ไม่มีซิม Orange ไม่สามารถโทรออกได้ โปรดลองอีกครั้ง"</string>
+<string name="labelCFC">"ปิดฟีเจอร์การโอนสายทั้งหมด"</string>
+<string name="one_key_locked_notification">"ชนิดนี้เป็นปลดล็อค คุณต้องการที่จะล็อคหรือไม่"</string>
+<string name="one_key_unlocked_notification">"ชนิดนี้ถูกล็อค คุณต้องการที่จะปลดล็อคได้หรือไม่"</string>
+<string name="one_key_unlocked">"ปลดล็อก"</string>
+<string name="one_key_locked">"ล็อก"</string>
+<string name="one_key_operation_success">"การดำเนินการสำเร็จ"</string>
+<string name="one_key_operation_unsuccess">"การดำเนินการไม่ประสบความสำเร็จ คุณสามารถลองอีกครั้ง!"</string>
+<string name="one_key_query_unsuccess">"สอบถามชนิดล็อค SIM ล้มเหลว"</string>
+<string name="one_key_simlock_setting">"การตั้งค่าล็อค SIM"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"ล็อคเครือข่าย"</item>
+<item>"ล็อคเครือข่ายกลุ่มย่อย"</item>
+<item>"ล็อคผู้ให้บริการ"</item>
+<item>"ล็อคองค์กร"</item>
+<item>"ล็อค SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"อนุญาตให้โทรฉุกเฉินโดยเจ้าของเครื่องเท่านั้น"</string>
+<string name="change_pin_when_double_sim_card_info">"แป้นโทรออกฉุกเฉินสามารถปรับเปลี่ยนรหัส PIN สำหรับซิม 1 ได้เท่านั้น"</string>
+<string name="volte_not_supported_error">"ซิมการ์ดอาจไม่รองรับบริการ VoLTE โปรดปิดสวิตช์ VoLTE แล้วลองอีกครั้ง"</string>
+<string name="no_available_phone_accounts">"ไม่มีบัญชีการโทรที่สามารถใช้งานได้"</string>
+<string name="enhanced_4g_lte_unuseable">"เครือข่าย VoLTE ปัจจุบันไม่มีสัญญาณ ต้องการปิดการโทร VoLTE HD หรือไม่"</string>
+<string name="enable_video_calling_dialog_auto_msg">"เมื่อต้องการเปิดการโทรวิดีโอ คุณต้องเปิดใช้โหมด %s ในการตั้งค่าเครือข่าย"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"การโทรขั้นสูง"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"การโทร 4G"</string>
+</resources>

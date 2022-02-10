@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">تماس ویدیویی</string>
+<string name="labelAudioCF">"انتقال تماس صوتی"</string>
+<string name="labelVideoCF">"انتقال تماس تصویری"</string>
+<string name="sum_cft_disabled">غیر فعال</string>
+<string name="labelCFT">"در طول انتقال"</string>
+<string name="start_time">"زمان آغاز"</string>
+<string name="stop_time">"زمان توقف"</string>
+<string name="sum_cft_default_setting">"تنظیم نشد"</string>
+<string name="phonenumCFT_title">"شماره انتقال تماس"</string>
+<string name="messageCFT">"تعداد تماس‌های انتقالی"</string>
+<string name="ActiveUnconCf">"انتقال تماس بدون قید و شرط"</string>
+<string name="ActiveConCf">"انتقال تماس شرطی"</string>
+<string name="CallForwarded">"تماس منتقل شد"</string>
+<string name="CallWaiting">"انتظار تماس"</string>
+<string name="OutCallBarred">"تماس خروجی مسدود شد"</string>
+<string name="InCallBarred">"تماس ورودی مسدود شد"</string>
+<string name="ForwardedCall">"تماس منتقل شده"</string>
+<string name="CallHold">"تماس نگه داشته شد"</string>
+<string name="CallRetrieved">"تماس بازیابی شد"</string>
+<string name="MultiCall">"تماس کنفرانسی"</string>
+<string name="IncomingCallForwarded">"تماس ورودی اضافی منتقل شد"</string>
+<string name="menu_add_to_contacts">"افزودن به افراد"</string>
+<string name="select_link_title">"انتخاب عمل"</string>
+<string name="confirm_open_browser_dialog_title">پیام</string>
+<string name="confirm_open_browser_dialog_message">این مرورگر را باز خواهد کرد، ادامه می دهید؟</string>
+<string name="turn_off_airplane_for_ss">"برای ایجاد سرویس تکمیلی، حالت هواپیما را خاموش کنید."</string>
+<string name="emergency_call">"تماس اضطراری"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"لطفاً برای برقراری تماس اضطراری، ابتدا حالت پرواز را خاموش کنید."</string>
+<string name="ip_dialing_setting">"تنظیمات تماس IP"</string>
+<string name="edit_and_save_fdn">"ویرایش شماره شماره‌گیری ثابت"</string>
+<string name="delete_and_save_fdn">"حذف شماره شماره‌گیری ثابت"</string>
+<string name="call_fdn_number_by_sim">تماس</string>
+<string name="vt_call_fdn_numberr_by_sim">تماس VT</string>
+<string name="airplane_changed_on">"حالت هواپیما روشن است."</string>
+<string name="number_empty">"شماره خالی است"</string>
+<string name="wait_message">لطفاً منتظر بمانید...</string>
+<string name="unblock_pin2">"غیرمسدود کردن PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"برای بازگشایی قفل سیم‌کارت خود، PUK2 را وارد کنید"</string>
+<string name="pin2_Label">PIN2" (<xliff:g>%s</xliff:g> تلاش باقی  مانده است)"</string>
+<string name="oldPin2_Label">"PIN2 قبلی (<xliff:g>%s</xliff:g> تلاش باقی مانده است)"</string>
+<string name="puk2_code_label">"کد PUK2 را وارد کنید (<xliff:g>%s</xliff:g> تلاش باقی مانده است)"</string>
+<string name="promptWordOne">"باقیماندن&#160;"</string>
+<string name="promptWordTwo">"&#160;بار"</string>
+<string name="adn_full">"لیست FDN پر است"</string>
+<string name="fdn_invalid_name">"FDN به‌روزرسانی نشد، زیرا نام آن بیش از 14 رقم است."</string>
+<string name="label_fdn">"شماره‌های شماره‌گیری ثابت"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"سیم‌کارت Orange وجود ندارد، شماره محدود شده است، لطفاً دوباره سعی کنید."</string>
+<string name="labelCFC">"کلیه ویژگی‌های هدایت تماس را خاموش کنید."</string>
+<string name="one_key_locked_notification">"قفل باز شد، آیا می خواهید آن را قفل کنید؟"</string>
+<string name="one_key_unlocked_notification">"قفل شد، آیا می خواهید قفل آن را باز کنید؟"</string>
+<string name="one_key_unlocked">"بازگشایی قفل"</string>
+<string name="one_key_locked">"قفل‌کردن"</string>
+<string name="one_key_operation_success">"عملیات موفق بود."</string>
+<string name="one_key_operation_unsuccess">"عملیات با موفقیت انجام نشد، می توانید دوباره امتحان کنید!"</string>
+<string name="one_key_query_unsuccess">"قفل سیم ناموفق بود!"</string>
+<string name="one_key_simlock_setting">"تنظیمات قفل سیمکارت"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"قفل شبکه"</item>
+<item>"قفل تنظیمات فرعی شبکه"</item>
+<item>"قفل ارائه دهندگان سرویس"</item>
+<item>"قفل شرکت"</item>
+<item>"قفل سیمکارت"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"فقط مالک دستگاه مجاز به برقراری تماس اضطراری است."</string>
+<string name="change_pin_when_double_sim_card_info">"شماره‌گیری اضطراری تنها می‌تواند پین‌کد سیم‌کارت 1 را تغییر دهد."</string>
+<string name="volte_not_supported_error">"سیم‌کارت ممکن است از سرویس VoLTE پشتیبانی نمی‌کند، لطفاً کلید VoLTE را خاموش کنید و دوباره سعی کنید."</string>
+<string name="no_available_phone_accounts">"هیچ حساب تماسی در دسترس نیست."</string>
+<string name="enhanced_4g_lte_unuseable">"شبکه VoLTE فعلی فاقد سرویس است، آیا می‌خواهید تماس‌های VoLTE HD را خاموش کنید؟"</string>
+<string name="enable_video_calling_dialog_auto_msg">"برای روشن‌کردن تماس ویدئویی، باید حالت %s را در تنظیمات شبکه فعال کنید."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"تماس پیشرفته"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"تماس 4G"</string>
+</resources>

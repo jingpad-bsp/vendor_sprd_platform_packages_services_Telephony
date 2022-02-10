@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"Videotrucada"</string>
+<string name="labelAudioCF">"Desviament de trucades de veu"</string>
+<string name="labelVideoCF">"Desviament de trucades de vídeo"</string>
+<string name="sum_cft_disabled">"Desactivat"</string>
+<string name="labelCFT">"Durada del desviament de trucades"</string>
+<string name="start_time">"Hora d\'inici"</string>
+<string name="stop_time">"Hora de parada"</string>
+<string name="sum_cft_default_setting">"No definida"</string>
+<string name="phonenumCFT_title">"desviament de trucades"</string>
+<string name="messageCFT">"Duració del desviament de trucades"</string>
+<string name="ActiveUnconCf">"Desviació incondicional de trucada"</string>
+<string name="ActiveConCf">"Desviació condicional de trucada"</string>
+<string name="CallForwarded">"Trucada desviada"</string>
+<string name="CallWaiting">"Trucada en espera"</string>
+<string name="OutCallBarred">"Emissió de trucades limitada"</string>
+<string name="InCallBarred">"Recepció de trucades limitada"</string>
+<string name="ForwardedCall">"Trucada desviada"</string>
+<string name="CallHold">"Trucada retinguda"</string>
+<string name="CallRetrieved">Trucada recuperada</string>
+<string name="MultiCall">"Conferència telefònica"</string>
+<string name="IncomingCallForwarded">"Trucada addicional rebuda desviada"</string>
+<string name="menu_add_to_contacts">"Afegir a persones"</string>
+<string name="select_link_title">"Seleccionar una acció"</string>
+<string name="confirm_open_browser_dialog_title">"Missatge"</string>
+<string name="confirm_open_browser_dialog_message">"S\'obrirà el navegador, voleu continuar?"</string>
+<string name="turn_off_airplane_for_ss">"Desactiva el mode avió per fer ús del servei complementari."</string>
+<string name="emergency_call">"Trucada d\'emergència"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">Per poder fer una trucada d\'emergència, primer heu de desactivar el mode de vol.</string>
+<string name="ip_dialing_setting">"Configuració de marcatge IP"</string>
+<string name="edit_and_save_fdn">"Editar número de marcatge fix"</string>
+<string name="delete_and_save_fdn">"Eliminar número de marcatge fix"</string>
+<string name="call_fdn_number_by_sim">"Truca"</string>
+<string name="vt_call_fdn_numberr_by_sim">"Videotrucada"</string>
+<string name="airplane_changed_on">"Mode Avió activat."</string>
+<string name="number_empty">"El número està buit"</string>
+<string name="wait_message">"Espera…"</string>
+<string name="unblock_pin2">"Desbloqueja el PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Introdueix el PUK2 per desbloquejar la SIM"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> intent(s) restant(s))"</string>
+<string name="oldPin2_Label">"Antic PIN2 (<xliff:g>%s</xliff:g> intent(s) restant(s))"</string>
+<string name="puk2_code_label">"Introduïu el codi PUK2 (<xliff:g>%s</xliff:g> intent(s) restant(s))"</string>
+<string name="promptWordOne">"Resta&#160;"</string>
+<string name="promptWordTwo">"&#160;hora(es)"</string>
+<string name="adn_full">"La llista de números de marcatge fix està plena"</string>
+<string name="fdn_invalid_name">"FDN no estava actualitzat perquè el nom no pot tenir més de 14 dígits."</string>
+<string name="label_fdn">"Números de marcatge fix"</string>
+<string name="notification_channel_fdn">FDN</string>
+<string name="number_limited_message">"No hi ha cap SIM d’Orange. Trucades restringides. Torna-ho a provar."</string>
+<string name="labelCFC">"Desactivar totes les funcions de derivació de trucada"</string>
+<string name="one_key_locked_notification">"Aquest tipus està DESPROTEGIT, el voleu protegir?"</string>
+<string name="one_key_unlocked_notification">"Aquest tipus està PROTEGIT, el voleu desprotegir?"</string>
+<string name="one_key_unlocked">"Desbloqueja"</string>
+<string name="one_key_locked">"BLOQUEJAR"</string>
+<string name="one_key_operation_success">"Operació completada correctament."</string>
+<string name="one_key_operation_unsuccess">"La operació no s\'ha realitzat correctament, podeu tornar-ho a intentar!"</string>
+<string name="one_key_query_unsuccess">"No s\'ha pogut respondre a la sol·licitud de desprotecció de SIM!"</string>
+<string name="one_key_simlock_setting">"Configuració de bloqueig de la targeta SIM"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Xarxa protegida"</item>
+<item>"Subgrup de xarxa protegida"</item>
+<item>"Proveïdor de serveis protegit"</item>
+<item>"Corporació protegida"</item>
+<item>"SIM protegida"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">El propietari del dispositiu només permet les trucades d\'emergència.</string>
+<string name="change_pin_when_double_sim_card_info">"El sistema de marcació d’emergència només pot modificar el codi PIN de la SIM1."</string>
+<string name="volte_not_supported_error">"És possible que la targeta SIM no sigui compatible amb el servei VoLTE. Desactiva VoLTE i torna-ho a provar."</string>
+<string name="no_available_phone_accounts">"No hi ha comptes de trucada disponibles"</string>
+<string name="enhanced_4g_lte_unuseable">"La xarxa VoLTE actual no té servei. Vols desactivar les trucades VoLTE HD?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Per activar les videotrucades, cal activar el mode %s a la configuració de xarxa."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Trucades avançades"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Trucades 4G"</string>
+</resources>

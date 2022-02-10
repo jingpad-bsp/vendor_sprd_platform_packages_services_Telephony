@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">BIDEO-DEIA</string>
+<string name="labelAudioCF">"Audio deia egin"</string>
+<string name="labelVideoCF">"Bideo deia egin"</string>
+<string name="sum_cft_disabled">Desgaituta</string>
+<string name="labelCFT">Bidalketa iraupena</string>
+<string name="start_time">Hasteko ordua</string>
+<string name="stop_time">gelditzeko ordua</string>
+<string name="sum_cft_default_setting">Ez dago ezarrita</string>
+<string name="phonenumCFT_title">deitu zenbaki aurreratua</string>
+<string name="messageCFT">Dei-desbideratzeen iraupena</string>
+<string name="ActiveUnconCf">Baldintzarik gabe igorri da deia</string>
+<string name="ActiveConCf">Baldintzekin igorri da deia</string>
+<string name="CallForwarded">Deia igorri da</string>
+<string name="CallWaiting">Deia itxaroten</string>
+<string name="OutCallBarred">"Eginako deia moztu da"</string>
+<string name="InCallBarred">"Sarrerako deia moztuta"</string>
+<string name="ForwardedCall">Bidalitako deia</string>
+<string name="CallHold">"Deia zain izan"</string>
+<string name="CallRetrieved">"Deia berreskuratu"</string>
+<string name="MultiCall">Konferentzia deia</string>
+<string name="IncomingCallForwarded">"Sarrerako dei bat birbidali"</string>
+<string name="menu_add_to_contacts">Jende-ra gehitu</string>
+<string name="select_link_title">Aukeratu ekintza</string>
+<string name="confirm_open_browser_dialog_title">Mezua</string>
+<string name="confirm_open_browser_dialog_message">Arakatzailea irekiko du, jarraitu?</string>
+<string name="turn_off_airplane_for_ss">"Mesedez itzali hegazkin modua Zerbitzu Gehigarria erabiltzeko."</string>
+<string name="emergency_call">Larrialdietako deia</string>
+<string name="turn_off_airplane_mode_for_emergency_call">Larrialdi-deiak egiteko, desaktibatu hegaldi modua.</string>
+<string name="ip_dialing_setting">IP markatze ezarpenak</string>
+<string name="edit_and_save_fdn">Editatu markatze finkoko zenbakia</string>
+<string name="delete_and_save_fdn">Ezabatu markatze finkoko zenbakia</string>
+<string name="call_fdn_number_by_sim">Deitu</string>
+<string name="vt_call_fdn_numberr_by_sim">VT deia</string>
+<string name="airplane_changed_on">Hegazkin modua itzalita dago</string>
+<string name="number_empty">Zenbakia hutsik dago</string>
+<string name="wait_message">Itxaron mesedez…</string>
+<string name="unblock_pin2">Desblokeatu PIN2</string>
+<string name="sum_fdn_unblock_pin2">"Sartu PUK2 kodea SIM txartela desblokeatzeko"</string>
+<string name="pin2_Label">PIN2  (<xliff:g>%s</xliff:g> saiakera gelditzen dira)</string>
+<string name="oldPin2_Label">PIN2 zaharra (<xliff:g>%s</xliff:g> saiakera gelditzen dira)</string>
+<string name="puk2_code_label">PUK2 kodea idatzi (<xliff:g>%s</xliff:g> gainerako saiakerak)</string>
+<string name="promptWordOne">"Mandendu&#160;"</string>
+<string name="promptWordTwo">"&#160;aldiz"</string>
+<string name="adn_full">FDN zerrenda beterik dago</string>
+<string name="fdn_invalid_name">"FDN ez da eguneratu izenak ezin dituelako 14 digitu baino gehiago izan"</string>
+<string name="label_fdn">Markatze Finkoko Zenbakiak</string>
+<string name="notification_channel_fdn">FDN</string>
+<string name="number_limited_message">"Ez dago Orange SIM txartelik, zenbakia mugatua da, mesedez saiatu berriro."</string>
+<string name="labelCFC">"Itzali Dei-desbideratze ezaugarri guztiak"</string>
+<string name="one_key_locked_notification">"Mota hau DESBLOKEATUTA dago, Blokeatu nahi duzu?"</string>
+<string name="one_key_unlocked_notification">"Mota hau BLOKEATUTA dago, Desblokeatu nahi duzu?"</string>
+<string name="one_key_unlocked">Desblokeatu</string>
+<string name="one_key_locked">Giltzarrapoa</string>
+<string name="one_key_operation_success">"Ondo osatu da eragiketa."</string>
+<string name="one_key_operation_unsuccess">"Operazioak huts egin du, berriro saiatu!"</string>
+<string name="one_key_query_unsuccess">"Simlock-en eskaerak huts egin du!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK Ezarpenak"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Sarearen blokeoa"</item>
+<item>"Sareko Azpimultzoaren Blokeoa"</item>
+<item>"Zerbitzu Hornitzailearen Blokeoa"</item>
+<item>"Korporazioa blokeoa"</item>
+<item>"SIM Blokeoa"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">Gailuaren jabeak larrialdi-deiak bakarrik egin ditzake.</string>
+<string name="change_pin_when_double_sim_card_info">"Larrialdirako markatzaileak SIM1-eko PIN kodea bakarrik aldatu dezake."</string>
+<string name="volte_not_supported_error">"Izan daiteke SIM txartelak ez jasatzea VoLTE zerbitzua, mesedez ezgaitu VoLTE eta saiatu berriro."</string>
+<string name="no_available_phone_accounts">"Ez dago deitzeko konturik eskuragarri"</string>
+<string name="enhanced_4g_lte_unuseable">"Oraingo VoLTE sareak ez dauka zerbitzurik, VoLTE HD deiak ezgaitu nahi dituzu?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Bideo deiak gaitzeko, %s modua aktibatu behar duzu sare ezarpenetan."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">Aurreratuagoak deitzen </string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G deia"</string>
+</resources>

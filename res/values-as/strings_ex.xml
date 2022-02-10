@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"ভিডিঅ’ কল"</string>
+<string name="labelAudioCF">"অডিও কল আগুৱাই দিয়া"</string>
+<string name="labelVideoCF">"ভিডিও কল আগুৱাই দিয়া"</string>
+<string name="sum_cft_disabled">"অদৃশ্য"</string>
+<string name="labelCFT">"ম্যাদ ফৰৱাৰ্ড"</string>
+<string name="start_time">"আৰম্ভণীৰ সময়"</string>
+<string name="stop_time">"ষ্টপ টাইম"</string>
+<string name="sum_cft_default_setting">"ছেট কৰা হোৱা নাই"</string>
+<string name="phonenumCFT_title">"কল ফৰৱাৰ্ড নম্বৰ" </string>
+<string name="messageCFT">"ম্যাদ কলফৰৱাৰ্ডৰ নম্বৰ" </string>
+<string name="ActiveUnconCf">"চৰ্তহীনভাবে কল ফৰৱাৰ্ড কৰা হৈছে"</string>
+<string name="ActiveConCf">"চৰ্তসাপেক্ষে কল ফৰৱাৰ্ড কৰা হৈছে"</string>
+<string name="CallForwarded">"কল ফৰৱাৰ্ড কৰা হৈছে"</string>
+<string name="CallWaiting">"কল অপেক্ষা"</string>
+<string name="OutCallBarred">"আউটগ\'য়িং কল নিষিদ্ধ"</string>
+<string name="InCallBarred">"ইনকামিং কল বাধাগ্ৰস্থ"</string>
+<string name="ForwardedCall">"ফৰৱাৰ্ড কৰা কল"</string>
+<string name="CallHold">"কল ধৰা হৈছে"</string>
+<string name="CallRetrieved">"কল পুনৰুদ্ধাৰ কৰা হৈছে"</string>
+<string name="MultiCall">"কনফাৰেন্স কল"</string>
+<string name="IncomingCallForwarded">"অতিৰিক্ত ইনকামিং কল ফৰৱাৰ্ড কৰা হৈছে"</string>
+<string name="menu_add_to_contacts">"লোকক যোগ কৰক৷"</string>
+<string name="select_link_title">"পদক্ষেপ বাচনি কৰক"</string>
+<string name="confirm_open_browser_dialog_title">"বাৰ্তা"</string>
+<string name="confirm_open_browser_dialog_message">"ই ব্ৰাউজাৰ খুলিব, আগৱাঢ়িবনে ?"</string>
+<string name="turn_off_airplane_for_ss">"পৰিপূৰক সেৱা কৰিবলৈ অনুগ্ৰহ কৰি অন কৰক।"</string>
+<string name="emergency_call">"জৰুৰীকালীন ফোন"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ততকালীন ক’ল কৰিবলৈ, অনুগ্ৰহ কৰি ফ্লাইট মোড টাৰ্ণ অফ কৰক"</string>
+<string name="ip_dialing_setting">"IP ডায়েল ছেটিং"</string>
+<string name="edit_and_save_fdn">"ফিক্সড ডায়েলিং নম্বৰ সম্পাদনা কৰক"</string>
+<string name="delete_and_save_fdn">"ফিক্সড ডায়েলিং নম্বৰ মচি দিয়ক"</string>
+<string name="call_fdn_number_by_sim">"কল কৰক"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT কল"</string>
+<string name="airplane_changed_on">"এয়াৰপ্লেন মোড খুলি ৰাখক"</string>
+<string name="number_empty">"নম্বৰটো খালী"</string>
+<string name="wait_message">"অনুগ্ৰহ কৰি অপেক্ষা কৰক…"</string>
+<string name="unblock_pin2">"PIN2 আনব্লক"</string>
+<string name="sum_fdn_unblock_pin2">"আপোনাৰ SIM আনলক কৰিবলৈ PUK2 প্ৰৱেশ কৰিব লাগে।"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> বাকী থকা চেষ্টা)"</string>
+<string name="oldPin2_Label">"পুৰণি PIN2 (<xliff:g>%s</xliff:g> বাকী থকা চেষ্টা)"</string>
+<string name="puk2_code_label">"PUK2 কোড টাইপ কৰক (<xliff:g>%s</xliff:g> বাকী থকা চেষ্টা)"</string>
+<string name="promptWordOne">"বাকী&#160;"</string>
+<string name="promptWordTwo">"&#160;সময়(বোৰ)"</string>
+<string name="adn_full">"FDN তালিকাখন ভৰ্তি"</string>
+<string name="fdn_invalid_name">"FDN আপডেট হোৱা নাই কাৰণ নামটো ১৪ সংখ্যাৰ বেছি হব নোৱাৰে।"</string>
+<string name="label_fdn">"ফিক্সড ডায়েলিং নম্বৰ"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"কোনো অ\'ৰেঞ্জ চিম নাই, সংখ্যা সীমিত, অনুগ্ৰহ কৰি পুনৰাই চেষ্টা কৰক।"</string>
+<string name="labelCFC">"সকলো কল ফৰৱাৰ্ডিং বৈশিষ্টসমূহ অফ কৰক"</string>
+<string name="one_key_locked_notification">"এই টাইপটো আনলক আছে, আপুনি ইয়াক লক কৰিব বিচাৰে নে?"</string>
+<string name="one_key_unlocked_notification">"এই টাইপটো লক আছে, আপুনি ইয়াক আনলক কৰিব বিচাৰে নে?"</string>
+<string name="one_key_unlocked">"আনলক"</string>
+<string name="one_key_locked">"লক"</string>
+<string name="one_key_operation_success">"অপাৰেচন সফল হ’ল।"</string>
+<string name="one_key_operation_unsuccess">"অপাৰেচনটো অসফল হৈছে,,আপুনি পুনৰ চেষ্টা কৰিব পাৰে!"</string>
+<string name="one_key_query_unsuccess">"কুৱেৰী চিমলক টাইপ ব্যৰ্থ হৈছে!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK ছেটিং"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"নেটৱৰ্ক লক"</item>
+<item>"নেটৱৰ্কচাবচেট লক"</item>
+<item>"সেৱাপ্ৰদানকাৰী লক"</item>
+<item>"কৰ্প\'ৰেট লক"</item>
+<item>"SIM লক"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ডিভাইচৰ গৰাকীৰ দ্বাৰা কেৱল জৰুৰী কলবোৰৰ অনুমতি দিয়া হয়।"</string>
+<string name="change_pin_when_double_sim_card_info">"জৰুৰীকালীন ডায়েলাৰে SIM1-ত কেৱল পিন কোড সংশোধন কৰিব পাৰিব।"</string>
+<string name="volte_not_supported_error">"SIM কাৰ্ডে VoLTE সেৱা সমৰ্থন নকৰিবও পাৰে, অনুগ্ৰহ কৰি VoLTE-ৰ ছুইচ অফ কৰক আৰু পুনৰাই চেষ্টা কৰক।"</string>
+<string name="no_available_phone_accounts">"উপলব্ধ কলিংউণ্ট নাই"</string>
+<string name="enhanced_4g_lte_unuseable">"বৰ্তমানৰ VoLTE নেটৱৰ্কৰ কোনো সেৱা নাই, VoLTE HD কলসমূহ অফ কৰিবনে?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ভিডিঅ\' কলিং অন কৰিবলৈ আপুনি নেটৱৰ্ক ছেটিংছত %s মোডত কলসমূহ সক্ষম কৰিব লাগিব।"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"নবীনতম কলিং"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G কলিং"</string>
+</resources>

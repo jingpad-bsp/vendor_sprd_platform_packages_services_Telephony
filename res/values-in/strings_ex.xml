@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Panggilan Video</string>
+<string name="labelAudioCF">"Lanjutkan panggalin Audio"</string>
+<string name="labelVideoCF">"Lanjutkan panggilan video"</string>
+<string name="sum_cft_disabled">Nonaktifkan</string>
+<string name="labelCFT">"Meneruskan durasi"</string>
+<string name="start_time">":Waktu mulai"</string>
+<string name="stop_time">"Hentikan waktu"</string>
+<string name="sum_cft_default_setting">"Tidak diatur"</string>
+<string name="phonenumCFT_title">"Meneruskan nomor panggilan"</string>
+<string name="messageCFT">"Jumlah dari durasi meneruskan panggilan"</string>
+<string name="ActiveUnconCf">"Panggilan diteruskan tidak bersyarat"</string>
+<string name="ActiveConCf">"Panggilan diteruskan bersyarat"</string>
+<string name="CallForwarded">"Panggilan diteruskan"</string>
+<string name="CallWaiting">"Panggilan Tunggu"</string>
+<string name="OutCallBarred">"Panggilan keluar dilarang"</string>
+<string name="InCallBarred">"Panggilan masuk dilarang"</string>
+<string name="ForwardedCall">"Panggilan diteruskan"</string>
+<string name="CallHold">"Panggilan diadakan"</string>
+<string name="CallRetrieved">"Panggilan diaktifkan"</string>
+<string name="MultiCall">"Panggilan konferensi"</string>
+<string name="IncomingCallForwarded">"Panggilan masuk tambahan diteruskan"</string>
+<string name="menu_add_to_contacts">"Tambahkan ke Orang"</string>
+<string name="select_link_title">"Pilih tindakan"</string>
+<string name="confirm_open_browser_dialog_title">Pesan</string>
+<string name="confirm_open_browser_dialog_message">"Itu akan membuka browser, lanjutkan?"</string>
+<string name="turn_off_airplane_for_ss">"Matikan mode pesawat udara untuk menggunakan Layanan Pelengkap."</string>
+<string name="emergency_call">"Panggilan darurat"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Untuk melakukan panggilan darurat, nonaktifkan mode penerbangan terlebih dahulu."</string>
+<string name="ip_dialing_setting">"Pengaturan Panggilan IP"</string>
+<string name="edit_and_save_fdn">"Edit nomor panggilan tetap"</string>
+<string name="delete_and_save_fdn">"Hapus nomor panggilan tetap"</string>
+<string name="call_fdn_number_by_sim">"Panggil"</string>
+<string name="vt_call_fdn_numberr_by_sim">"Panggilan VT"</string>
+<string name="airplane_changed_on">"Mode pesawat diaktifkan."</string>
+<string name="number_empty">"Nomor tidak ada"</string>
+<string name="wait_message">Mohon tunggu...</string>
+<string name="unblock_pin2">"Tidak memblokir PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Masukkan PUK2 untuk membuka kunci SIM"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> mencoba bersisa"</string>
+<string name="oldPin2_Label">"PIN2 yang lama(<xliff:g>%s</xliff:g> mencoba bersisa"</string>
+<string name="puk2_code_label">"Tipe kode PUK2 (<xliff:g>%s</xliff:g> mencoba bersisa."</string>
+<string name="promptWordOne">"Sisa&#160;"</string>
+<string name="promptWordTwo">"&#160;kali"</string>
+<string name="adn_full">"Daftar FDN telah penuh"</string>
+<string name="fdn_invalid_name">"FDN tidak dapat memperbaharui karena nama tidak dapat melebihi 14 digit."</string>
+<string name="label_fdn">"Nomor Panggilan Tetap"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Tidak ada SIM Orange, nomor terbatas, cobalah lagi."</string>
+<string name="labelCFC">"Matikan semua fitur panggilan"</string>
+<string name="one_key_locked_notification">"Tipe ini tidak terkunci, Apakah anda mau menguncinya?"</string>
+<string name="one_key_unlocked_notification">"Tipe ini terkunci, apakah anda mau tidak menguncinya?"</string>
+<string name="one_key_unlocked">"Buka kunci"</string>
+<string name="one_key_locked">"Gembok"</string>
+<string name="one_key_operation_success">"Operasi berhasil."</string>
+<string name="one_key_operation_unsuccess">"Pengerjaan tidak berhasil, anda dapat mengulangi lagi!"</string>
+<string name="one_key_query_unsuccess">"Permintaan jenis kunci sim gagal!"</string>
+<string name="one_key_simlock_setting">"Pengaturan kUNCISIM"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Kunci Jaringan"</item>
+<item>"Kunci JaringanSubset"</item>
+<item>"Kunci PenyediaLayanan"</item>
+<item>"Kunci Bersama"</item>
+<item>"Kunci SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Hanya panggilan darurat yang diizinkan oleh pemilik perangkat."</string>
+<string name="change_pin_when_double_sim_card_info">"Pemanggil darurat hanya dapat mengubah kode PIN SIM1."</string>
+<string name="volte_not_supported_error">"Kartu SIM mungkin tidak mendukung layanan VoLTE, matikan kenop VoLTE dan coba lagi."</string>
+<string name="no_available_phone_accounts">"Tidak terdapat akun terhubung"</string>
+<string name="enhanced_4g_lte_unuseable">"Jaringan VoLTE saat ini tidak menyediakan layanan, apakah matikan saja panggilan VoLTE?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Untuk mengaktifkan panggilan video, Anda perlu mengaktifkan mode %s di pengaturan jaringan."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Panggilan Lanjut"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Panggilan 4G"</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Simu ya video</string>
+<string name="labelAudioCF">"Simu sikizi iliyoelekezwa"</string>
+<string name="labelVideoCF">"Simu ya video iliyoelekezwa"</string>
+<string name="sum_cft_disabled">Imelemazwa</string>
+<string name="labelCFT">"Muda ya kuelekeza"</string>
+<string name="start_time">"Wakati wa Kuanza"</string>
+<string name="stop_time">"Simamisha wakati"</string>
+<string name="sum_cft_default_setting">"Haijawekwa"</string>
+<string name="phonenumCFT_title">"Namba ya simu iliyoelekezwa"</string>
+<string name="messageCFT">"Idadi ya muda ya simu iliyoelekezwa"</string>
+<string name="ActiveUnconCf">"simu imesambazwa bila masharti"</string>
+<string name="ActiveConCf">"simu imesambazwa na masharti"</string>
+<string name="CallForwarded">"simu imesambazwa"</string>
+<string name="CallWaiting">"Kusubiri kwa simu"</string>
+<string name="OutCallBarred">"Simu inayopigwa imezuiliwa"</string>
+<string name="InCallBarred">"Simu inayoingia imezuiliwa"</string>
+<string name="ForwardedCall">"Simu iliyosambazwa"</string>
+<string name="CallHold">"Simu imesimamishwa"</string>
+<string name="CallRetrieved">"Simu imerudishwa"</string>
+<string name="MultiCall">"Simu ya mkutano"</string>
+<string name="IncomingCallForwarded">"Simu ziada zinazoingia zimesambazwa"</string>
+<string name="menu_add_to_contacts">"Ongeza kwa Watu"</string>
+<string name="select_link_title">"Chagua kitendo"</string>
+<string name="confirm_open_browser_dialog_title">Chagua lugha mpya</string>
+<string name="confirm_open_browser_dialog_message">"Itafungua kisakuzi, endelea?"</string>
+<string name="turn_off_airplane_for_ss">"Tafadhali zima hali ya anga ili uwezeshe Huduma ya Ziada."</string>
+<string name="emergency_call">"Simu ya dharura"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Ili upige simu ya dharura, tafadhali zima modi ya ndege kwanza."</string>
+<string name="ip_dialing_setting">"Mpangilio wa Upigaji IP"</string>
+<string name="edit_and_save_fdn">"Hariri nambari za kudayo za kudumu"</string>
+<string name="delete_and_save_fdn">"Futa nambari za kudayo za kudumu"</string>
+<string name="call_fdn_number_by_sim">"Piga Simu"</string>
+<string name="vt_call_fdn_numberr_by_sim">Simu ya VT</string>
+<string name="airplane_changed_on">"Modi ya ndege imewashwa."</string>
+<string name="number_empty">"Nambari ni tupu"</string>
+<string name="wait_message">Subiri tafadhali\u2026</string>
+<string name="unblock_pin2">"Fungua PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Ingiza PUK2 ili ufungue SIM yako"</string>
+<string name="pin2_Label">"PIN2 (Imesalia mara <xliff:g>%s</xliff:g>)"</string>
+<string name="oldPin2_Label">"PIN2 nzee (Imesalia mara <xliff:g>%s</xliff:g>)"</string>
+<string name="puk2_code_label">"Andika msimbo wa PUK2 (Imesalia mara <xliff:g>%s</xliff:g>)"</string>
+<string name="promptWordOne">"Imesalia&#160;"</string>
+<string name="promptWordTwo">"Mara&#160;"</string>
+<string name="adn_full">"Orodha ya FDN imejaa"</string>
+<string name="fdn_invalid_name">"FDN haijasasishwa kwa sababu jina haistahili kupita dijiti 14."</string>
+<string name="label_fdn">"Nambari za Kudayo za Kudumu"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Hakuna Orange SIM, nambari ni kidogo, tafadhali jaribu tena."</string>
+<string name="labelCFC">"Zima vipengele vyote vya kusambaza simu"</string>
+<string name="one_key_locked_notification">"Aina hii imefugwa,  unataka kuifungua?"</string>
+<string name="one_key_unlocked_notification">"Aina hii imefunguliwa, unataka kufungua?"</string>
+<string name="one_key_unlocked">"Fungua"</string>
+<string name="one_key_locked">"FUNGA"</string>
+<string name="one_key_operation_success">"Uendeshaji umefaulu."</string>
+<string name="one_key_operation_unsuccess">"Operesheni haijafanikiwa, unaweza jaribu tena!"</string>
+<string name="one_key_query_unsuccess">"Kudadisi aina ya simlock imefeli!"</string>
+<string name="one_key_simlock_setting">"Mpangilio ya SIMLOCK "</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Kufunga mtandao"</item>
+<item>"Kufunga NetworkSubset"</item>
+<item>"Kufunga ServiceProvider"</item>
+<item>"Kufunga Corporate"</item>
+<item>"Kufunga SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Ni simu za dharura tu zinaruhusiwa na mmiliki wa kifaa."</string>
+<string name="change_pin_when_double_sim_card_info">"Kipiga simu cha dharura kinaweza kurekebisha tu msimbo wa PIN wa SIM1."</string>
+<string name="volte_not_supported_error">"Huenda SIM kadi isikubali huduma ya VoLTE, tafadhali zima swichi ya VoLTE na ujaribu tena."</string>
+<string name="no_available_phone_accounts">"Hakuna maakaunti ya kupiga simu"</string>
+<string name="enhanced_4g_lte_unuseable">"Mtandao wa sasa wa VoLTE hauna huduma, ungependa kuzima simu za VoLTE HD?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Ili kuwasha simu ya video, utahitaji kuwezesha hali ya simu za %s katika mipangilio ya mtandao."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Simu Mahiri"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Simu ya 4G"</string>
+</resources>

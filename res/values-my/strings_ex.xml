@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"ဗီဒီယိုဖုန်းခေါ်မှု"</string>
+<string name="labelAudioCF">"အော်ဒီယိုဖုန်း လွှဲခြင်း"</string>
+<string name="labelVideoCF">"ဗီဒီယိုဖုန်း လွှဲခြင်း"</string>
+<string name="sum_cft_disabled">"ပိတ်ပြီး"</string>
+<string name="labelCFT">"လွှဲရန် ကြာချိန်"</string>
+<string name="start_time">"စတင်ချိန်"</string>
+<string name="stop_time">"ရပ်ချိန်"</string>
+<string name="sum_cft_default_setting">"မတပ်ဆင်ပါ"</string>
+<string name="phonenumCFT_title">"ဖုန်းခေါ်ဆိုမှု လွှဲရန်နံပါတ်"</string>
+<string name="messageCFT">"ဖုန်းလွှဲမည့် အချိန်တာကို သုံးရန် ဖုန်းနံပါတ်"</string>
+<string name="ActiveUnconCf">"ချက်ချင်းလိုင်းလွှဲပြီး"</string>
+<string name="ActiveConCf">"အချက်ပေးပြီးလိုင်းလွှဲပြီး"</string>
+<string name="CallForwarded">"ဖုန်းခေါ်ဆိုမှုကို လက်ဆင့်ကမ်းမည်"</string>
+<string name="CallWaiting">"ခေါ်ဆိုမှုစောင့်ဆိုင်းနေသည်"</string>
+<string name="OutCallBarred">"အထွက်ခေါ်ဆိုမှုတားမြစ်ပြီး"</string>
+<string name="InCallBarred">"အဝင်ခေါ်ဆိုမှုတားမြစ်ပြီး"</string>
+<string name="ForwardedCall">"ရှေ့သို့လွှဲပြောင်း ခေါ်ဆိုမှု"</string>
+<string name="CallHold">"ဖုန်းကိုင်ပါ"</string>
+<string name="CallRetrieved">"ဖုန်းခေါ်ဆိုမှုပြန်လည်ရယူပြီး"</string>
+<string name="MultiCall">"ကွန်ဖရင့် ဖုန်း"</string>
+<string name="IncomingCallForwarded">"နောက်ထပ်အဝင်ဖုန်းခေါ်ဆိုမှုအားရှေ့သို့လွှဲပြီး"</string>
+<string name="menu_add_to_contacts">"လူများသို့ ထည့်ပါ"</string>
+<string name="select_link_title">"လုပ်ဆောင်ချက်ရွေးပါ"</string>
+<string name="confirm_open_browser_dialog_title">"မက်ဆေ့ခ်ျ"</string>
+<string name="confirm_open_browser_dialog_message">"ဘရောက်ဆာဖွင့်လိမ့်မည်၊ ဆက်လုပ်မှာလား?"</string>
+<string name="turn_off_airplane_for_ss">"ဖြည့်စွက် ဝန်ဆောင်မှုကို သုံးရန် လေယာဉ်မုဒ်ကို ပိတ်ပေးပါ။"</string>
+<string name="emergency_call">"အရေးပေါ်ဖုန်းခေါ်ဆိုမှုများ"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"အရေးပေါ် ဖုန်းခေါ်ရန် လေယာဉ်မုဒ်ကို ဦးစွာ ပိတ်ပေးပါ။"</string>
+<string name="ip_dialing_setting">"IP ခေါ်ဆို ဆက်တင်"</string>
+<string name="edit_and_save_fdn">"ပုံသေခေါ်ဆိုမှုနံပါတ်ကို တည်းဖြတ်မည်"</string>
+<string name="delete_and_save_fdn">"ပုံသေသတ်မှတ်ထားသော နံပါတ်ကို ဖျက်ပါ"</string>
+<string name="call_fdn_number_by_sim">"ဖုန်းခေါ်ဆိုမှု"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT ဖုန်း"</string>
+<string name="airplane_changed_on">"လေယာဉ်မုဒ် ဖွင့်ထားသည်။"</string>
+<string name="number_empty">"နံပါတ်ဗလာ"</string>
+<string name="wait_message">"ကျေးဇူးပြု၍ စောင့်ဆိုင်းပါ"</string>
+<string name="unblock_pin2">"PIN2 ဖွင့်ပါ"</string>
+<string name="sum_fdn_unblock_pin2">"သင်၏ SIM ကတ်ကို သော့ဖွင့်ရန် PUK2 ကို ဖြည့်ပါ"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> လက်ကျန် ကြိုးစားမှု(များ))"</string>
+<string name="oldPin2_Label">"PIN2 အဟောင်း (<xliff:g>%s</xliff:g> လက်ကျန် ကြိုးစားမှု(များ))"</string>
+<string name="puk2_code_label">"PUK2 ကုဒ် ရိုက်ပါ (<xliff:g>%s</xliff:g> လက်ကျန် ကြိုးစားမှု(များ))"</string>
+<string name="promptWordOne">"ကျန်ရှိသည်&#160;"</string>
+<string name="promptWordTwo">" ကြိမ်"</string>
+<string name="adn_full">"FDN စာရင်းပြည့်နေ"</string>
+<string name="fdn_invalid_name">"အမည်သည် 14 လုံး ကျော်၍ မရသဖြင့် FDN ကို အပ်ဒိတ်မလုပ်ခဲ့ပါ။"</string>
+<string name="label_fdn">"ပုံသေခေါ်ဆိုမှုနံပါတ်များ"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Orange SIM မရှိပါ။ နံပါတ်ကို ကန့်သတ်ထားသည်။ ထပ်ကြိုးစားပေးပါ။"</string>
+<string name="labelCFC">"ဖုန်းလွှဲသည့် အင်္ဂါရပ်အားလုံးကို ပိတ်ပါ"</string>
+<string name="one_key_locked_notification">"ဤအမျိုးအစားကို သော့ဖွင့်ထားသည်။ ၎င်းကို သင် သော့ခတ်ထားလိုပါသလား။"</string>
+<string name="one_key_unlocked_notification">"ဤအမျိုးအစားကို သော့ခတ်ထားသည်။ ၎င်းကို သင် သော့ဖွင့်လိုပါသလား။"</string>
+<string name="one_key_unlocked">"သော့ဖွင့်ခြင်း"</string>
+<string name="one_key_locked">"သော့ခတ်ပါ"</string>
+<string name="one_key_operation_success">"ဆောင်ရွက်မှု အောင်မြင်ပါသည်။"</string>
+<string name="one_key_operation_unsuccess">"ဆောင်ရွက်မှု မအောင်မြင်ပါ၊ သင်က နောက်ထပ် ကြိုးစားနိုင်သည်။"</string>
+<string name="one_key_query_unsuccess">"SIM သော့ အမျိုးအစား ဒေတာတောင်းခံခြင်း မအောင်မြင်ပါ။"</string>
+<string name="one_key_simlock_setting">"SIM သော့ ဆက်တင်"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"ကွန်ရက်သော့"</item>
+<item>"ကွန်ရက်ခွဲသတ်မှတ် သော့"</item>
+<item>"ဝန်ဆောင်မှုပေးသူ သော့"</item>
+<item>"ကော်ပိုရိတ် သော့"</item>
+<item>"SIM သော့"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"အရေးပေါ် ဖုန်းခေါ်ဆိုမှုများကိုသာ စက်ပိုင်ရှင်က ခွင့်ပြုသည်။"</string>
+<string name="change_pin_when_double_sim_card_info">"အရေးပေါ်ဖုန်းခေါ်ဆိုသူကသာ SIM1 ၏ PIN ကို ပြင်ဆင်နိုင်သည်။"</string>
+<string name="volte_not_supported_error">"SIM ကတ်က VoLTE ဝန်ဆောင်မှုကို ပံ့ပိုးမပေးခြင်းဖြစ်နိုင်သည်၊ VoLTE ခလုတ်ကို ပိတ်ပေးပြီး ထပ်ကြိုးစားပါ။"</string>
+<string name="no_available_phone_accounts">"ရနိုင်သော ဖုန်းခေါ်ဆိုအကောင့်များ မရှိပါ"</string>
+<string name="enhanced_4g_lte_unuseable">"လက်ရှိ VoLTE ကွန်ရက်တွင် ဝန်ဆောင်မှု မရှိပါ၊ VoLTE HD ဖုန်းခေါ်ဆိုမှုများကို ပိတ်မလား။"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ဗီဒီယိုဖုန်းခေါ်ခြင်းကို ဖွင့်ရန် သင်က ကွန်ရက်ဆက်တင်များနှင့် %s မုဒ်ကို ဖွင့်ရန် လိုသည်။"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"အဆင့်မြင့် ဖုန်းခေါ်ဆိုခြင်း"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G ဖုန်းခေါ်ဆိုခြင်း"</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Telefonatë video</string>
+<string name="labelAudioCF">"Përcjellje e telefonatës audio"</string>
+<string name="labelVideoCF">"Përcjellje e telefonatës video"</string>
+<string name="sum_cft_disabled">Çaktivizuar</string>
+<string name="labelCFT">"Përcjellje e kohëzgjatjes"</string>
+<string name="start_time">Ora e fillimit</string>
+<string name="stop_time">"koha e ndalimit"</string>
+<string name="sum_cft_default_setting">Nuk është vendosur</string>
+<string name="phonenumCFT_title">"numri i përcjelljes të thirrjes"</string>
+<string name="messageCFT">"Numri i përcjelljes të kohëzgjatjes"</string>
+<string name="ActiveUnconCf">Telefonata e përcjellë pa kushte</string>
+<string name="ActiveConCf">Telefonata e përcjellë me kushte</string>
+<string name="CallForwarded">Telefonata e përcjellë</string>
+<string name="CallWaiting">Pritja e telefonatave</string>
+<string name="OutCallBarred">Telefonata dalëse e mbrojtur</string>
+<string name="InCallBarred">Telefonata hyrëse e mbrojtur</string>
+<string name="ForwardedCall">Telefonata e përcjellë</string>
+<string name="CallHold">Telefonata në pritje</string>
+<string name="CallRetrieved">Telefonata u rikuperua</string>
+<string name="MultiCall">Telefonatë konferencë</string>
+<string name="IncomingCallForwarded">Telefonata hyrëse shtesë e përcjellë</string>
+<string name="menu_add_to_contacts">Shto në Njerëzit</string>
+<string name="select_link_title">Zgjidh veprimin</string>
+<string name="confirm_open_browser_dialog_title">Mesazhi</string>
+<string name="confirm_open_browser_dialog_message">Do të hapë shfletuesin, vazhdo?</string>
+<string name="turn_off_airplane_for_ss">"Çaktivizo modalitetin Avion për kryer Shërbimi plotësues."</string>
+<string name="emergency_call">Telefonatë emergjence</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Për të bërë thirrje emergjence, në fillim aktivizo modalitetin në fluturim."</string>
+<string name="ip_dialing_setting">Konfigurimi i telefonimit IP</string>
+<string name="edit_and_save_fdn">Ndrysho numrin e telefonimit fiks</string>
+<string name="delete_and_save_fdn">Fshi numrin e telefonimit fiks</string>
+<string name="call_fdn_number_by_sim">Telefono</string>
+<string name="vt_call_fdn_numberr_by_sim">Telefonatë VT</string>
+<string name="airplane_changed_on">Metoda e aeroplanit e ndezur.</string>
+<string name="number_empty">Numri është bosh</string>
+<string name="wait_message">Të lutem prit...</string>
+<string name="unblock_pin2">Zhblloko PIN2</string>
+<string name="sum_fdn_unblock_pin2">"Fut kodin PUK2 që të zhbllokosh kartën SIM"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> përpjekje të mbetura)"</string>
+<string name="oldPin2_Label">"PIN2 i vjetër (<xliff:g>%s</xliff:g> përpjekje të mbetura"</string>
+<string name="puk2_code_label">"Shkruani kodin PUK2 (<xliff:g>%s</xliff:g> përpjekje të mbetura)"</string>
+<string name="promptWordOne">"Mbetur&#160;"</string>
+<string name="promptWordTwo">"&#160;herë"</string>
+<string name="adn_full">Lista FND është plot</string>
+<string name="fdn_invalid_name">"FDN nuk është përditësuar sepse emri nuk mund t’i kalojë 14 shifra."</string>
+<string name="label_fdn">Numrat e telefonimit fiks</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Nuk ka asnjë SIM Orange, numri është i kufizuar, provoje përsëri."</string>
+<string name="labelCFC">"Çaktivizo të gjitha veçoritë e transferimit të thirrjeve"</string>
+<string name="one_key_locked_notification">"Ky tip është I HAPUR. Doni ta bllokoni?"</string>
+<string name="one_key_unlocked_notification">"Ky tip është I KYÇUR. Doni ta zhbllokoni?"</string>
+<string name="one_key_unlocked">Hap</string>
+<string name="one_key_locked">Kyç</string>
+<string name="one_key_operation_success">"Veprimi u krye me sukses."</string>
+<string name="one_key_operation_unsuccess">"Veprimi pa sukses, mund të provoni përsëri!"</string>
+<string name="one_key_query_unsuccess">"Kërkimi i kyçit të sim dështoi!"</string>
+<string name="one_key_simlock_setting">"Konfigurime të bllokimit SIM"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Kyç rrjeti"</item>
+<item>"Kyç Nënset Rrjeti"</item>
+<item>"Kyç OperatorShërbimi"</item>
+<item>"Kyç Korporate"</item>
+<item>"Bllokim i SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Pronari i pajisjes ka lejuar vetëm thirrjet emergjencës."</string>
+<string name="change_pin_when_double_sim_card_info">"Formuesi i nr. të emergjencës modifikon vetëm kodin PIN të SIM1."</string>
+<string name="volte_not_supported_error">"Karta SIM ndoshta s\'e mbështet shërbimin VoLTE, fik çelësin VoLTE dhe provoje përsëri."</string>
+<string name="no_available_phone_accounts">"Nuk ka llogari telefonimi të disponueshme"</string>
+<string name="enhanced_4g_lte_unuseable">"Rrjeti aktual VoLTE nuk ka shërbim, të çaktivizohen Thirrjet VoLTE HD?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Për të aktivizuar thirrje me video duhet të aktivizosh modalitetin %s te cilësimet e rrjetit."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Thirrja e avancuar"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Thirrja 4G"</string>
+</resources>

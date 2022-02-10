@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Видео звонок</string>
+<string name="labelAudioCF">"Переадресация аудиовызова"</string>
+<string name="labelVideoCF">"Переадресация видеовызова"</string>
+<string name="sum_cft_disabled">Отключен</string>
+<string name="labelCFT">"Продолжительность переадресации вызова"</string>
+<string name="start_time">"Время начала"</string>
+<string name="stop_time">"Время завершения"</string>
+<string name="sum_cft_default_setting">"Не задано"</string>
+<string name="phonenumCFT_title">"номер для переадресации вызова"</string>
+<string name="messageCFT">"Количество переадресаций вызова"</string>
+<string name="ActiveUnconCf">"Активирован безусловный режим переадресации вызова"</string>
+<string name="ActiveConCf">"Активирован условный режим переадресации вызова"</string>
+<string name="CallForwarded">"Вызов переадресован"</string>
+<string name="CallWaiting">"Ожидание вызова"</string>
+<string name="OutCallBarred">"Исходящий вызов запрещен"</string>
+<string name="InCallBarred">"входящий вызов запрещен"</string>
+<string name="ForwardedCall">"Переадресованный вызов"</string>
+<string name="CallHold">"удержание вызова"</string>
+<string name="CallRetrieved">Звонок восстановлен</string>
+<string name="MultiCall">Конференц-связь</string>
+<string name="IncomingCallForwarded">"Дополнительный входящий вызов переадресован"</string>
+<string name="menu_add_to_contacts">"Добавить в контакты"</string>
+<string name="select_link_title">"Выбор действия"</string>
+<string name="confirm_open_browser_dialog_title">Сообщение</string>
+<string name="confirm_open_browser_dialog_message">Будет открыт браузер. Продолжить?</string>
+<string name="turn_off_airplane_for_ss">"Выключите режим \"в самолете\", чтобы использовать дополнительную услугу."</string>
+<string name="emergency_call">"Экстренный вызов"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Чтобы сделать экстренный вызов, сначала выключите режим полета."</string>
+<string name="ip_dialing_setting">"настройки IP-набора"</string>
+<string name="edit_and_save_fdn">"Изменить номер ограниченного набора"</string>
+<string name="delete_and_save_fdn">"Удалить номер ограниченного набора"</string>
+<string name="call_fdn_number_by_sim">Вызов</string>
+<string name="vt_call_fdn_numberr_by_sim">VT-вызов </string>
+<string name="airplane_changed_on">"Включен режим "в самолете"."</string>
+<string name="number_empty">Номер пуст</string>
+<string name="wait_message">Пожалуйста, подождите:</string>
+<string name="unblock_pin2">"Разблокировать PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Введите PUK2-код, чтобы разблокировать свою SIM-карту"</string>
+<string name="pin2_Label">PIN2 (<xliff:g>%s</xliff:g> осталось попыток</string>
+<string name="oldPin2_Label">Старый PIN2 (<xliff:g>%s</xliff:g> осталось попыток)</string>
+<string name="puk2_code_label">"Введите код PUK2 (<xliff:g>%s</xliff:g> осталось попыток)"</string>
+<string name="promptWordOne">"Осталось столько раз:&#160;"</string>
+<string name="promptWordTwo">"&#160;раз"</string>
+<string name="adn_full">Список FDN заполнен</string>
+<string name="fdn_invalid_name">"Номер фиксированного набора не обновлен, поскольку имя не может превышать 14 цифр."</string>
+<string name="label_fdn">"Разрешенные номера"</string>
+<string name="notification_channel_fdn">"Закрытая абонентская группа"</string>
+<string name="number_limited_message">"Нет SIM-карты Orange. Нельзя позвонить с этого номера. Повторите попытку."</string>
+<string name="labelCFC">"Выключить все функции переадресации вызовов"</string>
+<string name="one_key_locked_notification">"Данный тип РАЗБЛОКИРОВАН, вы хотите его заблокировать?"</string>
+<string name="one_key_unlocked_notification">"Данный тип ЗАБЛОКИРОВАН, вы хотите его разблокировать?"</string>
+<string name="one_key_unlocked">"Разблокировать"</string>
+<string name="one_key_locked">"Заблокировать"</string>
+<string name="one_key_operation_success">"Действие выполнено."</string>
+<string name="one_key_operation_unsuccess">"Выполнить операцию не удалось, попытайтесь снова!"</string>
+<string name="one_key_query_unsuccess">"Ввести запрос на блокировку SIM-карты не удалось!"</string>
+<string name="one_key_simlock_setting">"Настройки блокировки SIM-карты"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Блокировка сети"</item>
+<item>"Блокировка подгруппы сети"</item>
+<item>"Блокировка поставщика услуги"</item>
+<item>"Общая блокировка"</item>
+<item>"Блокировка SIM-карты"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Владелец устройства разрешил только экстренные вызовы."</string>
+<string name="change_pin_when_double_sim_card_info">"Набиратель номеров экстренных служб может изменять только PIN-код SIM-карты 1."</string>
+<string name="volte_not_supported_error">"SIM-карта может не поддерживать службу VoLTE. Выключите службу VoLTE и повторите попытку."</string>
+<string name="no_available_phone_accounts">"Нет доступных отчётов о вызовах"</string>
+<string name="enhanced_4g_lte_unuseable">"Текущая сеть VoLTE не работает. Выключить HD-вызовы VoLTE?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Чтобы включить видеозвонки, активируйте режим %s в настройках сети."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Расширенные вызовы"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Вызовы в 4G"</string>
+</resources>

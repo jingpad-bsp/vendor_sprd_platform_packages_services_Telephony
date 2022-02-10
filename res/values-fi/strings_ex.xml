@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"Videopuh."</string>
+<string name="labelAudioCF">"Äänipuhelu välitetty eteenpäin"</string>
+<string name="labelVideoCF">"Videopuhelu välitettu eteenpäin"</string>
+<string name="sum_cft_disabled">"Pois käytöstä"</string>
+<string name="labelCFT">"Kesto välitetty"</string>
+<string name="start_time">"Aloitusaika"</string>
+<string name="stop_time">"Pysäytysaika"</string>
+<string name="sum_cft_default_setting">"Ei asetettu"</string>
+<string name="phonenumCFT_title">"soita uudelleen numeroon"</string>
+<string name="messageCFT">"välitettyjen puheluiden määrä"</string>
+<string name="ActiveUnconCf">"Puhelu siirtyy ehdottomasti"</string>
+<string name="ActiveConCf">"Puhelu siirtyy ehdollisesti"</string>
+<string name="CallForwarded">"Puhelu siirretty"</string>
+<string name="CallWaiting">"Koputus"</string>
+<string name="OutCallBarred">"Lähtevä puhelu suljettu"</string>
+<string name="InCallBarred">"Saapuva puhelu suljettu"</string>
+<string name="ForwardedCall">"Siirretty puhelu"</string>
+<string name="CallHold">"Puhelu pidetty"</string>
+<string name="CallRetrieved">Haettu Puhelu</string>
+<string name="MultiCall">"Puhelinneuvottelu"</string>
+<string name="IncomingCallForwarded">"Toinen saapuva puhelu siirretty"</string>
+<string name="menu_add_to_contacts">"Lisää ihmisiin"</string>
+<string name="select_link_title">"Valitse toiminto"</string>
+<string name="confirm_open_browser_dialog_title">"Viesti"</string>
+<string name="confirm_open_browser_dialog_message">"Se avaa selaimen, jatkatko?"</string>
+<string name="turn_off_airplane_for_ss">"Kytke lentokonetila pois päältä lisäpalvelua varten."</string>
+<string name="emergency_call">"Hätäpuhelu"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Jos haluat soittaa hätäpuhelun, poista ensin lentotila käytöstä."</string>
+<string name="ip_dialing_setting">"IP valinta-asetukset"</string>
+<string name="edit_and_save_fdn">"Muokkaa kiinteää numeroa"</string>
+<string name="delete_and_save_fdn">"Poista kiinteä numero"</string>
+<string name="call_fdn_number_by_sim">"Soita"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT soitto"</string>
+<string name="airplane_changed_on">"Lentokonetila otettu käyttöön."</string>
+<string name="number_empty">"Numero on tyhjä"</string>
+<string name="wait_message">"Odota…"</string>
+<string name="unblock_pin2">"Vapauta PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Poista SIM-kortin lukitus syöttämällä PUK2"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> pysyvät yritykse(t))"</string>
+<string name="oldPin2_Label">"Vanha PIN2 (<xliff:g>%s</xliff:g> yrityksen ylläpitäminen(t))"</string>
+<string name="puk2_code_label">"Kirjoita PUK2 koodi (<xliff:g>%s</xliff:g> jäljelläolevat yrityksen(t))"</string>
+<string name="promptWordOne">"Jäljellä&#160;"</string>
+<string name="promptWordTwo">"&#160;aika"</string>
+<string name="adn_full">"FDN-lista on täynnä"</string>
+<string name="fdn_invalid_name">"FDN ei päivitetty koska nimi ei saa ylittää 14 numeroa."</string>
+<string name="label_fdn">"Kiinteät numerot"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Ei Orange SIM -korttia, numero on rajoitettu, yritä uudelleen."</string>
+<string name="labelCFC">"Poista kaikki soitonsiirto-ominaisuudet käytöstä"</string>
+<string name="one_key_locked_notification">"Tämä tyyppi on LUKITSEMATON, haluatko lukita sen?"</string>
+<string name="one_key_unlocked_notification">"Tämä tyyppi on LUKITTU, haluatko avata sen?"</string>
+<string name="one_key_unlocked">"Poista lukitus"</string>
+<string name="one_key_locked">"LOCK"</string>
+<string name="one_key_operation_success">"Toiminto onnistui."</string>
+<string name="one_key_operation_unsuccess">"Epäonnistunut toiminto, kokeile uudelleen!"</string>
+<string name="one_key_query_unsuccess">"Kysely simlock-tyyppi epäonnistui!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK asetukset"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Verkkolukko"</item>
+<item>"NetworkSubset-Lukko"</item>
+<item>"ServiceProvider-Lukko"</item>
+<item>"Yrityslukko"</item>
+<item>"SIM-Lukko"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Laitteen omistaja on sallinut vain hätäpuhelut."</string>
+<string name="change_pin_when_double_sim_card_info">"Hätänumeronvalitsin voi muuttaa vain SIM1-kortin PIN-koodia."</string>
+<string name="volte_not_supported_error">"SIM-kortti ei välttämättä tue VoLTE-palvelua, kytke VoLTE-kytkin pois päältä ja yritä uudelleen."</string>
+<string name="no_available_phone_accounts">"Ei saatavilla olevia soittotilejä"</string>
+<string name="enhanced_4g_lte_unuseable">"Nykyisellä VoLTE-verkolla ei ole palvelua, kytketäänkö VoLTE HD -puhelut pois päältä?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Videopuheluiden soittamista varten %s-tila täytyy ottaa käyttöön verkkoasetuksissa."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Lisäpuheluasetukset"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G-puhelut"</string>
+</resources>

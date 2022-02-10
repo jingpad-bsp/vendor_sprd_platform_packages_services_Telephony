@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"వీడియో కాల్"</string>
+<string name="labelAudioCF">"ఆడియో కాల్ ఫార్వర్డ్"</string>
+<string name="labelVideoCF">"వీడియో కాల్ ఫార్వర్డ్"</string>
+<string name="sum_cft_disabled">"డిజేబుల్ చేయబడింది"</string>
+<string name="labelCFT">"వ్యవధి ఫార్వర్డ్"</string>
+<string name="start_time">"ప్రారంభ సమయం"</string>
+<string name="stop_time">"స్టాప్ టైమ్"</string>
+<string name="sum_cft_default_setting">"సెట్ చేయబడలేదు"</string>
+<string name="phonenumCFT_title">"కాల్ ఫార్వర్డింగ్ నంబర్"</string>
+<string name="messageCFT">"కాల్‌ఫార్వర్డ్ వ్యవధి యొక్క సంఖ్య"</string>
+<string name="ActiveUnconCf">"కాల్ ఫార్వర్డెడ్ అన్కండీషనల్"</string>
+<string name="ActiveConCf">"కాల్ ఫార్వర్డెడ్ కండీషనల్"</string>
+<string name="CallForwarded">"కాల్ ఫార్వర్డెడ్ "</string>
+<string name="CallWaiting">"కాల్ వెయిటింగ్"</string>
+<string name="OutCallBarred">"అవుట్ గోయింగ్ కాల్ ఆపబడింది"</string>
+<string name="InCallBarred">"ఇన్ కమింగ్ కాల్ నిరోధించబడింది" </string>
+<string name="ForwardedCall">"ఫార్వర్డ్ చేయబడిన కాల్"</string>
+<string name="CallHold">"కాల్ ఆపబడింది"</string>
+<string name="CallRetrieved">"కాల్ రిట్రీవ్ చేయబడింది"</string>
+<string name="MultiCall">"కాన్ఫరెన్స్ కాల్"</string>
+<string name="IncomingCallForwarded">"ఎక్కువగా ఉన్న ఇన్కమింగ్ కాల్ ఫార్వర్డ్ చేయబడింది"</string>
+<string name="menu_add_to_contacts">"వ్యక్తులకు జోడించండి"</string>
+<string name="select_link_title">"చర్య ఎంచుకోండి"</string>
+<string name="confirm_open_browser_dialog_title">"మెసేజ్"</string>
+<string name="confirm_open_browser_dialog_message">"అది బ్రౌజర్ ను ఓపెన్ చేస్తుంది, కొనసాగించాలా?"</string>
+<string name="turn_off_airplane_for_ss">"దయచేసి అనుబంధ సేవ చేయడానికి విమానం మోడ్‌ను ఆపివేయండి."</string>
+<string name="emergency_call">"అత్యవసర కాల్"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ఎమర్జెన్సీ కాల్ చేయటానికి, దయచేసి మొదట ఫ్లయిట్ మోడ్ ను ఆపివేయండి"</string>
+<string name="ip_dialing_setting">"IP డయల్ సెట్టింగ్"</string>
+<string name="edit_and_save_fdn">"ఫిక్సెడ్ డయలింగ్ నంబర్ ఎడిట్ చేయండి"</string>
+<string name="delete_and_save_fdn">"ఫిక్సెడ్ డయలింగ్ నంబర్ డిలీట్ చేయండి"</string>
+<string name="call_fdn_number_by_sim">"కాల్"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT కాల్"</string>
+<string name="airplane_changed_on">"ఎయిర్‌ప్లేన్ మోడ్ ఆన్ చేయబడింది."</string>
+<string name="number_empty">"నంబర్ ఖాళీగా ఉన్నది"</string>
+<string name="wait_message">"దయచేసి ఎదురు చూడండి..."</string>
+<string name="unblock_pin2">"PIN2ను అన్బ్లాక్ చేయండి"</string>
+<string name="sum_fdn_unblock_pin2">"మీ SIMను అన్‌బ్లాక్ చేయడానికి PUK2 ని నమోదు చేయండి"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> మిగిలిన ప్రయత్నము(లు))"</string>
+<string name="oldPin2_Label">"పాత PIN2 (<xliff:g>%s</xliff:g> మిగిలిన ప్రయత్నము(లు))"</string>
+<string name="puk2_code_label">"PUK2 కోడ్ టైప్ చేయండి (<xliff:g>%s</xliff:g> మిగిలిన ప్రయత్నము(లు))"</string>
+<string name="promptWordOne">"ఉన్న:"</string>
+<string name="promptWordTwo">": సమయం (లు)"</string>
+<string name="adn_full">"FDN లిస్ట్ నిండుగా ఉన్నది"</string>
+<string name="fdn_invalid_name">" పేరు 14 అంకెలు అధిగమించకూడదు కాబట FDN అప్డేట్ చేయబడలేదు."</string>
+<string name="label_fdn">"ఫిక్స్ డయలింగ్ నంబర్స్"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"ఆరెంజ్ SIM లేదు, సంఖ్య పరిమితం, దయచేసి మళ్ళీ ప్రయత్నించండి."</string>
+<string name="labelCFC">"అన్ని కాల్ ఫార్వార్డింగ్ లక్షణాలను ఆపివేయండి"</string>
+<string name="one_key_locked_notification">"ఈ టైప్ అన్లాక్డ్, మీరు దానిని లాక్ చేయాలని అనుకుంటున్నారా?"</string>
+<string name="one_key_unlocked_notification">"ఈ టైప్ లాక్డ్, మీరు దానిని లాక్ చేయాలని అనుకుంటున్నారా?"</string>
+<string name="one_key_unlocked">"అన్లాక్"</string>
+<string name="one_key_locked">"లాక్"</string>
+<string name="one_key_operation_success">"ఆపరేషన్ విజయవంతమైంది."</string>
+<string name="one_key_operation_unsuccess">"ఆపరేషన్ విజయవంతము కాలేదు. మీరు మరలా ప్రయత్నము చేయవచ్చు!"</string>
+<string name="one_key_query_unsuccess">"క్వెర్రీ simlock టైప్ ఫెయిల్ అయింది!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK సెట్టింగ్"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"నెట్వర్క్ లాక్"</item>
+<item>"నెట్వర్క్స్ సబ్సెట్ లాక్"</item>
+<item>"సర్వీస్ ప్రొవైడర్ లాక్"</item>
+<item>"కార్పోరేట్ లాక్"</item>
+<item>"SIM లాక్"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"పరికర యజమాని చే మాత్రమే ఎమర్జెన్సీ కాల్స్ అనుమతించబడతాయి"</string>
+<string name="change_pin_when_double_sim_card_info">"అత్యవసర డయలర్ SIM1 యొక్క పిన్ కోడ్‌ను మాత్రమే సవరించగలదు"</string>
+<string name="volte_not_supported_error">"SIM కార్డ్ VoLTE సేవకు మద్దతు ఇవ్వకపోవచ్చు, దయచేసి VoLTE స్విచ్ ఆఫ్ చేసి మళ్ళీ ప్రయత్నించండి."</string>
+<string name="no_available_phone_accounts">"కాలింగ్ అకౌంట్స్ లేవు"</string>
+<string name="enhanced_4g_lte_unuseable">"ప్రస్తుత VoLTE నెట్‌వర్క్‌కు సేవ లేదు, VoLTE HD కాల్‌లను ఆపివేయాలా?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"వీడియో కాలింగ్‌ను ప్రారంభించడానికి, మీరు నెట్‌వర్క్ సెట్టింగ్‌లలో%s మోడ్‌ను ప్రారంభించాలి."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"అడ్వాన్స్డ్ కాలింగ్"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4Gకాలింగ్"</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Cuộc gọi video</string>
+<string name="labelAudioCF">"Chuyển tiếp cuộc gọi âm thanh"</string>
+<string name="labelVideoCF">"Chuyển tiếp cuộc gọi video"</string>
+<string name="sum_cft_disabled">Tắt</string>
+<string name="labelCFT">"Thời gian chuyển tiếp"</string>
+<string name="start_time">"Thời gian bắt đầu"</string>
+<string name="stop_time">"Thời gian dừng"</string>
+<string name="sum_cft_default_setting">"Chưa cài"</string>
+<string name="phonenumCFT_title">"Gọi số chuyển tiếp"</string>
+<string name="messageCFT">"Số thời gian cuộc gọi chuyển tiếp"</string>
+<string name="ActiveUnconCf">"Cuộc gọi được chuyển tiếp vô điều kiện"</string>
+<string name="ActiveConCf">"Cuộc gọi được chuyển tiếp có điều kiện"</string>
+<string name="CallForwarded">"Cuộc gọi được chuyển tiếp"</string>
+<string name="CallWaiting">"Chờ cuộc gọi"</string>
+<string name="OutCallBarred">"Cuộc gọi đi bị chặn"</string>
+<string name="InCallBarred">"Cuộc gọi đến bị chặn"</string>
+<string name="ForwardedCall">"Cuộc gọi được chuyển tiếp"</string>
+<string name="CallHold">"Cuộc gọi bị chặn"</string>
+<string name="CallRetrieved">" Cuộc gọi được nhận"</string>
+<string name="MultiCall">"Cuộc gọi hội thảo"</string>
+<string name="IncomingCallForwarded">"Gọi đến bổ sung chuyển tiếp"</string>
+<string name="menu_add_to_contacts">"Thêm vào danh bạ"</string>
+<string name="select_link_title">"Chọn hành động"</string>
+<string name="confirm_open_browser_dialog_title">Tin nhắn</string>
+<string name="confirm_open_browser_dialog_message">"Ứng dụng sẽ mở trình duyệt, tiếp tục?"</string>
+<string name="turn_off_airplane_for_ss">"Vui lòng tắt chế độ máy bay trước khi sử dụng Dịch vụ bổ sung."</string>
+<string name="emergency_call">"Cuộc gọi khẩn cấp"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Để thực hiện cuộc gọi khẩn cấp, hãy tắt chế độ trên máy bay trước."</string>
+<string name="ip_dialing_setting">"Cài đặt IP quay số"</string>
+<string name="edit_and_save_fdn">"Chỉnh sửa số quay cố định"</string>
+<string name="delete_and_save_fdn">"Xóa số quay cố định"</string>
+<string name="call_fdn_number_by_sim">"Cuộc gọi"</string>
+<string name="vt_call_fdn_numberr_by_sim">"Cuộc gọi VT"</string>
+<string name="airplane_changed_on">"Đang bật chế độ trên máy bay."</string>
+<string name="number_empty">"Số bị bỏ trống"</string>
+<string name="wait_message">Hãy đợi...</string>
+<string name="unblock_pin2">"Mở khóa PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Nhập mã PUK2 để bỏ chặn SIM của bạn"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> lần thử còn lại)"</string>
+<string name="oldPin2_Label">"PIN2 cũ (<xliff:g>%s</xliff:g> lần thử còn lại)"</string>
+<string name="puk2_code_label">"Gõ mã PUK2 (<xliff:g>%s</xliff:g> lần thử còn lại)"</string>
+<string name="promptWordOne">"Bạn còn&#160;"</string>
+<string name="promptWordTwo">"&#160;lần"</string>
+<string name="adn_full">"Danh sách FDN đầy"</string>
+<string name="fdn_invalid_name">"FDN chưa được cập nhật bởi vì tên không thể vượt quá 14 chữ số."</string>
+<string name="label_fdn">"Số quay cố định"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Không có SIM Orange, số bị hạn chế, vui lòng thử lại."</string>
+<string name="labelCFC">"Tắt tất cả các tính năng chuyển tiếp cuộc gọi"</string>
+<string name="one_key_locked_notification">"Loại này là KHÔNG ĐƯỢC KHÓA, Bạn có muốn khóa nó?"</string>
+<string name="one_key_unlocked_notification">"Loại này ĐƯỢC KHOÁ, Bạn có muốn mở nó?"</string>
+<string name="one_key_unlocked">"Mở khóa"</string>
+<string name="one_key_locked">"KHÓA"</string>
+<string name="one_key_operation_success">"Thao tác thành công."</string>
+<string name="one_key_operation_unsuccess">"Thao tác không thành công, bạn có thể thử một lần nữa!"</string>
+<string name="one_key_query_unsuccess">"Truy vấn loại simlock thất bại!"</string>
+<string name="one_key_simlock_setting">"Thiết lập SIMLOCK"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Khoá mạng"</item>
+<item>"Khóa Subset Mạng"</item>
+<item>"Khóa Nhà cung ấp Dịch vụ"</item>
+<item>"Khóa Công ty"</item>
+<item>"Khóa SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Người dùng chính chỉ cho phép các cuộc gọi khẩn cấp."</string>
+<string name="change_pin_when_double_sim_card_info">"Trình quay số khẩn cấp chỉ có thể sửa đổi mã PIN của SIM1."</string>
+<string name="volte_not_supported_error">"Thẻ SIM có thể không hỗ trợ dịch vụ VoLTE, vui lòng tắt tùy chọn VoLTE và thử lại."</string>
+<string name="no_available_phone_accounts">"Không có tài khoản gọi điện thoại có sẵn"</string>
+<string name="enhanced_4g_lte_unuseable">"Mạng VoLTE hiện tại không có dịch vụ, có nên tắt các cuộc gọi VoLTE HD không?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Để bật cuộc gọi video, bạn cần bật chế độ %s trong cài đặt mạng."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Cuộc gọi nâng cao"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Cuộc gọi 4G"</string>
+</resources>

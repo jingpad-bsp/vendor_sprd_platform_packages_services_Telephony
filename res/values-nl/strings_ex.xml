@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Video oproep</string>
+<string name="labelAudioCF">"Audio oproepen doorsturen"</string>
+<string name="labelVideoCF">"Video oproep doorsturen"</string>
+<string name="sum_cft_disabled">Uitgeschakeld</string>
+<string name="labelCFT">"Duur doorsturen"</string>
+<string name="start_time">"Begintijd"</string>
+<string name="stop_time">"stop tijd"</string>
+<string name="sum_cft_default_setting">"Niet ingesteld"</string>
+<string name="phonenumCFT_title">"bel doorsturen nummer"</string>
+<string name="messageCFT">"Duratie oproep doorsturen"</string>
+<string name="ActiveUnconCf">"Onconditioneel Doorschakelen"</string>
+<string name="ActiveConCf">"Conditioneel Doorschakelen"</string>
+<string name="CallForwarded">"Doorschakelen"</string>
+<string name="CallWaiting">"Wisselgesprek"</string>
+<string name="OutCallBarred">"Uitgaande oproep geblokkeerd"</string>
+<string name="InCallBarred">"Inkomende oproep geblokkeerd"</string>
+<string name="ForwardedCall">"Doorgeschakelde oproep"</string>
+<string name="CallHold">"Oproep vastgezet"</string>
+<string name="CallRetrieved">"Oproep opgehaald"</string>
+<string name="MultiCall">"Vergadering gesprek"</string>
+<string name="IncomingCallForwarded">"Bijkomende inkomende oproep doorgeschakelt"</string>
+<string name="menu_add_to_contacts">"Toevoegen aan Mensen"</string>
+<string name="select_link_title">"Kies actie"</string>
+<string name="confirm_open_browser_dialog_title">Boodschap</string>
+<string name="confirm_open_browser_dialog_message">"Het zal de browser openen, doorgaan?"</string>
+<string name="turn_off_airplane_for_ss">"Schakel de Vliegtuigmodus uit om met de Aanvullende service te werken."</string>
+<string name="emergency_call">"Noodoproep"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Voordat u een noodoproep kunt sturen, moet u eerst de vliegtuigmodus uitschakelen."</string>
+<string name="ip_dialing_setting">"IP inbellen instelling"</string>
+<string name="edit_and_save_fdn">"Vast inbelnummer bewerken"</string>
+<string name="delete_and_save_fdn">"Vast inbelnummer verwijderen"</string>
+<string name="call_fdn_number_by_sim">"Oproep"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT oproep"</string>
+<string name="airplane_changed_on">"Vliegtuigmodus ingeschakeld"</string>
+<string name="number_empty">"Nummer is leeg"</string>
+<string name="wait_message">Wacht alstublieft...</string>
+<string name="unblock_pin2">"Deblokkeer PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Voer de PUK2-code in om uw simkaart te ontgrendelen"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> overgebleven poging(en))"</string>
+<string name="oldPin2_Label">"Oude PIN2 (<xliff:g>%s</xliff:g> overgebleven poging(en))"</string>
+<string name="puk2_code_label">"Type PUK2 code (<xliff:g>%s</xliff:g> overgebleven poging(en))"</string>
+<string name="promptWordOne">"Resterend&#160;"</string>
+<string name="promptWordTwo">"&#160;keer"</string>
+<string name="adn_full">"FDN lijst is vol"</string>
+<string name="fdn_invalid_name">"FDN werd niet geüpdate omdat de naam niet langer kan zijn dan 14  cijfers."</string>
+<string name="label_fdn">"Vaste inbelnummers"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Er is geen Orange simkaart, nummer is beperkt, probeer het opnieuw."</string>
+<string name="labelCFC">"Schakel alle doorschakelfuncties uit"</string>
+<string name="one_key_locked_notification">"Dit type is ONTGRENDELD, Wilt u het vergrendelen?"</string>
+<string name="one_key_unlocked_notification">"Dit type is VERGRENDELD, Wilt u het ontgrendelen?"</string>
+<string name="one_key_unlocked">"ONTGRENDELEN"</string>
+<string name="one_key_locked">"VERGRENDELEN"</string>
+<string name="one_key_operation_success">"Bewerking uitgevoerd."</string>
+<string name="one_key_operation_unsuccess">"Werking mislukt, u kunt opnieuw proberen!"</string>
+<string name="one_key_query_unsuccess">"Opvragen simvergendeling type mislukt!"</string>
+<string name="one_key_simlock_setting">"SIMVERGRENDELING Instellingen"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Netwerk Vergrendeling"</item>
+<item>"NetwerkSubset Vergrendeling"</item>
+<item>"ServiceProvider Vergrendeling"</item>
+<item>"Bedrijfsvergrendeling"</item>
+<item>"SIM vergrendeling"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"Alleen noodoproepen zijn door de eigenaar van het apparaat toegestaan."</string>
+<string name="change_pin_when_double_sim_card_info">"De bel-app voor noodoproepen kan alleen de pincode van SIM1 wijzigen."</string>
+<string name="volte_not_supported_error">"Het is mogelijk dat de simkaart de VoLTE-service niet ondersteunt. Zet de VoLTE-schakelaar uit en probeer het opnieuw."</string>
+<string name="no_available_phone_accounts">"Geen oproep accounts beschikbaar"</string>
+<string name="enhanced_4g_lte_unuseable">"Het huidige VoLTE-netwerk heeft geen bereik. Moet VoLTE HD-oproepen worden uitgeschakeld?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Om videogesprekken in te schakelen, moet u de modus %s activeren in netwerkinstellingen."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Geavanceerd bellen"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G-bellen"</string>
+</resources>

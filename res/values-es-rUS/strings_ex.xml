@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"Videollamada"</string>
+<string name="labelAudioCF">"Avanzar llamada de audio"</string>
+<string name="labelVideoCF">"Avanzar llamada de video"</string>
+<string name="sum_cft_disabled">"Inhabilitada"</string>
+<string name="labelCFT">"Duración determinada del tiempo de transferencia"</string>
+<string name="start_time">"Hora de inicio"</string>
+<string name="stop_time">"Tiempo de terminación"</string>
+<string name="sum_cft_default_setting">"Sin establecer"</string>
+<string name="phonenumCFT_title">"Número para transferencia de llamadas"</string>
+<string name="messageCFT">"Número de duración determinada del tiempo de transferencia"</string>
+<string name="ActiveUnconCf">"Desvío de llamada incondicional"</string>
+<string name="ActiveConCf">"Desvío de llamada condicional"</string>
+<string name="CallForwarded">"Desvío de llamada"</string>
+<string name="CallWaiting">"Llamada en espera"</string>
+<string name="OutCallBarred">"Llamada saliente bloqueada"</string>
+<string name="InCallBarred">"Llamada entrante bloqueada"</string>
+<string name="ForwardedCall">"Llamada desviada"</string>
+<string name="CallHold">"Llamada en espera"</string>
+<string name="CallRetrieved">"Llamada recuperada"</string>
+<string name="MultiCall">"Conferencia"</string>
+<string name="IncomingCallForwarded">"Llamada entrante adicional desviada"</string>
+<string name="menu_add_to_contacts">"Añadir contacto"</string>
+<string name="select_link_title">"Elegir acción"</string>
+<string name="confirm_open_browser_dialog_title">"Mensaje"</string>
+<string name="confirm_open_browser_dialog_message">"¿Desea abrir el explorador web?"</string>
+<string name="turn_off_airplane_for_ss">"Desactive el modo avión para tener Servicio suplementario."</string>
+<string name="emergency_call">"Llamada de emergencia"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"Para realizar una llamada de emergencia, primero desactive el modo avión."</string>
+<string name="ip_dialing_setting">"Configuración de llamada IP"</string>
+<string name="edit_and_save_fdn">"Editar número de marcación fija"</string>
+<string name="delete_and_save_fdn">"Eliminar número de marcación fija"</string>
+<string name="call_fdn_number_by_sim">"Llamada"</string>
+<string name="vt_call_fdn_numberr_by_sim">"Video conferencia"</string>
+<string name="airplane_changed_on">"Modo de avión activado"</string>
+<string name="number_empty">"El número está vacío"</string>
+<string name="wait_message">"Espera un momento…"</string>
+<string name="unblock_pin2">"Desbloquear PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Ingrese el PUK2 para desbloquear su SIM"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> intento(s) restante(s))"</string>
+<string name="oldPin2_Label">"PIN2 antiguo (<xliff:g>%s</xliff:g> intento(s) restante(s))"</string>
+<string name="puk2_code_label">"Código tipo PUK2 (<xliff:g>%s</xliff:g> intento(s) restante(s))"</string>
+<string name="promptWordOne">"Queda(n)&#160;"</string>
+<string name="promptWordTwo">"&#160;vez(es)"</string>
+<string name="adn_full">"La lista FDN está llena"</string>
+<string name="fdn_invalid_name">"FDN no se ha actualizado debido a que el nombre no puede superar los 14 dígitos."</string>
+<string name="label_fdn">"Marcación fija"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"No hay SIM de Orange, el número es limitado, vuelva a intentar."</string>
+<string name="labelCFC">"Desactive todas las funciones de desvío de llamadas"</string>
+<string name="one_key_locked_notification">"Este tipo está DESBLOQUEADO, ¿desea bloquearlo?"</string>
+<string name="one_key_unlocked_notification">"Este tipo está BLOQUEADO, ¿desea desbloquearlo?"</string>
+<string name="one_key_unlocked">"Desbloquear"</string>
+<string name="one_key_locked">"Bloquear"</string>
+<string name="one_key_operation_success">"Operación realizada correctamente."</string>
+<string name="one_key_operation_unsuccess">"Operación fallida, ¡puede intentar de nuevo más tarde!"</string>
+<string name="one_key_query_unsuccess">"¡Pesquisa de tipo de bloqueo fallida!"</string>
+<string name="one_key_simlock_setting">"Configuración SIMLOCK"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Bloqueo de red"</item>
+<item>"Bloqueo de subgrupo de red"</item>
+<item>"Bloqueo de proveedor del servicio"</item>
+<item>"Bloqueo corporativo"</item>
+<item>"Bloqueo de SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"El propietario del dispositivo solo permite llamadas de emergencia."</string>
+<string name="change_pin_when_double_sim_card_info">"El marcador para emergencias solo puede modificar el código PIN de SIM1."</string>
+<string name="volte_not_supported_error">"Es posible que la tarjeta SIM no admita el servicio VoLTE. Apague el conmutador de VoLTE e intente nuevamente."</string>
+<string name="no_available_phone_accounts">"No hay cuentas de llamadas disponibles"</string>
+<string name="enhanced_4g_lte_unuseable">"Actualmente la red VoLTE está fuera de servicio. ¿Activar llamadas VoLTE HD?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Para activar llamadas de video, debe habilitar el modo %s en la configuración de red."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Llamadas avanzadas"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Llamadas 4G"</string>
+</resources>

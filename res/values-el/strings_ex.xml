@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">Βιντεοκλήση</string>
+<string name="labelAudioCF">"Προώθηση κλήσης ήχου"</string>
+<string name="labelVideoCF">"Προώθηση βιντεοκλήσης"</string>
+<string name="sum_cft_disabled">Έχει απενεργοποιηθεί</string>
+<string name="labelCFT">"Διάρκεια προώθησης"</string>
+<string name="start_time">"Ώρα έναρξης"</string>
+<string name="stop_time">"Διακοπή χρόνου"</string>
+<string name="sum_cft_default_setting">Δεν ορίστηκε</string>
+<string name="phonenumCFT_title">"Αριθμός προώθησης κλήσεων"</string>
+<string name="messageCFT">"Αριθμός διάρκειας προώθησης κλήσεων"</string>
+<string name="ActiveUnconCf">"Προώθηση κλήσεων άνευ όρων"</string>
+<string name="ActiveConCf">"Προώθηση κλήσεων υπό όρους"</string>
+<string name="CallForwarded">"Προώθηση κλήσης"</string>
+<string name="CallWaiting">Αναμονή κλήσεων</string>
+<string name="OutCallBarred">"Αποκλεισμός εξερχόμενων κλήσεων"</string>
+<string name="InCallBarred">"Εισερχόμενη κλήση αποκλείστηκε"</string>
+<string name="ForwardedCall">"Προωθημένη κλήση"</string>
+<string name="CallHold">"Κλήση σε αναμονή"</string>
+<string name="CallRetrieved">"Ανάκτηση κλήσης"</string>
+<string name="MultiCall">"Κλήση διάσκεψης"</string>
+<string name="IncomingCallForwarded">"Πρόσθετη προώθηση εισερχόμενης κλήσης"</string>
+<string name="menu_add_to_contacts">"Προσθήκη στα Άτομα"</string>
+<string name="select_link_title">"Επιλογή ενέργειας"</string>
+<string name="confirm_open_browser_dialog_title">Μήνυμα</string>
+<string name="confirm_open_browser_dialog_message">"Θα ανοίξει το πρόγραμμα περιήγησης, συνέχεια;"</string>
+<string name="turn_off_airplane_for_ss">"Απενεργοποιήστε τη λειτουργία πτήσης για Συμπληρωματικές υπηρεσίες."</string>
+<string name="emergency_call">Επείγουσα κλήση</string>
+<string name="turn_off_airplane_mode_for_emergency_call">Για να πραγματοποιήσετε μια επείγουσα κλήση, παρακαλούμε απενεργοποιήστε πρώτα τη λειτουργία πτήσης.</string>
+<string name="ip_dialing_setting">"Ρύθμιση Πληκτρολόγησης ΙΡ"</string>
+<string name="edit_and_save_fdn">Επεξεργασία αριθμού σταθερής κλήσης</string>
+<string name="delete_and_save_fdn">Διαγραφή αριθμού σταθερής κλήσης</string>
+<string name="call_fdn_number_by_sim">"Κλήση"</string>
+<string name="vt_call_fdn_numberr_by_sim">"Κλήση VT"</string>
+<string name="airplane_changed_on">Η λειτουργία πτήσης ενεργοποιήθηκε.</string>
+<string name="number_empty">"Ο αριθμός είναι κενός"</string>
+<string name="wait_message">Παρακαλώ περιμένετε…</string>
+<string name="unblock_pin2">"Ξεμπλοκάρισμα PIN2"</string>
+<string name="sum_fdn_unblock_pin2">"Εισάγετε τον PUK2 για να ξεμπλοκάρετε τη SIM σας"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> υπόλοιπες προσπάθειες(α))"</string>
+<string name="oldPin2_Label">"Παλιό PIN2 (<xliff:g>%s</xliff:g> υπόλοιπες προσπάθειες(α))"</string>
+<string name="puk2_code_label">"Εισάγετε κωδικό PUK2 (<xliff:g>%s</xliff:g> υπόλοιπες προσπάθειες(α))"</string>
+<string name="promptWordOne">Απομένουν&#160;</string>
+<string name="promptWordTwo">&#160;φορά(ές)</string>
+<string name="adn_full">"Η λίστα FDN είναι πλήρης"</string>
+<string name="fdn_invalid_name">"Το FDN δεν ενημερώθηκε επειδή η ονομασία δεν μπορεί να υπερβαίνει τα 14 ψηφία."</string>
+<string name="label_fdn">Αριθμοί σταθερής κλήσης</string>
+<string name="notification_channel_fdn">FDN</string>
+<string name="number_limited_message">"Δεν υπάρχει Πορτοκαλί SIM, ο αριθμός είναι περιορισμένος, δοκιμάστε ξανά."</string>
+<string name="labelCFC">"Απενεργοποιήστε όλες τις λειτουργίες προώθησης κλήσεων"</string>
+<string name="one_key_locked_notification">"Αυτό το είδος έχει ΞΕΚΛΕΙΔΩΘΕΙ, Θέλετε να το κλειδώσετε;" </string>
+<string name="one_key_unlocked_notification">"Αυτό το είδος έχει ΚΛΕΙΔΩΘΕΙ, Θέλετε να το ξεκλειδώσετε;" </string>
+<string name="one_key_unlocked">ΞΕΚΛΕΙΔΩΜΑ</string>
+<string name="one_key_locked">ΚΛΕΙΔΩΜΑ</string>
+<string name="one_key_operation_success">Επιτυχής ενέργεια.</string>
+<string name="one_key_operation_unsuccess">"Ανεπιτυχής λειτουργία, μπορείτε να προσπαθήσετε ξανά!" </string>
+<string name="one_key_query_unsuccess">"Το ερώτημα τύπου simlock απέτυχε!"</string>
+<string name="one_key_simlock_setting">"Ρύθμιση SIMLOCK" </string>
+<string-array name="one_key_sim_lock_type">
+<item>"Κλείδωμα δικτύου"</item>
+<item>"Κλείδωμα υποομάδας δικτύου"</item>
+<item>"Κλείδωμα παροχής υπηρεσιών"</item>
+<item>"Συλλογικό κλείδωμα"</item>
+<item>"Κλείδωμα κάρτας SIM"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">Από τον κάτοχο της συσκευής επιτρέπονται μόνο κλήσεις έκτακτης ανάγκης.</string>
+<string name="change_pin_when_double_sim_card_info">"Ο επιλογέας κλήσεων έκτακτης ανάγκης μπορεί να τροποποιήσει μόνο τον κωδικό PIN της SIM1."</string>
+<string name="volte_not_supported_error">"Η κάρτα SIM ενδέχεται να μην υποστηρίζει την υπηρεσία VoLTE, απενεργοποιήστε τον διακόπτη VoLTE και δοκιμάστε ξανά."</string>
+<string name="no_available_phone_accounts">"Δεν υπάρχουν διαθέσιμοι λογαριασμοί κλήσης"</string>
+<string name="enhanced_4g_lte_unuseable">"Το τρέχον δίκτυο VoLTE είναι εκτός υπηρεσίας, θέλετε να απενεργοποιήσετε τις κλήσεις VoLTE HD;"</string>
+<string name="enable_video_calling_dialog_auto_msg">"Για να ενεργοποιήσετε την κλήση βίντεο, χρειάζεται να ενεργοποιήσετε τη λειτουργία %s στις ρυθμίσεις δικτύου."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"Κλήσεις με προηγμένα χαρακτηριστικά"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"Κλήσεις 4G"</string>
+</resources>

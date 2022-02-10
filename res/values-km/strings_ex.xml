@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">ការហៅវីដេអូ</string>
+<string name="labelAudioCF">ការបង្វែរការហៅជាសម្លេង</string>
+<string name="labelVideoCF">ការបង្វែរការហៅជាវីដេអូ</string>
+<string name="sum_cft_disabled">បានបិទប្រើប្រាស់</string>
+<string name="labelCFT">រយៈពេលនៃការផ្ទេរការហៅ</string>
+<string name="start_time">"ពេលវេលាចាប់ផ្តើម"</string>
+<string name="stop_time">ពេលវេលាបញ្ចប់</string>
+<string name="sum_cft_default_setting">"មិនកំណត់"</string>
+<string name="phonenumCFT_title">លេខទូរស័ព្ទសម្រាបការផ្ទេរការហៅ</string>
+<string name="messageCFT">លេខទូរស័ព្ទដែលប្រើសម្រាប់រយៈពេលនៃការផ្ទេរការហៅ</string>
+<string name="ActiveUnconCf">"ចាប់ដំណើការការហៅដោយបានបង្វែរដែលគ្មានលក្ខខ័ណ្ឌ"</string>
+<string name="ActiveConCf">"ចាប់ដំណើការការហៅដោយបានបង្វែរដែលមានលក្ខខ័ណ្ឌ"</string>
+<string name="CallForwarded">"ការហៅដែលបានបង្វែរ"</string>
+<string name="CallWaiting">"ការ​រង់ចាំ​ការហៅ"</string>
+<string name="OutCallBarred">"ការហៅចេញត្រូវបានហាមប្រាម"</string>
+<string name="InCallBarred">ការហៅចូលត្រូវបានទប់ឃាត់</string>
+<string name="ForwardedCall">"ការហៅចេញដែលបានបង្វែរ"</string>
+<string name="CallHold">"ការហៅត្រូវបានផ្អាកសិន"</string>
+<string name="CallRetrieved"> ត្រឡប់មកនិយាយទូរស័ព្ទវិញ</string>
+<string name="MultiCall">សន្និសីទតាមហៅ</string>
+<string name="IncomingCallForwarded">"ការបង្វែរការហៅទូរស័ព្ទមកចូលបន្ថែមតាមបណ្តាញផ្សេងមួយទៀត"</string>
+<string name="menu_add_to_contacts">បន្ថែមទៅក្នុងទំនាក់ទំនង</string>
+<string name="select_link_title">"ជ្រើសរើសសកម្មភាព"</string>
+<string name="confirm_open_browser_dialog_title">សារ</string>
+<string name="confirm_open_browser_dialog_message">"តើត្រូវការបន្តការបើកកម្មវិធីរុករកឬ?"</string>
+<string name="turn_off_airplane_for_ss">"ដើម្បីប្រើប្រាស់សេវាកម្មបន្ថែមសូមបិទម៉ូដជិះយន្តហោះសិន។"</string>
+<string name="emergency_call">"ការហៅពេលមានអាសន្ន"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ដើម្បី​ធ្វើការ​ហៅ​ពេល​មាន​អាសន្ន សូម​បិទ​ទម្រង់​យន្តហោះសិន។"</string>
+<string name="ip_dialing_setting">ការកំណត់ការវាយលេខIP</string>
+<string name="edit_and_save_fdn">កែសម្រួលលេខទូរស័ព្ទហៅថេរ</string>
+<string name="delete_and_save_fdn">លុបចោលលេខទូរស័ព្ទហៅថេរ</string>
+<string name="call_fdn_number_by_sim">ហៅ</string>
+<string name="vt_call_fdn_numberr_by_sim">ការហៅតាមវីដេអូ</string>
+<string name="airplane_changed_on">"ម៉ូដលើយន្តហោះត្រូវបានបើក។"</string>
+<string name="number_empty">"លេខទទេ"</string>
+<string name="wait_message">សូមរង់ចាំ...</string>
+<string name="unblock_pin2">ដោះសោរលេខកូដPIN2</string>
+<string name="sum_fdn_unblock_pin2">"វាយបញ្ចូល PUK2 ដើម្បីដោះការរាំងខ្ទប់ SIM របស់អ្នក"</string>
+<string name="pin2_Label">"កូដPIN2 (នៅសល់ចំនួន<xliff:g>%s</xliff:g>ដង )"</string>
+<string name="oldPin2_Label">"កូដPIN2ចាស់(នៅសល់ចំនួន<xliff:g>%s</xliff:g> ដង)"</string>
+<string name="puk2_code_label">"វាយបញ្ចូលលេខកូដPUK2(នៅសល់ចំនួន<xliff:g>%s</xliff:g> ដង)"</string>
+<string name="promptWordOne">"នៅសល់n&#160;"</string>
+<string name="promptWordTwo">"&#160;ដង"</string>
+<string name="adn_full">"បញ្ជីFDNពេញហើយ"</string>
+<string name="fdn_invalid_name">FDNមិនត្រូវបានធ្វើបច្ចុប្បន្នភាពទេ ដោយសារតែឈ្មោះរបស់វាមិនអាចលើសពី១៤ខ្ទង់បានឡើយ។</string>
+<string name="label_fdn">លេខទូរស័ព្ទហៅថេរ</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"មិនមាន Orange SIM ទេ ចំនួនមានកំណត់ សូមសាកល្បងម្តងទៀត។"</string>
+<string name="labelCFC">"បិទលក្ខណៈពិសេសការបញ្ជូនការហៅទូរសព្ទបន្តទាំងអស់"</string>
+<string name="one_key_locked_notification">ប្រភេទបែបនេះត្រូវបានដោះសោរហើយ តើលោកអ្នកចង់ចាក់សោរវាឬ?</string>
+<string name="one_key_unlocked_notification">ប្រភេទបែបនេះត្រូវបានចាក់សោរហើយ តើលោកអ្នកចង់ដោះសោរវាឬ?</string>
+<string name="one_key_unlocked">"ដោះសោ"</string>
+<string name="one_key_locked">"ចាក់សោ"</string>
+<string name="one_key_operation_success">"ប្រតិបត្តិការបានជោគជ័យ។"</string>
+<string name="one_key_operation_unsuccess">ប្រតិបត្តិការបានបរាជ័យ សូមលោកអ្នកសាកល្បងម្តងទៀត!</string>
+<string name="one_key_query_unsuccess">បរាជ័យក្នុងការឆែករកប្រភេទសោរស៊ីមកាត</string>
+<string name="one_key_simlock_setting">ការកំណត់សោរស៊ីមកាត</string>
+<string-array name="one_key_sim_lock_type">
+<item>សោរបណ្តាញ</item>
+<item>សោរបណ្តាញរង</item>
+<item>សោរក្រុមហ៊ុនផ្តល់សេវា</item>
+<item>សោរក្រុមហ៊ុន</item>
+<item>សោរស៊ីមកាត</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ការហៅ​នៅ​ពេល​មាន​អាសន្ន​តែ​ប៉ុណ្ណោះ ត្រូវ​បាន​អនុញ្ញាត​ដោយ​ម្ចាស់​ឧបករណ៍។"</string>
+<string name="change_pin_when_double_sim_card_info">"មុខងារចុចហៅពេលអាសន្នអាចកែប្រែតែលេខកូដ PIN នៃ SIM1 ប៉ុណ្ណោះ។"</string>
+<string name="volte_not_supported_error">"SIM កាតអាចនឹងមិនគាំទ្រសេវាកម្ម VoLTE ទេ សូមបិទកុងតាក់ VoLTE ហើយសាកល្បងម្តងទៀត។"</string>
+<string name="no_available_phone_accounts">មិនមានគណនីការហៅណាដែលអាចប្រើប្រាស់បានទេ</string>
+<string name="enhanced_4g_lte_unuseable">"បណ្តាញ VoLTE បច្ចុប្បន្នគ្មានសេវាកម្មទេ ថាតើបិទការហៅទូរសព្ទជា HD តាមសេវា VoLTE ដែរឬទេ?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ដើម្បីបើក​ការហៅ​ជាវីដេអូ អ្នកចាំបាច់ត្រូវបើកម៉ូដ %s នៅក្នុងការកំណត់បណ្ដាញ។"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"ការហៅ​កម្រិត​ខ្ពស់"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"ការហៅទូរសព្ទ 4G"</string>
+</resources>

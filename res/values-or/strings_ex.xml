@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"ଭିଡିଓ ଡାକ"</string>
+<string name="labelAudioCF">"ଅଡ଼ିଓ କଲ୍‌ ଫର୍ୱାର୍ଡ଼"</string>
+<string name="labelVideoCF">"ଭିଡ଼ିଓ କଲ୍‌ ଫର୍ୱାର୍ଡ଼"</string>
+<string name="sum_cft_disabled">"ଅକ୍ଷମ କରାଯାଇଛି"</string>
+<string name="labelCFT">"ଅବଧି ଫର୍ୱାର୍ଡ଼"</string>
+<string name="start_time">"ଆରମ୍ଭ ସମୟ"</string>
+<string name="stop_time">"ଟାଇମ ବନ୍ଦକରନ୍ତୁ"</string>
+<string name="sum_cft_default_setting">"ସେଟ୍ ହୋଇ ନାହିଁ"</string>
+<string name="phonenumCFT_title">"କଲ୍‌ ଫର୍ୱାର୍ଡ଼ ନମ୍ବର"</string>
+<string name="messageCFT">"କଲ୍‌ ଅବଧି ଫର୍ୱାର୍ଡ଼ର ସଂଖ୍ୟା"</string>
+<string name="ActiveUnconCf">"ବିନା ସର୍ତ୍ତ ଡାକ ଆଗକୁ ପଠାଯାଇଛି"</string>
+<string name="ActiveConCf">"ସର୍ତ୍ତ ସହ ଡାକ ଆଗକୁ ପଠାଯାଇଛି"</string>
+<string name="CallForwarded">"ଡାକ ଆଗକୁ ପଠାଯାଇଛି"</string>
+<string name="CallWaiting">"ପ୍ରତୀକ୍ଷିତ ଡାକ"</string>
+<string name="OutCallBarred">"ବାହାରକୁ ଯାଉଥିବା ଡାକ ପ୍ରତିବନ୍ଧିତ କରାଯାଇଛି"</string>
+<string name="InCallBarred">"ଭିତରକୁ ଆସୁଥିବା ଡାକ ପ୍ରତିବନ୍ଧିତ କରାଯାଇଛି"</string>
+<string name="ForwardedCall">"ଆଗକୁ ପଠାଯାଇଥିବା ଡାକ"</string>
+<string name="CallHold">"ଡାକ ଅଟକାଯାଇଛି"</string>
+<string name="CallRetrieved">"ଡାକ ପୁନରୁଦ୍ଧାରିତ ହୋଇଛି"</string>
+<string name="MultiCall">"କନଫରେନ୍ସ କଲ୍"</string>
+<string name="IncomingCallForwarded">"ଭିତରକୁ ଆସୁଥିବା ଅତିରିକ୍ତ ଡାକ  ଆଗକୁ ପଠାଯାଇଛି"</string>
+<string name="menu_add_to_contacts">"ପିପୁଲ୍‌ରେ ଯୋଗକରନ୍ତୁ"</string>
+<string name="select_link_title">"ପଦକ୍ଷେପ ଚୟନ କରନ୍ତୁ"</string>
+<string name="confirm_open_browser_dialog_title">"ମେସେଜ"</string>
+<string name="confirm_open_browser_dialog_message">"ଏହା ବ୍ରାଉଜର ଖୋଲିବ, ଜାରି ରଖିବେ କି?"</string>
+<string name="turn_off_airplane_for_ss">"ଅନୁରୁପକ ପରିସେବା  କରିବା ପାଇଁ ଏୟାରପ୍ଲେନ ମୋଡ ବନ୍ଦ କରନ୍ତୁ |"</string>
+<string name="emergency_call">"ଜରୁରୀକାଳୀନ କଲ୍"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"ଆପାତକାଳୀନ କଲ କରିବା ପାଇଁ,ପ୍ରଥମେ ଫ୍ଲାଇଟ ମୋଡ ବନ୍ଦ କରନ୍ତୁ|"</string>
+<string name="ip_dialing_setting">"ଆଇପି ଡ଼ାଏଲ ସେଟିଂ"</string>
+<string name="edit_and_save_fdn">"ଫିକ୍ସଡ୍‌ ଡାଏଲିଂ ନମ୍ବରକୁ ସଂଶୋଧନ କରନ୍ତୁ"</string>
+<string name="delete_and_save_fdn">"ଫିକ୍ସଡ୍‌ ଡାଏଲିଂ ନମ୍ବରକୁ ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="call_fdn_number_by_sim">"କଲ୍‍"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT କଲ୍‌"</string>
+<string name="airplane_changed_on">"ଏଇରପ୍ଳେନ ରୀତି ଖୋଲା ଯାଇଛି।"</string>
+<string name="number_empty">"ନମ୍ବର ଖାଲି ଅଛି"</string>
+<string name="wait_message">"ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ..."</string>
+<string name="unblock_pin2">"PIN2 ଅନ୍‌ବ୍ଲକ୍‌ କରନ୍ତୁ"</string>
+<string name="sum_fdn_unblock_pin2">"ଆପଣଙ୍କ SIM ଅନ୍‍ବ୍ଲକ୍‍ କରିବାକୁ PUK2 ପ୍ରବେଶ କରନ୍ତୁ"</string>
+<string name="pin2_Label">"PIN2(<xliff:g>%s</xliff:g> ଅବଶିଷ୍ଟ ଉଦ୍ୟମ(ଗୁଡ଼ିକ))"</string>
+<string name="oldPin2_Label">"ପୁରୁଣା PIN2 (<xliff:g>%s</xliff:g> ଅବଶିଷ୍ଟ ଉଦ୍ୟମ(ଗୁଡ଼ିକ))"</string>
+<string name="puk2_code_label">"PUK2 କୋଡ଼ ଟାଇପ କରନ୍ତୁ (<xliff:g>%s</xliff:g> ଅବଶିଷ୍ଟ ଉଦ୍ୟମ(ଗୁଡ଼ିକ))"</string>
+<string name="promptWordOne">": ବଳକା ଅଛି"</string>
+<string name="promptWordTwo">": ଥର"</string>
+<string name="adn_full">"FDN ତାଲିକା ପୁର୍ଣ୍ଣ ଅଛି"</string>
+<string name="fdn_invalid_name">"FDN ଅପ୍‌ଡେଟ୍‌ ହୋ‌ଇନଥିଲା କାରଣ ନାମ 14ଟି ସଂଖ୍ୟା ଅତିକ୍ରମ କରିପାରିବ ନାହିଁ |"</string>
+<string name="label_fdn">"ଫିକ୍ସଡ୍‌ ଡାଏଲିଂ ନମ୍ବର"</string>
+<string name="notification_channel_fdn">"ଏଫଡିଏନ"</string>
+<string name="number_limited_message">"କୌଣସି ଅରେଞ୍ଜ SIM ନାହିଁ, ନମ୍ବର ସୀମିତ ହୋ‍ଇଛି, ଦୟାକରି ପୂନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |"</string>
+<string name="labelCFC">"ସମସ୍ତ କଲ୍‍ ଫର୍ୱାଡିଂ ବୈଶିଷ୍ଟଗୁଡ଼ିକ ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="one_key_locked_notification">"ଏହି ଟାଇପ୍‌ ଅନ୍‌ଲକ୍‌ ଅଛି, ଆପଣ ଏହାକୁ ଲକ୍‌ କରିବାକୁ ଚାହାଁନ୍ତିକି?"</string>
+<string name="one_key_unlocked_notification">"ଏହି ଟାଇପ୍‌ ଲକ୍‌ ଅଛି, ଆପଣ ଏହାକୁ ଅନ୍‌ଲକ୍‌ କରିବାକୁ ଚାହାଁନ୍ତିକି?"</string>
+<string name="one_key_unlocked">"ତାଲା ଖୋଲନ୍ତୁ"</string>
+<string name="one_key_locked">"ଲକ୍ କରନ୍ତୁ"</string>
+<string name="one_key_operation_success">"କାର୍ଯ୍ୟପରିଚାଳନା ସଫଲ ହୋ‍ଇଛି."</string>
+<string name="one_key_operation_unsuccess">"ଅପରେସନ୍‌ ଅସଫଳ, ଆପଣ ପୁନର୍ବାର ଚେଷ୍ଟା କରିପାରିବେ!"</string>
+<string name="one_key_query_unsuccess">"କ୍ୱେରି ସିମ୍‌ଲକ୍‌ ଟାଇପ୍‌ ବିଫଳହେଲା!"</string>
+<string name="one_key_simlock_setting">"ସିମ୍‌ଲକ୍‌ ସେଟିଂ"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"ନେଟୱାର୍କ ଲକ୍‌"</item>
+<item>"ନେଟୱାର୍କ ସବ୍‌ସେଟ୍‌ ଲକ୍‌"</item>
+<item>"ସର୍ଭିସ ପ୍ରଦାନକାରୀ ଲକ୍‌"</item>
+<item>"କର୍ପୋରେଟ୍‌ ଲକ୍‌"</item>
+<item>"SIM ଲକ୍‌"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ଡିଭାଇସ ମାଲିକ ଦ୍ୱାରା କେବଳ ଜରୁରିକାଳୀନ କଲ୍‌ଗୁଡ଼ିକ ଅନୁମୋଦିତ |"</string>
+<string name="change_pin_when_double_sim_card_info">"ଜରୁରୀକାଳୀନ ଡାୟଲର କେବଳ SIM1 ର ପିନ୍‍ କୋଡ ବଦଳାଇ ପାରେ |"</string>
+<string name="volte_not_supported_error">"SIM କାର୍ଡ VoLTE ସେବା ସମର୍ଥନ କରିନପାରେ, ଦୟାକରି VoLTE ସୁଇଚ ବନ୍ଦ କରନ୍ତୁ ଏବଂ ପୂନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |"</string>
+<string name="no_available_phone_accounts">"କୌଣସି ଉପଲବ୍ଧ କଲିଂ ଆକାଉଣ୍ଟ ନାହିଁ"</string>
+<string name="enhanced_4g_lte_unuseable">"ବର୍ତ୍ତମାନ VoLTE ନେଟୱାର୍କରେ କୌଣସି ସେବା ନାହିଁ, VoLTE HD କଲ୍‍ଗୁଡ଼ିକ ପାଇଁ ବନ୍ଦ କରିବେ କି?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"ଭିଡିଓ କଲିଂ ଚାଲୁ କରିବାକୁ, ଆପଣଙ୍କୁ ନେଟୱାର୍କ ସେଟିଂସରେ %sଲ୍‍ ମୋଡ୍‍ ସକ୍ରିୟ କରିବାକୁ ପଡ଼ିବ ।"</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"ବିକଶିତ କଲିଂ"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G କଲିଂ"</string>
+</resources>

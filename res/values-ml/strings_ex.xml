@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="video_call_forward_setting_category_header">"വീഡിയോ കോള്‍"</string>
+<string name="labelAudioCF">"ഓഡിയോ കോൾ ഫോർവേർഡ്"</string>
+<string name="labelVideoCF">"വീഡിയോ കോൾ ഫോർവേർഡ്"</string>
+<string name="sum_cft_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+<string name="labelCFT">"ഡ്യുറേഷന്‍ ഫോര്‍വേഡ്"</string>
+<string name="start_time">"തുടങ്ങുന്ന സമയം"</string>
+<string name="stop_time">"സ്റ്റോപ് സമയം"</string>
+<string name="sum_cft_default_setting">"സ്ഥാപിതമാക്കിയില്ല"</string>
+<string name="phonenumCFT_title">"കോള്‍ ഫോര്‍വേഡ് നമ്പര്‍"</string>
+<string name="messageCFT">"ഡ്യുറേഷന്‍ കോള്‍ ഫോര്‍വേഡിന്‍റെ എണ്ണം"</string>
+<string name="ActiveUnconCf">"കോള്‍ നിരുപാധികമായി തിരിച്ചുവിട്ടു"</string>
+<string name="ActiveConCf">"കോള്‍ സോപാധികമായി തിരിച്ചുവിട്ടു"</string>
+<string name="CallForwarded">"കോള്‍ തിരിച്ചുവിട്ടു"</string>
+<string name="CallWaiting">"കോള്‍ കാത്തിരിപ്പ്"</string>
+<string name="OutCallBarred">"ഔട്ട്ഗോയിങ്ങ് കോള്‍ തടയല്‍"</string>
+<string name="InCallBarred">"ഇന്‍കമിങ്ങ് കോള്‍ തടയല്‍"</string>
+<string name="ForwardedCall">"ഫോര്‍വേഡ് ചെയ്ത കോള്‍"</string>
+<string name="CallHold">"കോള്‍ ഉള്‍ക്കൊള്ളിച്ചിരിക്കുന്നു"</string>
+<string name="CallRetrieved">"കോള്‍ വീണ്ടെടുത്തിരിക്കുന്നു"</string>
+<string name="MultiCall">"കോണ്‍ഫറന്‍സ് കോള്‍"</string>
+<string name="IncomingCallForwarded">"കൂടുതലായ കോള്‍ ഫോര്‍വേഡ് ചെയ്യുന്നു"</string>
+<string name="menu_add_to_contacts">"ആളുകളിലേക്ക് ചേര്‍ക്കുക"</string>
+<string name="select_link_title">"പ്രവര്‍ത്തനം തെരഞ്ഞെടുക്കുക"</string>
+<string name="confirm_open_browser_dialog_title">"സന്ദേശം അയയ്ക്കുക"</string>
+<string name="confirm_open_browser_dialog_message">"ഇത് ബ്രൗസര്‍ തുറക്കും, തുടരണോ?"</string>
+<string name="turn_off_airplane_for_ss">"അനുബന്ധ സേവനം കാഴ്ചവയ്ക്കുന്നതിന്, ദയവായി എയർപ്ലെയ്ൻ മോഡ് ഓഫ് ചെയ്യുക."</string>
+<string name="emergency_call">"എമര്‍ജന്‍സി കോള്‍"</string>
+<string name="turn_off_airplane_mode_for_emergency_call">"അടിയന്തര കോൾ വിളിക്കാൻ ആദ്യം ഫ്ളൈറ്റ് മോഡ് ഓഫ് ചെയ്യുക."</string>
+<string name="ip_dialing_setting">"IPഡയല്‍ ക്രമീകരണങ്ങള്‍"</string>
+<string name="edit_and_save_fdn">"ഫിക്സഡ് ഡയലിങ്ങ് നമ്പര്‍ തിരുത്തുക"</string>
+<string name="delete_and_save_fdn">"ഫിക്സഡ് ഡയലിങ്ങ് നമ്പര്‍ നീക്കം ചെയ്യുക"</string>
+<string name="call_fdn_number_by_sim">"ഫോണ്‍ ചെയ്യുക"</string>
+<string name="vt_call_fdn_numberr_by_sim">"VT കോള്‍"</string>
+<string name="airplane_changed_on">"എയർപ്ലെയ്ൻ മോഡ് ഓൺ ആണ്"</string>
+<string name="number_empty">"നമ്പര്‍ ശൂന്യമാണ്"</string>
+<string name="wait_message">"ദയവായി കാത്തിരിക്കുക..."</string>
+<string name="unblock_pin2">"PIN2 തടസ്സം ഒഴിവാക്കുക"</string>
+<string name="sum_fdn_unblock_pin2">"നിങ്ങളുടെ SIM അൺലോക്ക് ചെയ്യുന്നതിന്, PUK2 നൽകുക"</string>
+<string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> അവശേഷിക്കുന്ന ശ്രമം(ങ്ങള്‍))"</string>
+<string name="oldPin2_Label">"പഴയ PIN2 (<xliff:g>%s</xliff:g> അവശേഷിക്കുന്ന ശ്രമം(ങ്ങള്‍))"</string>
+<string name="puk2_code_label">"PUK2 കോഡ് ടൈപ്പ് ചെയ്യുക (<xliff:g>%s</xliff:g> അവശേഷിക്കുന്ന ശ്രമം(ങ്ങള്‍))"</string>
+<string name="promptWordOne">"അവശേഷിക്കുന്നു&#160;"</string>
+<string name="promptWordTwo">"&#160;സമയം(ങ്ങള്‍)"</string>
+<string name="adn_full">"FDN ലിസ്റ്റ് പൂര്‍ണ്ണമാണ്"</string>
+<string name="fdn_invalid_name">"FDN അപ്ഡേറ്റ് ചെയ്തില്ല, കാരണം, പേരിൽ 14 അക്കങ്ങളിൽ കൂടുതൽ ഉണ്ടായിരിക്കാന്‍ പാടില്ല."</string>
+<string name="label_fdn">"ഫിക്സഡ് ഡയലിങ്ങ് നമ്പറുകള്‍"</string>
+<string name="notification_channel_fdn">"FDN"</string>
+<string name="number_limited_message">"Orange SIM ഇല്ല, നമ്പർ ലിമിറ്റ് ചെയ്യപ്പെട്ടിരിക്കുന്നു, ദയവായി വീണ്ടും ശ്രമിക്കുക."</string>
+<string name="labelCFC">"എല്ലാ കോൾ ഫോർവാഡിംഗ് സവിശേഷതകളും ഓഫ് ചെയ്യുക"</string>
+<string name="one_key_locked_notification">"ഈ ടൈപ്പ് അണ്‍ലോക്ക് ചെയ്തു,നിങ്ങള്‍ക്ക് ഇത് ലോക്ക് ചെയ്യണോ?"</string>
+<string name="one_key_unlocked_notification">"ഈ ടൈപ്പ് ലോക്ക് ചെയ്തു,നിങ്ങള്‍ക്ക് ഇത് അണ്‍ലോക്ക് ചെയ്യണോ?"</string>
+<string name="one_key_unlocked">"അണ്‍ലോക്ക്"</string>
+<string name="one_key_locked">"ലോക്ക്"</string>
+<string name="one_key_operation_success">"പ്രവർത്തനം വിജയകരമായി."</string>
+<string name="one_key_operation_unsuccess">"പ്രവര്‍ത്തനം വിജയകരമല്ല, നിങ്ങള്‍ക്ക് വീണ്ടും ശ്രമിക്കാം!"</string>
+<string name="one_key_query_unsuccess">"അന്വേഷണ സിം ലോക്ക് ടൈപ്പ് പരാജയം!"</string>
+<string name="one_key_simlock_setting">"സിംലോക്ക് ക്രമീകരണം"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"നെറ്റ്‍വര്‍ക്ക് ലോക്ക്"</item>
+<item>"നെറ്റ്‍വര്‍ക്ക്സബ്സെറ്റ് ലോക്ക്"</item>
+<item>"സേവനദാതാവ് ലോക്ക്"</item>
+<item>"കോര്‍പ്പറേറ്റ് ലോക്ക്"</item>
+<item>"SIM ലോക്ക്"</item>
+</string-array>
+<string name="mmi_not_allowed_user_restriction">"ഡിവൈസ് ഓണറിന് എമര്‍ജന്‍സി കോളുകള്‍ മാത്രം ചെയ്യാവുന്നതാണ്."</string>
+<string name="change_pin_when_double_sim_card_info">"SIM1-ന്റെ PIN കോഡ് മാത്രമേ എമർജൻസി ഡയലറിന് പരിഷ്കരിക്കാൻ സാധിക്കുകയുള്ളൂ."</string>
+<string name="volte_not_supported_error">"VoLTE സേവനം SIM കാർഡ് സപ്പോർട്ട് ചെയ്യില്ലായിരിക്കാം, ദയവായി VoLTE സ്വിച്ച് ഓഫ് ചെയ്തിട്ട് വീണ്ടും ശ്രമിക്കൂ."</string>
+<string name="no_available_phone_accounts">"കോളിംഗ് അക്കൌണ്ടുകള്‍ ലഭ്യമല്ല"</string>
+<string name="enhanced_4g_lte_unuseable">"നിലവിലുള്ള VoLTE നെറ്റുവർക്കിൽ സേവനം ഒന്നുമില്ല, VoLTE HD കോളുകൾ ഓഫ് ചെയ്യേണ്ടതുണ്ടോ?"</string>
+<string name="enable_video_calling_dialog_auto_msg">"വീഡിയോ കോളിംഗ് ഓൺ ചെയ്യുന്നതിന്, നെറ്റുവർക്ക് ക്രമീകരണങ്ങളിൽ %s മോഡ് നിങ്ങൾ ഓൺ ചെയ്യേണ്ടതാണ്."</string>
+<string name="enhanced_4g_lte_mode_title_advanced_calling">"അഡ്വാന്‍സ്ഡ് കോളിംഗ്"</string>
+<string name="enhanced_4g_lte_mode_title_4g_calling">"4G കോളിംഗ്"</string>
+</resources>
